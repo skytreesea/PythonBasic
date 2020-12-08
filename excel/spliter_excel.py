@@ -1,4 +1,4 @@
-#문장 나눠서 엑셀파일로 송출하기 
+#문장 나눠서 엑셀파일로 송출하기, 기본형 폴더명만 바꿔서 사용하면 됨, re.split 실습, openpyxl 실습
 import os
 from openpyxl import Workbook
 from openpyxl.cell import Cell
