@@ -41,11 +41,27 @@ a_html = '''
 '''
 href = re.findall('href=\"[a-z/\.:]+\"', a_html)
 name= re.findall('>[가-힣A-Za-z]+<',a_html)
+
+for i in href:
+    print(i) 
+#href=""는 불필요하니 없애고, url주소만 남겨놓고 싶음
+#하나의 리스트만 남겨놓는 방법
+#리스트 컴프리헨션
+animal = ['토끼', '말','사슴', '코끼리','하마'] 
+# 모든 요소에 '01'붙이고 싶을 때? 
+animal = [i+'01' for i in animal]
+#100 미만 숫자만 가진 리스트로 바꾸고 싶다면? 
+numbers =[12,233,34,33,44,53]
+numbers = [i for i in numbers if i < 100] # numbers의 각각 요소에 대하여 100보다 작을 경우에 list에 그대로 남겨두어라.
+print(numbers)
+#리스트 컴프리헨션 활용
 # 정규식으로 href 내용만 추출하기 
 for i in href:
     print(i) # 따옴표까지 같이 출력하기 
     print(i[5:]) # 
     print(i[5:].strip('\"')) 
+    
+
 
 href = [i[5:].strip('\"') for i in href]
 name = [i[1:-1] for i in name]
