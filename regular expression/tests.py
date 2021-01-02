@@ -7,6 +7,8 @@ print(re.findall('\d{6}-\d{7}', variables))
 sentences = '''나는 이런 논문을 봤습니다(Great, 2020). 이런 문장을 많이 봅니다(James, 2012). 이런 인용구가 흔합니다(이동민, 2020).'''
 # 문장 나누기 
 split_sentences = re.split('\.', sentences)
+print(split_sentences)
+
 print(re.findall('\(\D+\d{4}\)',sentences))
 # 리스트 컴프리헨션을 통한 변형
 results = re.findall('\(\D+\d{4}\)',sentences)
