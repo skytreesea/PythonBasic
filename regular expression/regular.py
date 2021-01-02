@@ -60,6 +60,7 @@ for i in range(len(name)):
     i += 1
 import csv, os
 os.chdir(r'D:\user\Documents\git hub\PythonBasic\csv')
-with open('save_info.csv','w') as f:
+# newline =''가 없으면 불필요한 공백을 한 행으로 인식하여 만듦
+with open('save_info.csv','w', newline='') as f:
     a=csv.writer(f, delimiter=',')
     a.writerows(new_total)
