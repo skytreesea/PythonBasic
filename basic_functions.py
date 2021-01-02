@@ -13,6 +13,8 @@ print("Hello, world")
 print('Hello, world! I am %d years old. My name is %s.'%(33, 'Changhyun'))
 age = 36
 print('I am %d years old' % age)
+# 포매팅 원리 
+print('I am {age} years old and live in {city}'.format(age = 4, city = 'Seoul'))
 
 # 유형의 기본만 알아봅시다. 
 # 정수 
@@ -139,4 +141,6 @@ print(average(the_list)+ 500)
 import os 
 print(os.listdir())
 os.chdir(r'D:\user\Documents\git hub\PythonBasic')
-print(os.listdir())
+f= open('make_a_new_file.txt',"w",encoding='utf-8')
+f.write('나는 새로운 파일을 만들었습니다.')
+f.close()
