@@ -1,10 +1,7 @@
-import usecsv, os 
-# 경로이동
-os.chdir(r'D:\user\Documents\git hub\PythonBasic\csv')
-# csv 형 파일 생성
-test_csv = [['국어', '영어','수학'], [90,80,100]]
-# 쓰기: usecsv.writecsv(파일명, 리스트명)
-usecsv.writecsv('making_csv.csv', test_csv)
-# 읽기: usecsv.opencsv(파일명)  -->  보통 특정객체로 저장해서 사용 
-new = usecsv.opencsv('making_csv.csv')
-print(new)
+import os 
+os.chdir(r'C:\Users\ERC\Documents\GitHub\PythonBasic\csv')
+import usecsv
+ad=[[1,2,3],['우리','나라','만세'],['나는','우리나라가','좋다']]
+usecsv.writecsv('new_write_file.csv',ad)
+total = usecsv.opencsv('new.csv')
+print(total)
