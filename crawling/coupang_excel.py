@@ -38,10 +38,6 @@ df = pd.DataFrame(info, columns=['상품명','가격','리뷰평점','리뷰수'
 df['가격']=df['가격'].str.replace(',', '').astype('int64')
 # 가격 높은 순으로 클립보드 저장
 df.sort_values(by = '가격', ascending = False).to_clipboard()
-<<<<<<< HEAD
 # 파일로 저장
 df.sort_values(by = '가격', ascending = False).to_excel(productName+'.xlsx',encoding='cp949')
-=======
-# 같은 원리로 엑셀파일로 저장
-df.sort_values(by = '가격', ascending = False).to_excel(productName+'.xls',encoding='cp949')
->>>>>>> 464ece35743fbd0ca11eb23e8fb49c2f68c7b4bf
+ 
