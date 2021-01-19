@@ -1,5 +1,4 @@
 #말뭉치 기본 분석 우리가 아는 시에서 명사만 추출하기 
-
 from konlpy.tag import *
 from konlpy.corpus import kolaw
 kkma = Kkma()
@@ -8,8 +7,11 @@ print(kolaw.fileids())
 ok = Okt()
  
 c = kolaw.open('constitution.txt').read()
-test = c[:500]
-jindale= '''내가 그의 이름을 불러 주기 전에는
+
+# 헌법 앞 부분에 있는 명사만 추출하기 
+print(ok.nouns(c[:200]))
+# kka(꼬꼬마)로 이춘수 꽃 형태소 추출하기
+flower= '''내가 그의 이름을 불러 주기 전에는
 그는 다만
 하나의 몸짓에 지나지 않았다
 
@@ -31,4 +33,4 @@ jindale= '''내가 그의 이름을 불러 주기 전에는
 잊혀지지 않는 하나의 의미가 되고 싶다.
 
 '''
-print(ok.nouns(jindale))
+print(kkma.morphs(flower))
