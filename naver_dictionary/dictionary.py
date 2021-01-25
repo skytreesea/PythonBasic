@@ -19,4 +19,4 @@ for word in words:
     total[word] = element
 
 df = pd.DataFrame(total).transpose()
-df.to_excel(r'D:\user\Documents\git hub\PythonBasic\naver_dictionary\dictionary.xls')
+df.to_clipboard()
