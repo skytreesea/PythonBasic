@@ -19,7 +19,7 @@ for item in total:
     try:
         soup = bs(item)
         for i in soup.find_all('div',{'id':'article-view-content-div'}):
-            with open(r'C:\Users\user\Pictures\Saved Pictures\\'+ item[-5:]+'.jpg','wb') as b:
+            with open(r'C:\Users\ERC\Pictures\Saved Pictures\\'+ item[-5:]+'.jpg','wb') as b:
                     # 파일을 열어 특정 파일을 jpg 형태로 저장한다
                     b.write(requests.get('https://www.sisain.co.kr'+i.find('img').get('src')).content)
     except:
