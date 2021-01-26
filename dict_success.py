@@ -3,7 +3,7 @@ import os , re, datetime, random, csv
 import pandas as pd 
 import requests
 from bs4 import BeautifulSoup as bs
-words= ['accept','lullaby','cloud']
+words= ['accept','lullaby','freak','greatest']
 
 
 for i in words:
@@ -11,4 +11,4 @@ for i in words:
     headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
     soup = bs(requests.get(url + i , headers = headers).text, 'lxml')
     for i in soup.find_all('p'):
-        print(i.text.replace('/n',''))
+        print(re.sub('          ','',i.text))
