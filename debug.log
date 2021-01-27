@@ -1,1 +1,3 @@
 [0127/084347.710:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0127/085628.716:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0127/085628.717:ERROR:exception_snapshot_win.cc(99)] thread ID 22912 not found in process
