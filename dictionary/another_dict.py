@@ -1,4 +1,4 @@
-#네이버 사전 예문 크롤링 기본형
+#다음 사전 예문 크롤링 기본형
 import os , re, datetime, random, csv
 import requests
 from bs4 import BeautifulSoup 
