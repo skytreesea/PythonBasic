@@ -32,9 +32,11 @@ def writecsv(filename, the_list):
 
 def switch(listName):
     for i in listName:        
-        for j in i:
+        for num, j in enumerate(i):
             try:
-                i[i.index(j)] = float(re.sub(',','',j))
+                i[i[num]] = float(re.sub(',','',j))
             except:
                 pass
     return listName
+a = [['1','2','3'],['2','3','5']] 
+print(switch(a))

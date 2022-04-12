@@ -1,5 +1,5 @@
 #다음 사전 예문 크롤링 기본형
-import os , re, datetime, random, csv
+import os  
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup 
