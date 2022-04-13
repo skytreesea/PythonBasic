@@ -36,7 +36,7 @@ while t < len(years):
 # choicelist = ['상수도','하수도','관광공사','공단']
 # df2['소분류'] = np.select(conditionlist, choicelist, default='Not Specified')    
 
-df3 = pd.read_csv(r'C:\Users\ERC\Documents\김창현\데이터\basic erc.csv', encoding = 'cp949')
+df3 = pd.read_csv(r'C:\Users\user\Documents\지방공기업평가원_김창현\연구\파이썬을 활용한 연구개발\basic erc.csv', encoding = 'cp949')
 pd.merge(df2, df3).to_clipboard()
 # df2.to_clipboard()
 
