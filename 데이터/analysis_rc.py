@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import statsmodels.formula.api as smf
 import matplotlib.pyplot as plt  
 from scipy import stats
-df = pd.read_csv(r'C:\Users\ERC\Documents\GitHub\PythonBasic\데이터\rc_grand.csv')
+df = pd.read_csv(r'C:\Users\user\Documents\PythonBasic\데이터\rc_grand.csv')
 
 print( 
 df[(df['공기업유형']=='기타공사')].groupby('수도권여부')['경상수지비율'].describe().transpose() 
