@@ -13,13 +13,7 @@ titles = parsed_page.xpath("//div[@class='cont_thumb']").css("a").map{|link| lin
 links = parsed_page.xpath("//div[@class='cont_thumb']").css("a").map{|link| link["href"]} 
 
 puts links
-=begin
-(1..15).each do |t|
-    puts titles[t]
-    parsed_article = Nokogiri::HTML(URI.open(links[t],{ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}))
-    puts parsed_article.css('p').text
-end
-=end
+ 
  
 
 
