@@ -1,0 +1,104 @@
+import secrets
+import string
+import re
+from fastapi import BackgroundTasks
+from sqlalchemy.orm import Session
+#
+from app import schemas
+#from app.database import crud, models
+#
+from app.error import exceptions
+from bs4 import BeautifulSoup
+import requests
+
+headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
+
+def purify(s):
+    # 문자열 s에서 ['kaist', '카이스트', '가이스트'] 중 하나가 있으면 'KAIST'로 변환하여 반환하는 함수
+    s = s.lower()
+    # ['kaist', '카이스트', '가이스트'] 중 하나가 있으면 'KAIST'로 변환합니다.
+    for keyword in ['kaist', '카이스트', '가이스트','Korea Advanced Institute of Science and Technology']:
+        s = s.replace(keyword, 'KAIST')
+    for keyword in ['포항공대', '포스텍', 'postech']:
+        s = s.replace(keyword, '포항공과')
+    for keyword in ['서울태', '서울ㄷ', 'snu','서울대학','서울대학교']:
+        s = s.replace(keyword, '서울대')
+    return s
+      
+def get_papers(schema: schemas.PapersSearchIn) -> schemas.PaperSearchOut:
+    author = schema.name
+    #학교 이름을 잘못 입력한 경우에 대비하여 
+    authority = purify(schema.university)
+    url = 'http://www.riss.kr/search/Search.do?isDetailSearch=N&searchGubun=true&viewYn=OP&query='+ author +'&queryText=&iStartCount=0&iGroupView=5&icate=all&colName=bib_t&exQuery=&exQueryText=&order=%2FDESC&onHanja=false&strSort=RANK&pageScale=1000'
+    #연도 필더링 테스트
+    year_test = '2014'
+    year_test_list = ['2014','2015','2019']
+    success, fail, success_journal = 0, 0, 0
+    items = []
+
+    soup = BeautifulSoup(requests.get(url, headers = headers).text, 'html.parser')
+
+    #학위논문
+    for row in soup.select('div.srchResultListW > ul > li'):
+        data = {}
+        try:
+            tmp_etcs = row.select("p.etc > span")
+            name = row.select_one("span.writer").text
+            if name == author and tmp_etcs[2].text in year_test_list and re.search(authority, row.select_one("span.assigned").text): #조건 테스트: and tmp_etcs[2].text == year_test
+                newData = schemas.PaperItem(
+                    title=row.select_one("p.title").text,
+                    author=name,
+                    university=authority,
+                    year=tmp_etcs[2].text if len(tmp_etcs)>2 else None,
+                    gubun=tmp_etcs[3].text if len(tmp_etcs)>3 else None, #박사/석사 구분 HTML 추가 필요
+                    link='http://www.riss.kr' + row.select_one("p.title > a").attrs["href"]
+            )
+                items.append(newData)
+                success += 1
+        except:
+            fail += 1
+        print(f'학위논문성공 {success}')
+        print(f'학위논문실패 {fail}')
+    return ret
+
+
+def get_papers_journal(schema: schemas.PapersJournalSearchIn) -> schemas.PaperSearchOut:
+    author = schema.name
+    # 학술논문
+    url2 = 'http://www.riss.kr/search/Search.do?isDetailSearch=N&searchGubun=true&viewYn=OP&queryText=&strQuery=' + author + '&exQuery=regnm%3AKCI%EB%93%B1%EC%9E%AC%E2%97%88regnm%3AKCI%EB%93%B1%EC%9E%AC%ED%9B%84%EB%B3%B4%E2%97%88&exQueryText=%EB%93%B1%EC%9E%AC%EC%A0%95%EB%B3%B4+%5BKCI%EB%93%B1%EC%9E%AC%5D%40%40regnm%3AKCI%EB%93%B1%EC%9E%AC%E2%97%88%EB%93%B1%EC%9E%AC%EC%A0%95%EB%B3%B4+%5BKCI%EB%93%B1%EC%9E%AC%ED%9B%84%EB%B3%B4%5D%40%40regnm%3AKCI%EB%93%B1%EC%9E%AC%ED%9B%84%EB%B3%B4%E2%97%88&order=%2FDESC&onHanja=false&strSort=RANK&p_year1=&p_year2=&iStartCount=0&orderBy=&mat_type=&mat_subtype=&fulltext_kind=&t_gubun=&learning_type=&ccl_code=&inside_outside=&fric_yn=&image_yn=&gubun=&kdc=&ttsUseYn=&l_sub_code=&fsearchMethod=search&sflag=1&isFDetailSearch=N&pageNumber=1&resultKeyword=%EA%B9%80%EC%B0%BD%ED%98%84&fsearchSort=&fsearchOrder=&limiterList=&limiterListText=&facetList=&facetListText=&fsearchDB=&icate=re_a_kor&colName=re_a_kor&pageScale=1000&isTab=Y&regnm=&dorg_storage=&language=&language_code=&clickKeyword=&relationKeyword=&query=' + author
+    # 연도 필더링 테스트
+    year_test = '2014'
+    year_test_list = ['2014', '2015', '2019']
+    items = []
+    soup = BeautifulSoup(requests.get(url2, headers=headers).text, 'html.parser')
+    success, fail, success_journal = 0, 0, 0
+    items = []
+
+    #학술지 논문: KCI만
+    for row in soup.select('div.srchResultListW > ul > li'):
+        try:
+            tmp_etcs = row.select("p.etc > span")
+            name = row.select_one("span.writer").text
+            authority = row.select_one("span.assigned").text
+            if name == author and tmp_etcs[2].text == year_test :
+                newData = schemas.PaperItem(
+                    title=row.select_one("p.title").text,
+                    author=name,
+                    university=authority,
+                    year=tmp_etcs[2].text if len(tmp_etcs)>2 else None,
+                    gubun=tmp_etcs[3].text if len(tmp_etcs)>3 else None,
+                    link='http://www.riss.kr' + row.select_one("p.title > a").attrs["href"]
+            )
+                items.append(newData)
+            success_journal += 1
+        except:
+            fail += 1
+            #학술지 논문
+    ret = schemas.PaperSearchOut(
+        items=items,
+        success=success,
+        fail=fail,
+    )
+    print(f'학술지성공 {success}')
+    print(f'학술지실패 {fail}')
+    return ret

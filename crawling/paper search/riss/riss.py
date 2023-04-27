@@ -11,7 +11,7 @@ total = []
 for i in soup.find_all('div',{'class':'cont'}):
     new = [i.find('p',{'class':'title'}).text, i.find('p',{'class':'etc'}).text]
     total.append(new)
-# control-v를 하면 어디서든 붙여넣을 수 있도록 클립보드로 저장됨
-import pandas 
+
+import pandas  
 df = pandas.DataFrame(total)
 df.to_clipboard()
