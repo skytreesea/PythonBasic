@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests 
-
+#학술논문 크롤링(not 학위논문 )
 headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
 
 def purify(s):
@@ -21,7 +21,7 @@ def get_papers(author):
     #author = schema.name
     #birth_year = schema.birth_year # 나중에 던져주세요(지금은 디폴트입니다)
     #gubun = schema.gubun #처음에는 구분에서 국내석사만 검색 --> 국내석사 정보 취득 후 국내박사 -->(추후) 외국박사까지
-    url = 'http://www.riss.kr/search/Search.do?isDetailSearch=Y&searchGubun=true&viewYn=OP&sflag=1&fsearchMethod=searchDetail&isFDetailSearch=N&colName=re_a_kor&field1=znTitle&keyword1=&op1=AND&field2=znCreator&keyword2='+author+'&op2=AND&field3=znSubject&keyword3=&op3=AND&field4=znPublisher&keyword4=&op4=AND&field5=znAbstract&keyword5=&p_year1=&p_year2=&language=&l_sub_code='
+    url = 'http://www.riss.kr/search/Search.do?isDetailSearch=Y&searchGubun=true&viewYn=OP&query=&queryText=znCreator%2C'+author+'&iStartCount=0&iGroupView=5&icate=all&colName=re_a_kor&exQuery=&exQueryText=&order=%2FDESC&onHanja=false&strSort=RANK&pageScale=200&orderBy=&fsearchMethod=searchDetail&isFDetailSearch=N&sflag=1&searchQuery=&fsearchSort=&fsearchOrder=&limiterList=&limiterListText=&facetList=&facetListText=&fsearchDB=&resultKeyword=&pageNumber=1&p_year1=&p_year2=&dorg_storage=&mat_type=&mat_subtype=&fulltext_kind=&t_gubun=&learning_type=&language_code=&ccl_code=&language=&inside_outside=&fric_yn=&image_yn=&regnm=&gubun=&kdc=&ttsUseYn='
 
     #연도 필더링 테스트
     success, fail= 0, 0

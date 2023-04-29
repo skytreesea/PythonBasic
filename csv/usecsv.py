@@ -38,5 +38,4 @@ def switch(listName):
             except:
                 pass
     return listName
-a = [['1','2','3'],['2','3','5']] 
-print(switch(a))
+ 

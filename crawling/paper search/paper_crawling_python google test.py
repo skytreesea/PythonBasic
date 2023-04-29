@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests 
 import re
 #검색할 저자 이름
-Name = input("검색할 저자 이름을 입력하세요.")
+Name = '윤세찬'
 
 headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
  
