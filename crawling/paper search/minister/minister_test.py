@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re
-author = '이소연'
+author = '윤세찬'
 
 # 두 리스트가 있을 때 이것을 dataset으로 만들어주는 코드 필요
 def make_list_to_dict(list1, list2):
@@ -29,14 +29,19 @@ def get_paper_minister(name):
     # Loop through all <item> tags
     try:
         for recode in soup.find_all('recode'):
+            #print(recode)
             for i in recode.find_all('item'):
                 if i.find('name').text == '지도교수':
-                    print(recode)
-                    newData = make_list_to_dict(
-                        [i.text for i in recode.find_all('name')],
-                        [remove_tags(i.text) for i in recode.find_all('value')]
-                    ) 
-                    title=newData['지도교수']
+                    newData= make_list_to_dict(       [i.text for i in recode.find_all('name')],
+                        [remove_tags(i.text) for i in recode.find_all('value')])
+                    print(newData)
+                    print(newData['제어번호'])
+               #     newData = make_list_to_dict(
+                #        [i.text for i in recode.find_all('name')],
+                #        [remove_tags(i.text) for i in recode.find_all('value')]
+                  #  )
+                         
+                    #title=newData['지도교수']
                         #author=newData['지도교수'],
                         #university=newData['지도교수'],
                         #norm_university=newData['지도교수'],
@@ -44,8 +49,8 @@ def get_paper_minister(name):
                         #gubun=newData['지도교수'],  # 박사/석사 구분 HTML 추가 필요
                         #link=newData['지도교수']
                     
-                    success += 1
-                    data.append(newData)
+                    #success += 1
+                    #data.append(newData)
     except:
         print('Grieve.')
     return data
