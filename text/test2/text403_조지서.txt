@@ -1,0 +1,6 @@
+name : 조지서
+age : 39
+e-mail : p9wsqp3r@bhban.com
+division : vg7
+telephone : 010-5839-5358
+sex : male

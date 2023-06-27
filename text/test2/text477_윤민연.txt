@@ -1,0 +1,6 @@
+name : 윤민연
+age : 89
+e-mail : eo2asflx@bhban.com
+division : m1m
+telephone : 010-4089-6140
+sex : male

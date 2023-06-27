@@ -1,0 +1,6 @@
+name : 김윤진
+age : 31
+e-mail : 3bdz8lu9@bhban.com
+division : mbo
+telephone : 010-1731-.517
+sex : female

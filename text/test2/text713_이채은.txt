@@ -1,0 +1,6 @@
+name : 이채은
+age : 22
+e-mail : u53cdqfg@bhban.com
+division : ts4
+telephone : 010-5322-3153
+sex : male

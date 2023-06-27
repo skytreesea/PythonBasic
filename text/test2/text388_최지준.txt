@@ -1,0 +1,6 @@
+name : 최지준
+age : 37
+e-mail : ex97zzl1@bhban.com
+division : 5et
+telephone : 010-3637-4136
+sex : male

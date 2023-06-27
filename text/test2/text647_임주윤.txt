@@ -1,0 +1,6 @@
+name : 임주윤
+age : 71
+e-mail : gd63m7fh@bhban.com
+division : ix4
+telephone : 010-0571-7405
+sex : female

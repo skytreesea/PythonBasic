@@ -1,0 +1,6 @@
+name : 최현윤
+age : 42
+e-mail : ib79k6fr@bhban.com
+division : sxn
+telephone : 010-8642-7986
+sex : male

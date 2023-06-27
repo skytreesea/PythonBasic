@@ -1,0 +1,6 @@
+name : 윤도아
+age : 66
+e-mail : 0zn2zgst@bhban.com
+division : mrr
+telephone : 010-1766-1017
+sex : female

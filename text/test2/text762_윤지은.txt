@@ -1,0 +1,6 @@
+name : 윤지은
+age : 61
+e-mail : zt9mx85p@bhban.com
+division : cxm
+telephone : 010-3633-7236
+sex : female

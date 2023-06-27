@@ -1,0 +1,6 @@
+name : 김하호
+age : 73
+e-mail : xpz6thv5@bhban.com
+division : z2u
+telephone : 010-7073-8270
+sex : male

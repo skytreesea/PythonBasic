@@ -1,0 +1,6 @@
+name : 이지원
+age : 91
+e-mail : yfii86t3@bhban.com
+division : yog
+telephone : 010-6791-5967
+sex : female

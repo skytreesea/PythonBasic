@@ -1,0 +1,6 @@
+name : 정지연
+age : 68
+e-mail : ob9c1x1c@bhban.com
+division : sym
+telephone : 010-0768-4707
+sex : female

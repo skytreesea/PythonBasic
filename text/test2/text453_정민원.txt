@@ -1,0 +1,6 @@
+name : 정민원
+age : 17
+e-mail : l8ela6y3@bhban.com
+division : gwz
+telephone : 010-7917-9479
+sex : female

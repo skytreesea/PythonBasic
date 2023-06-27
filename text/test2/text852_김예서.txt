@@ -1,0 +1,6 @@
+name : 김예서
+age : 96
+e-mail : uvmvg03i@bhban.com
+division : s2r
+telephone : 010-7396-9473
+sex : male

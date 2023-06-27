@@ -1,0 +1,6 @@
+name : 조지서
+age : 55
+e-mail : obqzomzn@bhban.com
+division : wzu
+telephone : 010-8655-7186
+sex : female

@@ -1,0 +1,6 @@
+name : 강예은
+age : 96
+e-mail : mpe95fk9@bhban.com
+division : wqp
+telephone : 010-9396-0293
+sex : male

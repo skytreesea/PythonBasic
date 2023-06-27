@@ -1,0 +1,6 @@
+name : 조지원
+age : 54
+e-mail : z03lt07k@bhban.com
+division : h39
+telephone : 010-2754-3327
+sex : female

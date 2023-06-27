@@ -1,0 +1,6 @@
+name : 최채아
+age : 22
+e-mail : yqzyokg5@bhban.com
+division : g2l
+telephone : 010-9922-1999
+sex : female

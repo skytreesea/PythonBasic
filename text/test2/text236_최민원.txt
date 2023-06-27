@@ -1,0 +1,6 @@
+name : 최민원
+age : 04
+e-mail : hl38ktbq@bhban.com
+division : mqf
+telephone : 010-9904-4199
+sex : female

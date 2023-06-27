@@ -1,0 +1,6 @@
+name : 강윤은
+age : 38
+e-mail : dsa7mkn0@bhban.com
+division : qz1
+telephone : 010-2138-1121
+sex : male

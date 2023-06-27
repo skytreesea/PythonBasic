@@ -1,0 +1,6 @@
+name : 이윤우
+age : 37
+e-mail : a1b4lgn2@bhban.com
+division : h38
+telephone : 010-3637-3136
+sex : female

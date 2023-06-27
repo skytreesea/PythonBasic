@@ -1,0 +1,6 @@
+name : 임예후
+age : 23
+e-mail : rztz4ywc@bhban.com
+division : t68
+telephone : 010-9223-0792
+sex : female

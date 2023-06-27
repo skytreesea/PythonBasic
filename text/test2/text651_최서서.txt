@@ -1,0 +1,6 @@
+name : 최서서
+age : 79
+e-mail : 6og7phy9@bhban.com
+division : lbc
+telephone : 010-0479-7704
+sex : female

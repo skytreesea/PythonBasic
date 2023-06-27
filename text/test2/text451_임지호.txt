@@ -1,0 +1,6 @@
+name : 임지호
+age : 34
+e-mail : 425llxgr@bhban.com
+division : gwx
+telephone : 010-7434-9274
+sex : female

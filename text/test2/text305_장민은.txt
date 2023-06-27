@@ -1,0 +1,6 @@
+name : 장민은
+age : 03
+e-mail : ifsf3cp9@bhban.com
+division : 23r
+telephone : 010-2403-7424
+sex : female

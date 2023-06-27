@@ -1,0 +1,6 @@
+name : 박지준
+age : 07
+e-mail : 647ivml6@bhban.com
+division : q59
+telephone : 010-2907-4229
+sex : male

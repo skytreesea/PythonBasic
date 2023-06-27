@@ -1,0 +1,6 @@
+name : 박예준
+age : 28
+e-mail : snb8l4w1@bhban.com
+division : dat
+telephone : 010-0028-9300
+sex : female

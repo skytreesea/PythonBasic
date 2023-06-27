@@ -1,0 +1,6 @@
+name : 임지진
+age : 47
+e-mail : 2icngqqf@bhban.com
+division : yd1
+telephone : 010-3647-6936
+sex : female

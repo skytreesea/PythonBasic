@@ -1,0 +1,6 @@
+name : 임지연
+age : 57
+e-mail : 7wcpcxiz@bhban.com
+division : lg6
+telephone : 010-8657-1386
+sex : female

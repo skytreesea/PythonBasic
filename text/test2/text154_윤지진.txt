@@ -1,0 +1,6 @@
+name : 윤지진
+age : 97
+e-mail : hdy3kclb@bhban.com
+division : 9o5
+telephone : 010-1097-3510
+sex : female

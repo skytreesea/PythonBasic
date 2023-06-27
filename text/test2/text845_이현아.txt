@@ -1,0 +1,6 @@
+name : 이현아
+age : 54
+e-mail : zgkiatpe@bhban.com
+division : xwi
+telephone : 010-3754-4237
+sex : female

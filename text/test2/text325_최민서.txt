@@ -1,0 +1,6 @@
+name : 최민서
+age : 12
+e-mail : zgg5uezm@bhban.com
+division : w3s
+telephone : 010-0912-4909
+sex : female

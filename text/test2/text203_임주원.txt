@@ -1,0 +1,6 @@
+name : 임주원
+age : 57
+e-mail : b1ghezfl@bhban.com
+division : 1zp
+telephone : 010-2957-3929
+sex : female

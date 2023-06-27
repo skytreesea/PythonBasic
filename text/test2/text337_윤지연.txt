@@ -1,0 +1,6 @@
+name : 윤지연
+age : 21
+e-mail : 6ineh8m8@bhban.com
+division : x6c
+telephone : 010-0321-5003
+sex : female

@@ -1,0 +1,6 @@
+name : 이도아
+age : 28
+e-mail : q4acehf8@bhban.com
+division : mdp
+telephone : 010-8728-8587
+sex : male

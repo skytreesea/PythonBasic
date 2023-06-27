@@ -1,0 +1,6 @@
+name : 김민윤
+age : 72
+e-mail : utcs4252@bhban.com
+division : zmd
+telephone : 010-9072-1490
+sex : female

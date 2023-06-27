@@ -1,0 +1,6 @@
+name : 김윤원
+age : 83
+e-mail : 2zvsb0le@bhban.com
+division : vsh
+telephone : 010-3383-0933
+sex : male

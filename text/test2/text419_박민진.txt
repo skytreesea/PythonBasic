@@ -1,0 +1,6 @@
+name : 박민진
+age : 26
+e-mail : p25frc6y@bhban.com
+division : cf1
+telephone : 010-2726-6827
+sex : female

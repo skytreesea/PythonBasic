@@ -1,0 +1,6 @@
+name : 최서아
+age : 38
+e-mail : 452b0eoy@bhban.com
+division : z64
+telephone : 010-8638-7286
+sex : male

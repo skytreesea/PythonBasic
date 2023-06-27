@@ -1,0 +1,6 @@
+name : 정현준
+age : 02
+e-mail : zrkb0lwm@bhban.com
+division : f4b
+telephone : 010-2402-7524
+sex : female

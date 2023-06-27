@@ -1,0 +1,6 @@
+name : 윤지은
+age : 32
+e-mail : ar71wrtu@bhban.com
+division : o6a
+telephone : 010-4932-3749
+sex : male

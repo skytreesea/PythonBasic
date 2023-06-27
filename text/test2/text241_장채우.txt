@@ -1,0 +1,6 @@
+name : 장채우
+age : 07
+e-mail : r1emm1vs@bhban.com
+division : ffe
+telephone : 010-2907-4229
+sex : female

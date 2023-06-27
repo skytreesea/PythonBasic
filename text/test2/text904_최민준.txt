@@ -1,0 +1,6 @@
+name : 최민준
+age : 91
+e-mail : 9cymk9yz@bhban.com
+division : ust
+telephone : 010-6991-8969
+sex : male

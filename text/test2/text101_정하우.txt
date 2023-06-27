@@ -1,0 +1,6 @@
+name : 정하우
+age : 12
+e-mail : 4t3lv4f0@bhban.com
+division : zp1
+telephone : 010-6012-3060
+sex : male

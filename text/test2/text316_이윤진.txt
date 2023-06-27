@@ -1,0 +1,6 @@
+name : 이윤진
+age : 37
+e-mail : h5yvdxyk@bhban.com
+division : y93
+telephone : 010-2437-8324
+sex : male

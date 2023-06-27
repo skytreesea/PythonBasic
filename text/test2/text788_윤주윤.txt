@@ -1,0 +1,6 @@
+name : 윤주윤
+age : 48
+e-mail : sg9eh7sb@bhban.com
+division : vu2
+telephone : 010-1148-9311
+sex : female

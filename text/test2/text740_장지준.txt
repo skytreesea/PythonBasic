@@ -1,0 +1,6 @@
+name : 장지준
+age : 76
+e-mail : cyipormk@bhban.com
+division : c42
+telephone : 010-6076-5460
+sex : female

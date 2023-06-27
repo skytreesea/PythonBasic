@@ -1,0 +1,6 @@
+name : 윤채윤
+age : 02
+e-mail : q5t9nd8y@bhban.com
+division : by3
+telephone : 010-1002-1610
+sex : male

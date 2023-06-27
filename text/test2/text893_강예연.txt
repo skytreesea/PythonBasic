@@ -1,0 +1,6 @@
+name : 강예연
+age : 88
+e-mail : 38fk2dx9@bhban.com
+division : 0ls
+telephone : 010-6988-8069
+sex : male

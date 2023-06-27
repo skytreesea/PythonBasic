@@ -1,0 +1,6 @@
+name : 강서진
+age : 97
+e-mail : dn79llhz@bhban.com
+division : 9nn
+telephone : 010-8897-9188
+sex : female

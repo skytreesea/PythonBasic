@@ -1,0 +1,6 @@
+name : 강하준
+age : 15
+e-mail : b64nwfz3@bhban.com
+division : yvn
+telephone : 010-1015-3010
+sex : male

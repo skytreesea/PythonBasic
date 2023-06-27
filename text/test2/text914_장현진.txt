@@ -1,0 +1,6 @@
+name : 장현진
+age : 82
+e-mail : gc0n6ix1@bhban.com
+division : z54
+telephone : 010-3282-9832
+sex : male

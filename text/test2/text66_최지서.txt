@@ -1,0 +1,6 @@
+name : 최지서
+age : 59
+e-mail : r8ex2nzp@bhban.com
+division : 3uf
+telephone : 010-7759-.277
+sex : male

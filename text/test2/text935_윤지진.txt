@@ -1,0 +1,6 @@
+name : 윤지진
+age : 07
+e-mail : 4ap3c28w@bhban.com
+division : 1x1
+telephone : 010-1007-1510
+sex : female

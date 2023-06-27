@@ -1,0 +1,6 @@
+name : 임민준
+age : 44
+e-mail : aog3gfb5@bhban.com
+division : ib9
+telephone : 010-4344-5043
+sex : female

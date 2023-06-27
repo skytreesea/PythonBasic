@@ -1,0 +1,6 @@
+name : 조주연
+age : 37
+e-mail : uwr7ltmt@bhban.com
+division : trw
+telephone : 010-2137-3221
+sex : female

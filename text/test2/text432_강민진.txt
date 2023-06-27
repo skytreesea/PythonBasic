@@ -1,0 +1,6 @@
+name : 강민진
+age : 35
+e-mail : 7qm1wpqy@bhban.com
+division : 4dt
+telephone : 010-2735-7927
+sex : male

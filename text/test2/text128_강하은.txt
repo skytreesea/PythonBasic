@@ -1,0 +1,6 @@
+name : 강하은
+age : 05
+e-mail : vwke0auz@bhban.com
+division : dtc
+telephone : 010-2805-.328
+sex : female

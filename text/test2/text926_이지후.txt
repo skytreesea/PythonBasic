@@ -1,0 +1,6 @@
+name : 이지후
+age : 24
+e-mail : f8mkk743@bhban.com
+division : qwo
+telephone : 010-5824-0758
+sex : male

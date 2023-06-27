@@ -1,0 +1,6 @@
+name : 최현준
+age : 67
+e-mail : b925ffxv@bhban.com
+division : mza
+telephone : 010-6367-5463
+sex : male

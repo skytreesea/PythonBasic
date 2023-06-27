@@ -1,0 +1,6 @@
+name : 김현호
+age : 17
+e-mail : t6a5ic6y@bhban.com
+division : nxh
+telephone : 010-9217-0592
+sex : female

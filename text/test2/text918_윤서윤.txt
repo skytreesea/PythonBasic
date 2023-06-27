@@ -1,0 +1,6 @@
+name : 윤서윤
+age : 25
+e-mail : 4g4b8kua@bhban.com
+division : trf
+telephone : 010-1525-0015
+sex : female

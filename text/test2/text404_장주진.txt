@@ -1,0 +1,6 @@
+name : 장주진
+age : 34
+e-mail : kmq9oa4l@bhban.com
+division : as3
+telephone : 010-3334-5533
+sex : female
