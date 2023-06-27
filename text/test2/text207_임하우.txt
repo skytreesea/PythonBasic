@@ -1,6 +1,0 @@
-name : 임하우
-age : 75
-e-mail : 5mzev5bh@bhban.com
-division : sul
-telephone : 010-9675-9596
-sex : male

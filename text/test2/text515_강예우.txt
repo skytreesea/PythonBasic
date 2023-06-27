@@ -1,6 +1,0 @@
-name : 강예우
-age : 76
-e-mail : epacbyqe@bhban.com
-division : 3ih
-telephone : 010-1076-6510
-sex : male

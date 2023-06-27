@@ -1,6 +1,0 @@
-name : 장지진
-age : 93
-e-mail : t58exv2r@bhban.com
-division : tol
-telephone : 010-0793-6607
-sex : male

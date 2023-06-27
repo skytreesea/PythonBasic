@@ -1,6 +1,0 @@
-name : 김현진
-age : 27
-e-mail : f5v791vh@bhban.com
-division : 8dd
-telephone : 010-3627-2936
-sex : female

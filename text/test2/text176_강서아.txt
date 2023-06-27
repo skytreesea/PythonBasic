@@ -1,6 +1,0 @@
-name : 강서아
-age : 73
-e-mail : x1t73eb0@bhban.com
-division : sci
-telephone : 010-8673-6986
-sex : female

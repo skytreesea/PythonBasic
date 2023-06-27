@@ -1,6 +1,0 @@
-name : 임민원
-age : 95
-e-mail : zzl30kfl@bhban.com
-division : 8iy
-telephone : 010-5595-0455
-sex : female

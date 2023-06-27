@@ -1,6 +1,0 @@
-name : 김서연
-age : 62
-e-mail : 0rdohq2r@bhban.com
-division : d7q
-telephone : 010-6962-5469
-sex : female

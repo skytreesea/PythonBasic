@@ -1,6 +1,0 @@
-name : 최도서
-age : 63
-e-mail : 2n92ken5@bhban.com
-division : wn8
-telephone : 010-1363-6113
-sex : female

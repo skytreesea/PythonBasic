@@ -1,6 +1,0 @@
-name : 이예준
-age : 76
-e-mail : eh97ozh6@bhban.com
-division : mge
-telephone : 010-8076-6480
-sex : male

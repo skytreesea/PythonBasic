@@ -1,6 +1,0 @@
-name : 강주아
-age : 28
-e-mail : iqyddqxq@bhban.com
-division : o74
-telephone : 010-0928-7509
-sex : female

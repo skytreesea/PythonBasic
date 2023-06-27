@@ -1,6 +1,0 @@
-name : 박현호
-age : 57
-e-mail : pmrbu3co@bhban.com
-division : 8rh
-telephone : 010-6957-5769
-sex : female

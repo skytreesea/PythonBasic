@@ -1,6 +1,0 @@
-name : 임민후
-age : 35
-e-mail : 4u5c54nb@bhban.com
-division : yuf
-telephone : 010-2435-6324
-sex : male

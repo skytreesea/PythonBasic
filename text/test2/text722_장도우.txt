@@ -1,6 +1,0 @@
-name : 장도우
-age : 99
-e-mail : ru7gqr04@bhban.com
-division : il0
-telephone : 010-9499-8394
-sex : female

@@ -1,6 +1,0 @@
-name : 강주연
-age : 25
-e-mail : oiceb19p@bhban.com
-division : ecs
-telephone : 010-1125-9011
-sex : male

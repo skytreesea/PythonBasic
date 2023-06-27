@@ -1,6 +1,0 @@
-name : 정민윤
-age : 34
-e-mail : 0pkxp4wh@bhban.com
-division : v9d
-telephone : 010-0134-7301
-sex : female

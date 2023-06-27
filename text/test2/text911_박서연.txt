@@ -1,6 +1,0 @@
-name : 박서연
-age : 33
-e-mail : aaey1b2o@bhban.com
-division : ubi
-telephone : 010-2133-9521
-sex : male

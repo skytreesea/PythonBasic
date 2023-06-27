@@ -1,6 +1,0 @@
-name : 장채준
-age : 79
-e-mail : lb5evkd5@bhban.com
-division : or0
-telephone : 010-0979-3409
-sex : male

@@ -1,6 +1,0 @@
-name : 박윤은
-age : 37
-e-mail : 0gz3t0hz@bhban.com
-division : tsg
-telephone : 010-7037-2270
-sex : female

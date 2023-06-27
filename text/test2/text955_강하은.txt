@@ -1,6 +1,0 @@
-name : 강하은
-age : 24
-e-mail : z88s5vhg@bhban.com
-division : zku
-telephone : 010-7475-3274
-sex : male

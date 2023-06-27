@@ -1,6 +1,0 @@
-name : 최주우
-age : 24
-e-mail : q7frd0m4@bhban.com
-division : fq0
-telephone : 010-6924-.469
-sex : female

@@ -1,6 +1,0 @@
-name : 조예아
-age : 86
-e-mail : 08tpav4u@bhban.com
-division : 61n
-telephone : 010-2886-1528
-sex : male

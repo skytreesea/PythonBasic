@@ -1,6 +1,0 @@
-name : 이민서
-age : 66
-e-mail : yofzwgz0@bhban.com
-division : 2by
-telephone : 010-7366-8573
-sex : female

@@ -1,6 +1,0 @@
-name : 조윤우
-age : 95
-e-mail : zhe5441u@bhban.com
-division : uqu
-telephone : 010-4195-.741
-sex : male

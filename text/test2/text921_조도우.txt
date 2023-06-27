@@ -1,6 +1,0 @@
-name : 조도우
-age : 74
-e-mail : soboc8yi@bhban.com
-division : psu
-telephone : 010-5474-0354
-sex : female

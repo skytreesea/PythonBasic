@@ -1,6 +1,0 @@
-name : 김서호
-age : 02
-e-mail : 6mo8awz5@bhban.com
-division : q04
-telephone : 010-1002-0410
-sex : male

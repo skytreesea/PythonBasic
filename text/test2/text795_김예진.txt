@@ -1,6 +1,0 @@
-name : 김예진
-age : 75
-e-mail : n0syq3k2@bhban.com
-division : dhm
-telephone : 010-1175-9911
-sex : male

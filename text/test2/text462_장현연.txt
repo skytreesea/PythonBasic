@@ -1,6 +1,0 @@
-name : 장현연
-age : 95
-e-mail : 49cuixy7@bhban.com
-division : uhb
-telephone : 010-7895-0178
-sex : female

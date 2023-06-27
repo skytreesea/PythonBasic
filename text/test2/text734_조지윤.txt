@@ -1,6 +1,0 @@
-name : 조지윤
-age : 48
-e-mail : 5qtmendb@bhban.com
-division : q3u
-telephone : 010-5848-4958
-sex : female

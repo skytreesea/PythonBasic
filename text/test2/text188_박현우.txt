@@ -1,6 +1,0 @@
-name : 박현우
-age : 42
-e-mail : 0em28aph@bhban.com
-division : phg
-telephone : 010-8642-7986
-sex : male

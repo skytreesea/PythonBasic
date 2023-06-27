@@ -1,6 +1,0 @@
-name : 장민우
-age : 12
-e-mail : ef6qhd36@bhban.com
-division : uzx
-telephone : 010-2512-6125
-sex : male

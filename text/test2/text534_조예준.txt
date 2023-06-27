@@ -1,6 +1,0 @@
-name : 조예준
-age : 62
-e-mail : xii6i0mt@bhban.com
-division : 87l
-telephone : 010-0762-7207
-sex : male

@@ -1,6 +1,0 @@
-name : 강지윤
-age : 86
-e-mail : 2fpyuck7@bhban.com
-division : oro
-telephone : 010-0986-3709
-sex : female

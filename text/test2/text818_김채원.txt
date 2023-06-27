@@ -1,6 +1,0 @@
-name : 김채원
-age : 94
-e-mail : zxeybqzt@bhban.com
-division : 3ip
-telephone : 010-4694-1846
-sex : female

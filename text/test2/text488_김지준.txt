@@ -1,6 +1,0 @@
-name : 김지준
-age : 06
-e-mail : y6mbxhqs@bhban.com
-division : 80d
-telephone : 010-0506-2405
-sex : female

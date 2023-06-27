@@ -1,6 +1,0 @@
-name : 조서서
-age : 33
-e-mail : hrhilccr@bhban.com
-division : zi2
-telephone : 010-3333-.433
-sex : male

@@ -1,6 +1,0 @@
-name : 윤서준
-age : 94
-e-mail : hc0wnaew@bhban.com
-division : z8p
-telephone : 010-2494-7024
-sex : female

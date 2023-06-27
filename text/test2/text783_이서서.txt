@@ -1,6 +1,0 @@
-name : 이서서
-age : 55
-e-mail : p6qite3i@bhban.com
-division : uci
-telephone : 010-1055-9010
-sex : male

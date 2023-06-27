@@ -1,6 +1,0 @@
-name : 윤주윤
-age : 97
-e-mail : 1mhgxogz@bhban.com
-division : pay
-telephone : 010-6997-4169
-sex : male

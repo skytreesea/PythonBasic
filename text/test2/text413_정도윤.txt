@@ -1,6 +1,0 @@
-name : 정도윤
-age : 62
-e-mail : 694v44at@bhban.com
-division : vyp
-telephone : 010-3362-5633
-sex : male

@@ -1,6 +1,0 @@
-name : 정지원
-age : 77
-e-mail : 8048sr2o@bhban.com
-division : 8e4
-telephone : 010-5477-.054
-sex : female

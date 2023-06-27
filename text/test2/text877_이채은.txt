@@ -1,6 +1,0 @@
-name : 이채은
-age : 96
-e-mail : kr52caco@bhban.com
-division : vxm
-telephone : 010-7696-9676
-sex : male

@@ -1,6 +1,0 @@
-name : 김하아
-age : 45
-e-mail : bmp61y1a@bhban.com
-division : n6c
-telephone : 010-7345-5073
-sex : male

@@ -1,6 +1,0 @@
-name : 장도원
-age : 62
-e-mail : 2ovawf2q@bhban.com
-division : r8k
-telephone : 010-4662-1646
-sex : female

@@ -1,6 +1,0 @@
-name : 박서우
-age : 67
-e-mail : xil1r465@bhban.com
-division : svd
-telephone : 010-0167-2701
-sex : female

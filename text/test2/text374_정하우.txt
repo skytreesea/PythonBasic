@@ -1,6 +1,0 @@
-name : 정하우
-age : 28
-e-mail : wq4gmlr8@bhban.com
-division : xu2
-telephone : 010-3628-3036
-sex : male

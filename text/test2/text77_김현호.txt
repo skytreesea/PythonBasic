@@ -1,6 +1,0 @@
-name : 김현호
-age : 23
-e-mail : w4abegnt@bhban.com
-division : 31y
-telephone : 010-0023-8700
-sex : male

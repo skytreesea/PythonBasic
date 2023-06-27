@@ -1,6 +1,0 @@
-name : 이서연
-age : 35
-e-mail : l6gaytyl@bhban.com
-division : en0
-telephone : 010-0935-3209
-sex : male

@@ -1,6 +1,0 @@
-name : 김주진
-age : 09
-e-mail : hxd95z0f@bhban.com
-division : 4z0
-telephone : 010-3609-6036
-sex : female

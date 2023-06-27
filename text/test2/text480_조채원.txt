@@ -1,6 +1,0 @@
-name : 조채원
-age : 14
-e-mail : 3n9qq9p8@bhban.com
-division : ff6
-telephone : 010-0514-1605
-sex : female

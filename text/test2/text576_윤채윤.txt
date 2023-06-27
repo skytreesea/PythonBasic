@@ -1,6 +1,0 @@
-name : 윤채윤
-age : 16
-e-mail : 7k3zgn1b@bhban.com
-division : 3pl
-telephone : 010-3216-7132
-sex : female

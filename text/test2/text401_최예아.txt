@@ -1,6 +1,0 @@
-name : 최예아
-age : 98
-e-mail : xpeazbga@bhban.com
-division : x4t
-telephone : 010-2698-5526
-sex : female

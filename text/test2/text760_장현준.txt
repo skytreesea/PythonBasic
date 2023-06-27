@@ -1,6 +1,0 @@
-name : 장현준
-age : 25
-e-mail : b12io1ua@bhban.com
-division : yyz
-telephone : 010-3625-7036
-sex : female

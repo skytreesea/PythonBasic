@@ -1,6 +1,0 @@
-name : 임서호
-age : 75
-e-mail : znr9o15s@bhban.com
-division : ugr
-telephone : 010-1775-2717
-sex : male

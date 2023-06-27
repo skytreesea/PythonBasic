@@ -1,6 +1,0 @@
-name : 김민아
-age : 61
-e-mail : sloe3nm2@bhban.com
-division : crb
-telephone : 010-6961-5869
-sex : female

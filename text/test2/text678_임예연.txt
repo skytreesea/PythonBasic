@@ -1,6 +1,0 @@
-name : 임예연
-age : 92
-e-mail : fhd55eam@bhban.com
-division : soe
-telephone : 010-1092-0210
-sex : male

@@ -1,6 +1,0 @@
-name : 최민진
-age : 58
-e-mail : xra3b8iu@bhban.com
-division : 4sb
-telephone : 010-3186-2231
-sex : female

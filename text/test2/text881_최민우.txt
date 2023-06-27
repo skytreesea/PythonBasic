@@ -1,6 +1,0 @@
-name : 최민우
-age : 73
-e-mail : 8oz6h0m4@bhban.com
-division : m67
-telephone : 010-6473-7064
-sex : male

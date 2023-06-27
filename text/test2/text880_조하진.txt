@@ -1,6 +1,0 @@
-name : 조하진
-age : 76
-e-mail : lmo90xzn@bhban.com
-division : q5h
-telephone : 010-6476-6964
-sex : female

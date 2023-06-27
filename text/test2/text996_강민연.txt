@@ -1,6 +1,0 @@
-name : 강민연
-age : 21
-e-mail : 1vxs8vcg@bhban.com
-division : lcp
-telephone : 010-5421-0654
-sex : female

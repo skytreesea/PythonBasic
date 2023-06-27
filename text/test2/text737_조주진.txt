@@ -1,6 +1,0 @@
-name : 조주진
-age : 33
-e-mail : 4b5y0znf@bhban.com
-division : ltd
-telephone : 010-6033-5160
-sex : male

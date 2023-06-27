@@ -1,6 +1,0 @@
-name : 윤지서
-age : 77
-e-mail : yala4xu5@bhban.com
-division : d6p
-telephone : 010-7077-6570
-sex : female

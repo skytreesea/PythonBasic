@@ -1,6 +1,0 @@
-name : 김지후
-age : 75
-e-mail : 1aylv903@bhban.com
-division : z3g
-telephone : 010-1075-8910
-sex : female

@@ -1,6 +1,0 @@
-name : 이주진
-age : 96
-e-mail : qzmehav2@bhban.com
-division : 0nf
-telephone : 010-0696-9606
-sex : male

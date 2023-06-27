@@ -1,6 +1,0 @@
-name : 윤윤서
-age : 04
-e-mail : l2zndsmt@bhban.com
-division : voc
-telephone : 010-0004-2900
-sex : female

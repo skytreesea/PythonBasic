@@ -1,6 +1,0 @@
-name : 정현연
-age : 57
-e-mail : tgt7uqzh@bhban.com
-division : gs9
-telephone : 010-8357-3683
-sex : male

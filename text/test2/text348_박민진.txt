@@ -1,6 +1,0 @@
-name : 박민진
-age : 72
-e-mail : giyeuqpy@bhban.com
-division : zxs
-telephone : 010-8672-0986
-sex : male

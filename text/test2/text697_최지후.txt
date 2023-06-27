@@ -1,6 +1,0 @@
-name : 최지후
-age : 45
-e-mail : of8zs211@bhban.com
-division : f2n
-telephone : 010-7445-1774
-sex : male

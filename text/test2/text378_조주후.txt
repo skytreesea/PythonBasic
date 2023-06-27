@@ -1,6 +1,0 @@
-name : 조주후
-age : 63
-e-mail : 8c9mtxf7@bhban.com
-division : v4z
-telephone : 010-3363-5333
-sex : male

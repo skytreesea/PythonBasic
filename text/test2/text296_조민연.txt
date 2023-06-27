@@ -1,6 +1,0 @@
-name : 조민연
-age : 08
-e-mail : pk5iczhq@bhban.com
-division : qkq
-telephone : 010-2408-6724
-sex : female

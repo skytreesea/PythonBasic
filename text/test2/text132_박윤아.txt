@@ -1,6 +1,0 @@
-name : 박윤아
-age : 11
-e-mail : fk2ftbze@bhban.com
-division : 2a4
-telephone : 010-3311-7.33
-sex : female

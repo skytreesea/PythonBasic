@@ -1,6 +1,0 @@
-name : 강도아
-age : 74
-e-mail : 0wapnav8@bhban.com
-division : fa2
-telephone : 010-6974-4369
-sex : female

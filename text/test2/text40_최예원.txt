@@ -1,6 +1,0 @@
-name : 최예원
-age : 99
-e-mail : r3xri92b@bhban.com
-division : 6wf
-telephone : 010-6999-5569
-sex : female

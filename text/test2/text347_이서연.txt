@@ -1,6 +1,0 @@
-name : 이서연
-age : 44
-e-mail : ompzkb7s@bhban.com
-division : f84
-telephone : 010-8544-0885
-sex : female

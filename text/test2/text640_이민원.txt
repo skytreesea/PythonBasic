@@ -1,6 +1,0 @@
-name : 이민원
-age : 93
-e-mail : 7tt9p7mz@bhban.com
-division : u6p
-telephone : 010-2493-6824
-sex : male

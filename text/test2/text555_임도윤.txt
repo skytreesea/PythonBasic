@@ -1,6 +1,0 @@
-name : 임도윤
-age : 79
-e-mail : u0on2ilh@bhban.com
-division : 2o4
-telephone : 010-2079-6920
-sex : female

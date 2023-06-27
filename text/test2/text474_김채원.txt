@@ -1,6 +1,0 @@
-name : 김채원
-age : 84
-e-mail : fp4hu7xu@bhban.com
-division : vyt
-telephone : 010-0684-1206
-sex : male

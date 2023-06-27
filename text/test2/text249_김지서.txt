@@ -1,6 +1,0 @@
-name : 김지서
-age : 36
-e-mail : rw1fzpa6@bhban.com
-division : lhq
-telephone : 010-2936-.429
-sex : male

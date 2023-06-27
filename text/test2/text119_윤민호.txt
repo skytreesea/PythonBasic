@@ -1,6 +1,0 @@
-name : 윤민호
-age : 35
-e-mail : 41uus3sb@bhban.com
-division : 81i
-telephone : 010-0935-3209
-sex : male

@@ -1,6 +1,0 @@
-name : 임예준
-age : 91
-e-mail : rcba8ozz@bhban.com
-division : sug
-telephone : 010-8991-0489
-sex : female

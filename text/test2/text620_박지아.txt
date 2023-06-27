@@ -1,6 +1,0 @@
-name : 박지아
-age : 28
-e-mail : ixckz7i4@bhban.com
-division : uvx
-telephone : 010-0928-7509
-sex : female

@@ -1,6 +1,0 @@
-name : 김지연
-age : 43
-e-mail : q3y2vzqt@bhban.com
-division : 37i
-telephone : 010-0243-4802
-sex : male

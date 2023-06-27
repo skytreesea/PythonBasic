@@ -1,6 +1,0 @@
-name : 강서윤
-age : 38
-e-mail : 4kfhzfgy@bhban.com
-division : r5e
-telephone : 010-0138-3401
-sex : female

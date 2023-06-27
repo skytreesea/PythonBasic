@@ -1,6 +1,0 @@
-name : 윤윤우
-age : 95
-e-mail : st4v1ttz@bhban.com
-division : 1q8
-telephone : 010-7895-0178
-sex : male

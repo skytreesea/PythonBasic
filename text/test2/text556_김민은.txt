@@ -1,6 +1,0 @@
-name : 김민은
-age : 57
-e-mail : 35nhvw47@bhban.com
-division : xxa
-telephone : 010-0857-9308
-sex : male

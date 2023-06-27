@@ -1,6 +1,0 @@
-name : 박지은
-age : 68
-e-mail : zbelt69p@bhban.com
-division : mg7
-telephone : 010-3468-9134
-sex : male

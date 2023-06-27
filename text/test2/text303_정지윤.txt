@@ -1,6 +1,0 @@
-name : 정지윤
-age : 04
-e-mail : wcch54i5@bhban.com
-division : l3r
-telephone : 010-2404-7224
-sex : female

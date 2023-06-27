@@ -1,6 +1,0 @@
-name : 최윤윤
-age : 24
-e-mail : 8902fdag@bhban.com
-division : t8r
-telephone : 010-5324-2953
-sex : male

@@ -1,6 +1,0 @@
-name : 조윤서
-age : 79
-e-mail : nnxo9ty9@bhban.com
-division : 1v4
-telephone : 010-5079-6650
-sex : female

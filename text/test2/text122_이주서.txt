@@ -1,6 +1,0 @@
-name : 이주서
-age : 53
-e-mail : lfldk91b@bhban.com
-division : k85
-telephone : 010-3953-3239
-sex : male

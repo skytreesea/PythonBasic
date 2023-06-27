@@ -1,6 +1,0 @@
-name : 정주서
-age : 47
-e-mail : 2mn3yqfl@bhban.com
-division : k5n
-telephone : 010-6947-6569
-sex : male

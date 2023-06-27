@@ -1,6 +1,0 @@
-name : 강예호
-age : 04
-e-mail : q6lmq94t@bhban.com
-division : idi
-telephone : 010-2104-0221
-sex : male

@@ -1,6 +1,0 @@
-name : 김현우
-age : 87
-e-mail : ucpb7bpq@bhban.com
-division : xsc
-telephone : 010-2987-3829
-sex : male

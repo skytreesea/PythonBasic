@@ -1,6 +1,0 @@
-name : 김하호
-age : 75
-e-mail : b76k2961@bhban.com
-division : nl7
-telephone : 010-0775-3507
-sex : male

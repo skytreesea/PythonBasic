@@ -1,6 +1,0 @@
-name : 임지연
-age : 83
-e-mail : 7owp1lnb@bhban.com
-division : olg
-telephone : 010-0783-9007
-sex : female

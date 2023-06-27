@@ -1,6 +1,0 @@
-name : 이민호
-age : 14
-e-mail : 0u875nkw@bhban.com
-division : mly
-telephone : 010-5014-9250
-sex : female

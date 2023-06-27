@@ -1,6 +1,0 @@
-name : 장지호
-age : 53
-e-mail : c1zqhc59@bhban.com
-division : g6k
-telephone : 010-0753-5907
-sex : female

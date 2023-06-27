@@ -1,6 +1,0 @@
-name : 윤하서
-age : 94
-e-mail : odikir18@bhban.com
-division : k1p
-telephone : 010-0494-7904
-sex : female

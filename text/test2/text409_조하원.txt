@@ -1,6 +1,0 @@
-name : 조하원
-age : 53
-e-mail : d1747vc9@bhban.com
-division : e7k
-telephone : 010-9353-5593
-sex : female

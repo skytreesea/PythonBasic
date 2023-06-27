@@ -1,6 +1,0 @@
-name : 김서진
-age : 39
-e-mail : la8kseqk@bhban.com
-division : rcr
-telephone : 010-5839-5358
-sex : male

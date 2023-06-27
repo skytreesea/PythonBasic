@@ -1,6 +1,0 @@
-name : 조도우
-age : 86
-e-mail : 24y4fahi@bhban.com
-division : xqb
-telephone : 010-0986-1809
-sex : female

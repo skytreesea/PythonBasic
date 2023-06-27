@@ -1,6 +1,0 @@
-name : 최서원
-age : 96
-e-mail : zvplx4fg@bhban.com
-division : ilz
-telephone : 010-2496-5724
-sex : male

@@ -1,6 +1,0 @@
-name : 박지우
-age : 68
-e-mail : 1crrssfy@bhban.com
-division : p4k
-telephone : 010-9068-3990
-sex : female

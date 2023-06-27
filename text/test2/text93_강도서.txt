@@ -1,6 +1,0 @@
-name : 강도서
-age : 33
-e-mail : l4pq602t@bhban.com
-division : kt5
-telephone : 010-0133-0001
-sex : male

@@ -1,6 +1,0 @@
-name : 조도후
-age : 99
-e-mail : d4zys32u@bhban.com
-division : gwc
-telephone : 010-0499-7604
-sex : female

@@ -1,6 +1,0 @@
-name : 조윤아
-age : 72
-e-mail : 5z7o2hxl@bhban.com
-division : fmw
-telephone : 010-0972-0009
-sex : female

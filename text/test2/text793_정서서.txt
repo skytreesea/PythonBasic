@@ -1,6 +1,0 @@
-name : 정서서
-age : 05
-e-mail : nhduiunz@bhban.com
-division : 5n1
-telephone : 010-1205-9712
-sex : male

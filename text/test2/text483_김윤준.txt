@@ -1,6 +1,0 @@
-name : 김윤준
-age : 17
-e-mail : bhs4lgwn@bhban.com
-division : vax
-telephone : 010-0517-1905
-sex : female

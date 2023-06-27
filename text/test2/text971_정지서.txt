@@ -1,6 +1,0 @@
-name : 정지서
-age : 11
-e-mail : t7derccl@bhban.com
-division : 10z
-telephone : 010-7911-4579
-sex : female

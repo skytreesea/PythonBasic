@@ -1,6 +1,0 @@
-name : 김하진
-age : 01
-e-mail : uw5xhkcd@bhban.com
-division : b3z
-telephone : 010-7101-3571
-sex : male

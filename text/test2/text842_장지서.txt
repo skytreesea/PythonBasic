@@ -1,6 +1,0 @@
-name : 장지서
-age : 38
-e-mail : ztih301f@bhban.com
-division : rif
-telephone : 010-9338-9393
-sex : female

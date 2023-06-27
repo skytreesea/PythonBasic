@@ -1,6 +1,0 @@
-name : 장서진
-age : 45
-e-mail : 8wz5n4au@bhban.com
-division : wms
-telephone : 010-8145-6181
-sex : female

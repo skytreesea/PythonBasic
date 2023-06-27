@@ -1,6 +1,0 @@
-name : 이도은
-age : 14
-e-mail : 5tcinriu@bhban.com
-division : h5z
-telephone : 010-3314-3833
-sex : male

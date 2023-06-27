@@ -1,6 +1,0 @@
-name : 장서호
-age : 58
-e-mail : ipyrg16f@bhban.com
-division : 6d3
-telephone : 010-6958-5369
-sex : female

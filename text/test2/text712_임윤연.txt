@@ -1,6 +1,0 @@
-name : 임윤연
-age : 32
-e-mail : rdqxgzm4@bhban.com
-division : 8hu
-telephone : 010-0532-8305
-sex : female

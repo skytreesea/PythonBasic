@@ -1,6 +1,0 @@
-name : 조지은
-age : 37
-e-mail : xd10440l@bhban.com
-division : pud
-telephone : 010-9037-1690
-sex : male

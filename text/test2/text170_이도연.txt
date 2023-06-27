@@ -1,6 +1,0 @@
-name : 이도연
-age : 57
-e-mail : 988sh2du@bhban.com
-division : 6x7
-telephone : 010-8657-6586
-sex : male

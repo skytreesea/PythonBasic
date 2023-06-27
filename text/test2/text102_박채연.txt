@@ -1,6 +1,0 @@
-name : 박채연
-age : 26
-e-mail : 36i7dy3t@bhban.com
-division : 98g
-telephone : 010-0126-0701
-sex : female

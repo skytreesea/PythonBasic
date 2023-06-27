@@ -1,6 +1,0 @@
-name : 임현은
-age : 21
-e-mail : 960qwoel@bhban.com
-division : 5q9
-telephone : 010-3321-5033
-sex : male

@@ -1,6 +1,0 @@
-name : 윤윤서
-age : 14
-e-mail : ib0c1o7e@bhban.com
-division : rqo
-telephone : 010-7014-7770
-sex : male

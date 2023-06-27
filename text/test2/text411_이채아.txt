@@ -1,6 +1,0 @@
-name : 이채아
-age : 87
-e-mail : 96yznegt@bhban.com
-division : 0i1
-telephone : 010-3587-6135
-sex : male

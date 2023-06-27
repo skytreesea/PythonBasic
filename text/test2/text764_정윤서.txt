@@ -1,6 +1,0 @@
-name : 정윤서
-age : 44
-e-mail : i3l8humt@bhban.com
-division : 69m
-telephone : 010-3644-7336
-sex : female

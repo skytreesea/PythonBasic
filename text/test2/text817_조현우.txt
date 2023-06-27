@@ -1,6 +1,0 @@
-name : 조현우
-age : 62
-e-mail : yq321v93@bhban.com
-division : sub
-telephone : 010-4662-1746
-sex : male

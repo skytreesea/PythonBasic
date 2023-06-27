@@ -1,6 +1,0 @@
-name : 이채원
-age : 97
-e-mail : 59lidsgu@bhban.com
-division : ihh
-telephone : 010-9897-8198
-sex : female

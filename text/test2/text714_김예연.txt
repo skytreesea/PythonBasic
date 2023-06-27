@@ -1,6 +1,0 @@
-name : 김예연
-age : 32
-e-mail : d3znn1zr@bhban.com
-division : cf4
-telephone : 010-2532-8325
-sex : male

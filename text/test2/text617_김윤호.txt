@@ -1,6 +1,0 @@
-name : 김윤호
-age : 67
-e-mail : z44ovyek@bhban.com
-division : 3s4
-telephone : 010-9267-4792
-sex : male

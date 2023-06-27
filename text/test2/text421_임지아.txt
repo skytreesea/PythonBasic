@@ -1,6 +1,0 @@
-name : 임지아
-age : 23
-e-mail : 0dtbdh1u@bhban.com
-division : la3
-telephone : 010-2723-6927
-sex : male

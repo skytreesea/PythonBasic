@@ -1,6 +1,0 @@
-name : 최윤진
-age : 34
-e-mail : zt6e0cwh@bhban.com
-division : b3a
-telephone : 010-9234-9692
-sex : male

@@ -1,6 +1,0 @@
-name : 최현호
-age : 84
-e-mail : nhcr4caw@bhban.com
-division : a14
-telephone : 010-1084-8310
-sex : female

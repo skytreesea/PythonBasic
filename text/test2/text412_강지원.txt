@@ -1,6 +1,0 @@
-name : 강지원
-age : 17
-e-mail : xv8mym5i@bhban.com
-division : 4lu
-telephone : 010-3617-6236
-sex : female

@@ -1,6 +1,0 @@
-name : 강예서
-age : 94
-e-mail : yqpv1mcv@bhban.com
-division : iee
-telephone : 010-6994-4269
-sex : female

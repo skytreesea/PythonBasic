@@ -1,6 +1,0 @@
-name : 박서아
-age : 34
-e-mail : zcemtpl1@bhban.com
-division : 429
-telephone : 010-3334-5533
-sex : male

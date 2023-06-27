@@ -1,6 +1,0 @@
-name : 이서윤
-age : 06
-e-mail : nfodbn07@bhban.com
-division : svz
-telephone : 010-0244-4602
-sex : female

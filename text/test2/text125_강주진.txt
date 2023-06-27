@@ -1,6 +1,0 @@
-name : 강주진
-age : 37
-e-mail : lo5nc3xz@bhban.com
-division : zt5
-telephone : 010-9537-2595
-sex : female

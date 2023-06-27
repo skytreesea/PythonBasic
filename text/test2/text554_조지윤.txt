@@ -1,6 +1,0 @@
-name : 조지윤
-age : 79
-e-mail : 18hzhiwl@bhban.com
-division : 0on
-telephone : 010-2079-6920
-sex : male

@@ -1,6 +1,0 @@
-name : 이주원
-age : 11
-e-mail : 36qgfef5@bhban.com
-division : rwy
-telephone : 010-9211-0692
-sex : male

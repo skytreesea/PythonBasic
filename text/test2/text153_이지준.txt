@@ -1,6 +1,0 @@
-name : 이지준
-age : 01
-e-mail : nsf0ng1m@bhban.com
-division : 82c
-telephone : 010-0101-3501
-sex : male

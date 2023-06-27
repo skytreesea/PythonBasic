@@ -1,6 +1,0 @@
-name : 윤현호
-age : 52
-e-mail : ciu95lf6@bhban.com
-division : 28n
-telephone : 010-7752-6577
-sex : male

@@ -1,6 +1,0 @@
-name : 임채원
-age : 95
-e-mail : xsfp5nob@bhban.com
-division : amm
-telephone : 010-6395-2063
-sex : female

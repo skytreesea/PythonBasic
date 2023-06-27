@@ -1,6 +1,0 @@
-name : 최채진
-age : 51
-e-mail : xi9bh639@bhban.com
-division : 7wq
-telephone : 010-5351-1453
-sex : male

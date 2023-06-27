@@ -1,6 +1,0 @@
-name : 윤하호
-age : 91
-e-mail : n791q9at@bhban.com
-division : 77d
-telephone : 010-7691-5676
-sex : male

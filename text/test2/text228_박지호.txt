@@ -1,6 +1,0 @@
-name : 박지호
-age : 04
-e-mail : a6x1czcu@bhban.com
-division : sle
-telephone : 010-2904-4129
-sex : male

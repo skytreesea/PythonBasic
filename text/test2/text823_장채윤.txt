@@ -1,6 +1,0 @@
-name : 장채윤
-age : 37
-e-mail : l3hiwpko@bhban.com
-division : k9w
-telephone : 010-0137-2301
-sex : female

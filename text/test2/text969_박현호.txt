@@ -1,6 +1,0 @@
-name : 박현호
-age : 25
-e-mail : z89xm0qo@bhban.com
-division : aw9
-telephone : 010-8325-4383
-sex : female

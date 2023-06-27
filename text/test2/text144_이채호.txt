@@ -1,6 +1,0 @@
-name : 이채호
-age : 87
-e-mail : 4v8gw3fr@bhban.com
-division : v5v
-telephone : 010-0987-4209
-sex : male

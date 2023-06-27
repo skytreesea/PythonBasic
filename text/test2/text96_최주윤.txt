@@ -1,6 +1,0 @@
-name : 최주윤
-age : 33
-e-mail : a4kd1dnk@bhban.com
-division : 5qo
-telephone : 010-0133-0301
-sex : male

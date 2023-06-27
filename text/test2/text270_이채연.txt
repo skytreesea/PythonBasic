@@ -1,6 +1,0 @@
-name : 이채연
-age : 09
-e-mail : zovctv3r@bhban.com
-division : 5ds
-telephone : 010-6709-4467
-sex : male

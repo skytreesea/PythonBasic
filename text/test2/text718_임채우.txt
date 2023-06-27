@@ -1,6 +1,0 @@
-name : 임채우
-age : 92
-e-mail : 4szg50ou@bhban.com
-division : ch0
-telephone : 010-4992-3649
-sex : female

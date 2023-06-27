@@ -1,6 +1,0 @@
-name : 임주호
-age : 78
-e-mail : rq83bmcz@bhban.com
-division : 9b8
-telephone : 010-6977-4569
-sex : female

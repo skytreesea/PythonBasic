@@ -1,6 +1,0 @@
-name : 최하원
-age : 32
-e-mail : nda2g83u@bhban.com
-division : yzk
-telephone : 010-6532-0765
-sex : male

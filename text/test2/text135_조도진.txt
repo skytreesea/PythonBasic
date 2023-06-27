@@ -1,6 +1,0 @@
-name : 조도진
-age : 79
-e-mail : kpzlb83w@bhban.com
-division : 5om
-telephone : 010-0979-3409
-sex : female

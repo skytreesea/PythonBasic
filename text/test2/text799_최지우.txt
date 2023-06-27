@@ -1,6 +1,0 @@
-name : 최지우
-age : 56
-e-mail : co2wi5a6@bhban.com
-division : 5rx
-telephone : 010-9156-0191
-sex : male

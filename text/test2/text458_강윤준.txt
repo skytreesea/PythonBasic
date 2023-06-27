@@ -1,6 +1,0 @@
-name : 강윤준
-age : 64
-e-mail : xcb7ze5f@bhban.com
-division : zzq
-telephone : 010-7864-9878
-sex : male

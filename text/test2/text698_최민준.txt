@@ -1,6 +1,0 @@
-name : 최민준
-age : 74
-e-mail : d0z9fmqc@bhban.com
-division : ef2
-telephone : 010-8874-8188
-sex : male

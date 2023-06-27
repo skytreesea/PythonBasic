@@ -1,6 +1,0 @@
-name : 윤지후
-age : 61
-e-mail : ivyqyw5h@bhban.com
-division : fv0
-telephone : 010-1361-8713
-sex : male

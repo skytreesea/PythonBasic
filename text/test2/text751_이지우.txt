@@ -1,6 +1,0 @@
-name : 이지우
-age : 45
-e-mail : 1yecbind@bhban.com
-division : huh
-telephone : 010-4045-6340
-sex : male

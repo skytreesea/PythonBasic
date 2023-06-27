@@ -1,6 +1,0 @@
-name : 윤도윤
-age : 75
-e-mail : y336hzqu@bhban.com
-division : 2h8
-telephone : 010-2775-2727
-sex : female

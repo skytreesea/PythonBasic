@@ -1,6 +1,0 @@
-name : 정윤윤
-age : 99
-e-mail : bxkpaldt@bhban.com
-division : 2k1
-telephone : 010-4099-3540
-sex : male

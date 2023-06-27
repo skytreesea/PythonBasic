@@ -1,6 +1,0 @@
-name : 장지준
-age : 58
-e-mail : nflwwihv@bhban.com
-division : vam
-telephone : 010-2958-2129
-sex : male

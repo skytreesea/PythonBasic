@@ -1,6 +1,0 @@
-name : 박지서
-age : 43
-e-mail : fel19g5g@bhban.com
-division : 150
-telephone : 010-8643-7886
-sex : male

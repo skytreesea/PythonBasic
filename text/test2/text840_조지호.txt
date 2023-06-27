@@ -1,6 +1,0 @@
-name : 조지호
-age : 15
-e-mail : ws1z9ihi@bhban.com
-division : z13
-telephone : 010-7015-9370
-sex : male

@@ -1,6 +1,0 @@
-name : 박주준
-age : 57
-e-mail : kczrww2k@bhban.com
-division : k0e
-telephone : 010-5357-1653
-sex : female

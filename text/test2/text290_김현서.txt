@@ -1,6 +1,0 @@
-name : 김현서
-age : 41
-e-mail : ucfvvdbl@bhban.com
-division : 56g
-telephone : 010-2241-4622
-sex : female

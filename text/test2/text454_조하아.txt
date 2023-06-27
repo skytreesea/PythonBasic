@@ -1,6 +1,0 @@
-name : 조하아
-age : 86
-e-mail : cz6itssf@bhban.com
-division : fkr
-telephone : 010-5786-5957
-sex : female

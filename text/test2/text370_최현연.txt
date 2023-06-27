@@ -1,6 +1,0 @@
-name : 최현연
-age : 38
-e-mail : 7qt1itez@bhban.com
-division : sqo
-telephone : 010-3638-2736
-sex : male

@@ -1,6 +1,0 @@
-name : 정도은
-age : 32
-e-mail : rfkoi5ww@bhban.com
-division : h6s
-telephone : 010-1732-1117
-sex : male

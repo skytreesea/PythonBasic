@@ -1,6 +1,0 @@
-name : 장현윤
-age : 64
-e-mail : c9895elp@bhban.com
-division : ukz
-telephone : 010-2536-.425
-sex : female

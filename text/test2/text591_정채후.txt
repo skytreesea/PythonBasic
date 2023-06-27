@@ -1,6 +1,0 @@
-name : 정채후
-age : 55
-e-mail : dallh93y@bhban.com
-division : gsi
-telephone : 010-2155-2721
-sex : female

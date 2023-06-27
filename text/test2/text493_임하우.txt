@@ -1,6 +1,0 @@
-name : 임하우
-age : 72
-e-mail : f734rt1t@bhban.com
-division : yax
-telephone : 010-0572-2905
-sex : male

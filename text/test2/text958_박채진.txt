@@ -1,6 +1,0 @@
-name : 박채진
-age : 13
-e-mail : 0eo5wmbo@bhban.com
-division : 15u
-telephone : 010-4813-0348
-sex : female

@@ -1,6 +1,0 @@
-name : 최채원
-age : 72
-e-mail : ituiusll@bhban.com
-division : z95
-telephone : 010-7872-3878
-sex : female

@@ -1,6 +1,0 @@
-name : 박하호
-age : 83
-e-mail : 9icuzldv@bhban.com
-division : z16
-telephone : 010-4383-9443
-sex : female

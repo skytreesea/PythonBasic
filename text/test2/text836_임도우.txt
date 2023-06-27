@@ -1,6 +1,0 @@
-name : 임도우
-age : 38
-e-mail : 2uzwibo2@bhban.com
-division : b2y
-telephone : 010-0138-3401
-sex : female

@@ -1,6 +1,0 @@
-name : 이민원
-age : 82
-e-mail : 5g8cqnpl@bhban.com
-division : d8d
-telephone : 010-0282-5702
-sex : male

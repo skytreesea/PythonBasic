@@ -1,6 +1,0 @@
-name : 최서호
-age : 88
-e-mail : tu9aozzv@bhban.com
-division : zac
-telephone : 010-6988-4469
-sex : female

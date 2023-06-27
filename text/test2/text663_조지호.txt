@@ -1,6 +1,0 @@
-name : 조지호
-age : 62
-e-mail : us2bmsm9@bhban.com
-division : 22q
-telephone : 010-0862-8808
-sex : male

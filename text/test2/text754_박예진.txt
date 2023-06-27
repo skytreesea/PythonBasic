@@ -1,6 +1,0 @@
-name : 박예진
-age : 88
-e-mail : g0pp0dfo@bhban.com
-division : 16z
-telephone : 010-5388-8653
-sex : female

@@ -1,6 +1,0 @@
-name : 윤도서
-age : 78
-e-mail : ywciqlig@bhban.com
-division : x27
-telephone : 010-0978-3609
-sex : female

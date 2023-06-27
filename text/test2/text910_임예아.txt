@@ -1,6 +1,0 @@
-name : 임예아
-age : 33
-e-mail : mko6xe9e@bhban.com
-division : ql1
-telephone : 010-2133-9521
-sex : male

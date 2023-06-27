@@ -1,6 +1,0 @@
-name : 정주우
-age : 87
-e-mail : t2zwwcen@bhban.com
-division : uko
-telephone : 010-0087-7900
-sex : female

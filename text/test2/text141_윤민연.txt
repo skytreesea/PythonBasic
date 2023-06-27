@@ -1,6 +1,0 @@
-name : 윤민연
-age : 78
-e-mail : xq53xrnn@bhban.com
-division : rzh
-telephone : 010-0975-3909
-sex : female

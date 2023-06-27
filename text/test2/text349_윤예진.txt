@@ -1,6 +1,0 @@
-name : 윤예진
-age : 72
-e-mail : gw3fme2h@bhban.com
-division : swt
-telephone : 010-8672-0986
-sex : female

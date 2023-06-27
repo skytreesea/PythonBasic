@@ -1,6 +1,0 @@
-name : 윤서우
-age : 56
-e-mail : hoflydqn@bhban.com
-division : tla
-telephone : 010-7456-0674
-sex : female

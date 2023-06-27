@@ -1,6 +1,0 @@
-name : 강지진
-age : 77
-e-mail : uz7dhwag@bhban.com
-division : 0ie
-telephone : 010-1077-8610
-sex : female

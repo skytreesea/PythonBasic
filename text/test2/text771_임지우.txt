@@ -1,6 +1,0 @@
-name : 임지우
-age : 94
-e-mail : o36z7u00@bhban.com
-division : ekm
-telephone : 010-1094-7910
-sex : male

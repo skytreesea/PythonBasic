@@ -1,6 +1,0 @@
-name : 임하우
-age : 15
-e-mail : zvbpievw@bhban.com
-division : vhf
-telephone : 010-1015-1710
-sex : male

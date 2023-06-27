@@ -1,6 +1,0 @@
-name : 이채은
-age : 48
-e-mail : oi9faycz@bhban.com
-division : tm6
-telephone : 010-8048-7780
-sex : female

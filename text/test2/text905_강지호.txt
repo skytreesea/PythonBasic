@@ -1,6 +1,0 @@
-name : 강지호
-age : 26
-e-mail : wvgor7bx@bhban.com
-division : a06
-telephone : 010-7026-9070
-sex : female

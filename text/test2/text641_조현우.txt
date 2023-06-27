@@ -1,6 +1,0 @@
-name : 조현우
-age : 93
-e-mail : zb3i2d5e@bhban.com
-division : uun
-telephone : 010-2493-6824
-sex : female

@@ -1,6 +1,0 @@
-name : 김하후
-age : 09
-e-mail : fbkcwlha@bhban.com
-division : znw
-telephone : 010-9309-5193
-sex : female

@@ -1,6 +1,0 @@
-name : 윤지호
-age : 89
-e-mail : zzwvna0u@bhban.com
-division : wbw
-telephone : 010-8889-4888
-sex : female

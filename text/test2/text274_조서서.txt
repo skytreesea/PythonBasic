@@ -1,6 +1,0 @@
-name : 조서서
-age : 96
-e-mail : zp8kiigw@bhban.com
-division : qy3
-telephone : 010-6996-4969
-sex : male

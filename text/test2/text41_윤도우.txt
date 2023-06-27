@@ -1,6 +1,0 @@
-name : 윤도우
-age : 98
-e-mail : 1x6mqxv8@bhban.com
-division : en5
-telephone : 010-6698-2566
-sex : female

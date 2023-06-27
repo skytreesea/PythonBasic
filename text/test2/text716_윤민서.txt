@@ -1,6 +1,0 @@
-name : 윤민서
-age : 32
-e-mail : yyfpt7tg@bhban.com
-division : b02
-telephone : 010-3532-8335
-sex : female

@@ -1,6 +1,0 @@
-name : 조채서
-age : 04
-e-mail : 4cx08xed@bhban.com
-division : dpo
-telephone : 010-1904-4219
-sex : female

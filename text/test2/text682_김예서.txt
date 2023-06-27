@@ -1,6 +1,0 @@
-name : 김예서
-age : 74
-e-mail : 3gyyzrev@bhban.com
-division : ft1
-telephone : 010-6474-0564
-sex : female

@@ -1,6 +1,0 @@
-name : 박하우
-age : 85
-e-mail : 1ko2gb6o@bhban.com
-division : g2h
-telephone : 010-0785-7007
-sex : male

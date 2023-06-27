@@ -1,6 +1,0 @@
-name : 조서준
-age : 45
-e-mail : swocrl7m@bhban.com
-division : gyq
-telephone : 010-4045-6340
-sex : female

@@ -1,6 +1,0 @@
-name : 장서우
-age : 25
-e-mail : t4pztlit@bhban.com
-division : oh8
-telephone : 010-3625-5836
-sex : male

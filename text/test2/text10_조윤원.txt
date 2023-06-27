@@ -1,6 +1,0 @@
-name : 조윤원
-age : 04
-e-mail : wor8z64a@bhban.com
-division : 9a4
-telephone : 010-0804-2908
-sex : male

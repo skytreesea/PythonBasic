@@ -1,6 +1,0 @@
-name : 이지준
-age : 52
-e-mail : 0gv84w7u@bhban.com
-division : yir
-telephone : 010-8652-8886
-sex : female

@@ -1,6 +1,0 @@
-name : 강도아
-age : 67
-e-mail : dr71p3bv@bhban.com
-division : bne
-telephone : 010-5367-1253
-sex : female

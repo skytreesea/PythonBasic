@@ -1,6 +1,0 @@
-name : 최도은
-age : 34
-e-mail : 3lzgb5av@bhban.com
-division : r9r
-telephone : 010-3634-3636
-sex : male

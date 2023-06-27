@@ -1,6 +1,0 @@
-name : 최채은
-age : 23
-e-mail : 4eefsh72@bhban.com
-division : y1m
-telephone : 010-2723-6927
-sex : female

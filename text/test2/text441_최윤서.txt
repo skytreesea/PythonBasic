@@ -1,6 +1,0 @@
-name : 최윤서
-age : 62
-e-mail : dfqewp4n@bhban.com
-division : zgl
-telephone : 010-6462-8564
-sex : male

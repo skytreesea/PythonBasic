@@ -1,6 +1,0 @@
-name : 장지서
-age : 06
-e-mail : kz0s7zyk@bhban.com
-division : nlw
-telephone : 010-0106-3301
-sex : female

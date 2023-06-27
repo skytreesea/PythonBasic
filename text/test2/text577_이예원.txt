@@ -1,6 +1,0 @@
-name : 이예원
-age : 38
-e-mail : 9bw88c4w@bhban.com
-division : huz
-telephone : 010-2138-1421
-sex : male

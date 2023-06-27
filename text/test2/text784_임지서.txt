@@ -1,6 +1,0 @@
-name : 임지서
-age : 55
-e-mail : 2li3uiop@bhban.com
-division : bq2
-telephone : 010-1055-9010
-sex : male

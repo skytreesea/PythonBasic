@@ -1,6 +1,0 @@
-name : 최지연
-age : 37
-e-mail : yk4kmvq2@bhban.com
-division : pmc
-telephone : 010-0137-9501
-sex : female

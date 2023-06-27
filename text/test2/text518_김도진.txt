@@ -1,6 +1,0 @@
-name : 김도진
-age : 08
-e-mail : o3uxs5wk@bhban.com
-division : rcz
-telephone : 010-5081-6550
-sex : male

@@ -1,6 +1,0 @@
-name : 장예서
-age : 77
-e-mail : 1w6wykfl@bhban.com
-division : m06
-telephone : 010-0877-8708
-sex : female

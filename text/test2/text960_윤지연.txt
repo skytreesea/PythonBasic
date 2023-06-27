@@ -1,6 +1,0 @@
-name : 윤지연
-age : 36
-e-mail : fwf3f54k@bhban.com
-division : rqt
-telephone : 010-5836-0358
-sex : male

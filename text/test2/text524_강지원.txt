@@ -1,6 +1,0 @@
-name : 강지원
-age : 08
-e-mail : az59asc2@bhban.com
-division : zbd
-telephone : 010-0808-6108
-sex : male

@@ -1,6 +1,0 @@
-name : 김윤호
-age : 36
-e-mail : 8he0plnv@bhban.com
-division : 87l
-telephone : 010-3636-2636
-sex : female

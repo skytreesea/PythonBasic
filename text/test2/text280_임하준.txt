@@ -1,6 +1,0 @@
-name : 임하준
-age : 47
-e-mail : 3fqy7fkd@bhban.com
-division : ovz
-telephone : 010-4547-7.45
-sex : male

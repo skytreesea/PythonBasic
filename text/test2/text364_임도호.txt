@@ -1,6 +1,0 @@
-name : 임도호
-age : 86
-e-mail : 75ks2ux7@bhban.com
-division : pg8
-telephone : 010-3186-2231
-sex : male

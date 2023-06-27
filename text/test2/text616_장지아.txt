@@ -1,6 +1,0 @@
-name : 장지아
-age : 67
-e-mail : qwrgr2zr@bhban.com
-division : n2e
-telephone : 010-9267-4792
-sex : male

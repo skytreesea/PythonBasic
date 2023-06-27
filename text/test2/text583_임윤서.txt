@@ -1,6 +1,0 @@
-name : 임윤서
-age : 22
-e-mail : wz8m5w5p@bhban.com
-division : 380
-telephone : 010-2122-2021
-sex : female
