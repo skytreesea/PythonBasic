@@ -1,5 +1,6 @@
 import numpy as np
 from scipy import stats
+import matplotlib.pyplot as plt
 
 # Sample data
 x = np.array([1, 2, 4, 5, 8])
@@ -14,3 +15,13 @@ print("Intercept:", intercept)
 print("R-squared:", r_value ** 2)
 print("P-value:", p_value)
 print("Standard error:", std_err)
+
+
+# plot
+fig, ax = plt.subplots()
+#
+ax.scatter(x, y)
+
+
+
+plt.show()
