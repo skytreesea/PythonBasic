@@ -1,0 +1,6 @@
+name : 강채아
+age : 57
+e-mail : 70hz9d03@bhban.com
+division : nve
+telephone : 010-0357-2803
+sex : female

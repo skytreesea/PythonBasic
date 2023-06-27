@@ -1,0 +1,6 @@
+name : 윤예아
+age : 51
+e-mail : xkhsizbs@bhban.com
+division : xti
+telephone : 010-5251-7652
+sex : female

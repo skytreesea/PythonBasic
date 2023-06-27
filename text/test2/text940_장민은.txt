@@ -1,0 +1,6 @@
+name : 장민은
+age : 11
+e-mail : 62p3zktg@bhban.com
+division : yum
+telephone : 010-1011-1910
+sex : male

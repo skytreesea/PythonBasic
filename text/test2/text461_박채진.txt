@@ -1,0 +1,6 @@
+name : 박채진
+age : 15
+e-mail : bfvc08zi@bhban.com
+division : qt3
+telephone : 010-7915-0079
+sex : female

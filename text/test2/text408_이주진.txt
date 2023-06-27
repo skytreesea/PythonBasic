@@ -1,0 +1,6 @@
+name : 이주진
+age : 51
+e-mail : ol0sf5g8@bhban.com
+division : aha
+telephone : 010-8351-5583
+sex : female

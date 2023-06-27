@@ -1,0 +1,6 @@
+name : 장채진
+age : 47
+e-mail : p2oaqruw@bhban.com
+division : 0g6
+telephone : 010-5147-4051
+sex : female

@@ -1,0 +1,6 @@
+name : 이도윤
+age : 55
+e-mail : td22p1uq@bhban.com
+division : wwt
+telephone : 010-7455-1674
+sex : female

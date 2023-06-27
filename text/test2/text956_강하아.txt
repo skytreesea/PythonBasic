@@ -1,0 +1,6 @@
+name : 강하아
+age : 75
+e-mail : h06mq5i6@bhban.com
+division : 3of
+telephone : 010-7475-3274
+sex : female

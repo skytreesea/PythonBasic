@@ -1,0 +1,6 @@
+name : 강주진
+age : 25
+e-mail : v92uz7a8@bhban.com
+division : zaz
+telephone : 010-6325-5063
+sex : male

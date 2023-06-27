@@ -1,0 +1,6 @@
+name : 조채연
+age : 04
+e-mail : qddigzy7@bhban.com
+division : v0i
+telephone : 010-2404-7224
+sex : male

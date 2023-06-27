@@ -1,0 +1,6 @@
+name : 윤주원
+age : 85
+e-mail : 8zalidt8@bhban.com
+division : 44v
+telephone : 010-2285-4322
+sex : male

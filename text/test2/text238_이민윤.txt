@@ -1,0 +1,6 @@
+name : 이민윤
+age : 75
+e-mail : 4xi63p8u@bhban.com
+division : nya
+telephone : 010-9075-2090
+sex : female

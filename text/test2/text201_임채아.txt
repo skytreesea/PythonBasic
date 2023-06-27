@@ -1,0 +1,6 @@
+name : 임채아
+age : 53
+e-mail : ef17xm2p@bhban.com
+division : cx0
+telephone : 010-8653-9086
+sex : female

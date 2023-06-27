@@ -1,0 +1,6 @@
+name : 윤지후
+age : 34
+e-mail : ihul12s9@bhban.com
+division : afe
+telephone : 010-7434-9274
+sex : female

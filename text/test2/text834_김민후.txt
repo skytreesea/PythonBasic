@@ -1,0 +1,6 @@
+name : 김민후
+age : 16
+e-mail : 04kacxag@bhban.com
+division : 7dg
+telephone : 010-0116-3201
+sex : male

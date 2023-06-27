@@ -1,0 +1,6 @@
+name : 윤지우
+age : 04
+e-mail : 6obnh543@bhban.com
+division : tzw
+telephone : 010-2904-4129
+sex : male

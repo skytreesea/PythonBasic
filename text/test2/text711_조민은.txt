@@ -1,0 +1,6 @@
+name : 조민은
+age : 24
+e-mail : i5tzpsnh@bhban.com
+division : xb0
+telephone : 010-5324-2953
+sex : female

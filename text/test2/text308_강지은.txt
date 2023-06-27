@@ -1,0 +1,6 @@
+name : 강지은
+age : 02
+e-mail : dzu9rvzn@bhban.com
+division : 3di
+telephone : 010-2402-7624
+sex : female

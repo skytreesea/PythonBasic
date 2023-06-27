@@ -1,0 +1,6 @@
+name : 최하준
+age : 86
+e-mail : 6uxblmf3@bhban.com
+division : 39n
+telephone : 010-0986-1809
+sex : male

@@ -1,0 +1,6 @@
+name : 강현윤
+age : 05
+e-mail : p8d6il8r@bhban.com
+division : 1ku
+telephone : 010-2805-.328
+sex : male

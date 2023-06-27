@@ -1,0 +1,6 @@
+name : 정민원
+age : 72
+e-mail : 981bb3i6@bhban.com
+division : 6mi
+telephone : 010-9272-5492
+sex : female

@@ -1,0 +1,6 @@
+name : 임윤은
+age : 32
+e-mail : 8ykokdfb@bhban.com
+division : gn7
+telephone : 010-3532-8335
+sex : male

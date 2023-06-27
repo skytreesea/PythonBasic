@@ -1,0 +1,6 @@
+name : 장지아
+age : 59
+e-mail : pz79wis9@bhban.com
+division : l3t
+telephone : 010-1059-8810
+sex : female

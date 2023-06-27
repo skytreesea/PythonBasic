@@ -1,0 +1,6 @@
+name : 윤지진
+age : 58
+e-mail : 4f8oie0i@bhban.com
+division : xs4
+telephone : 010-1258-2112
+sex : male

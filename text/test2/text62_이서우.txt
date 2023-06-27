@@ -1,0 +1,6 @@
+name : 이서우
+age : 49
+e-mail : abnz18sz@bhban.com
+division : klw
+telephone : 010-7749-7377
+sex : male

@@ -1,0 +1,6 @@
+name : 윤지원
+age : 91
+e-mail : k235cref@bhban.com
+division : zog
+telephone : 010-1391-8613
+sex : female

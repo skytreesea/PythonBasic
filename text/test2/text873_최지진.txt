@@ -1,0 +1,6 @@
+name : 최지진
+age : 64
+e-mail : o3iguohy@bhban.com
+division : u5b
+telephone : 010-6964-6469
+sex : male

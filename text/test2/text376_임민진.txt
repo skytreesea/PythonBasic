@@ -1,0 +1,6 @@
+name : 임민진
+age : 41
+e-mail : 2hof7xqd@bhban.com
+division : ftb
+telephone : 010-3641-3236
+sex : male

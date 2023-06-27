@@ -1,0 +1,6 @@
+name : 김예우
+age : 12
+e-mail : um4fqx24@bhban.com
+division : xxb
+telephone : 010-8012-9280
+sex : female

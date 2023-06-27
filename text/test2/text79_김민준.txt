@@ -1,0 +1,6 @@
+name : 김민준
+age : 13
+e-mail : 5bc9agwg@bhban.com
+division : 688
+telephone : 010-0038-8900
+sex : male

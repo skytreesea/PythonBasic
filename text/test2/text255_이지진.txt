@@ -1,0 +1,6 @@
+name : 이지진
+age : 86
+e-mail : qc6q6y6c@bhban.com
+division : 640
+telephone : 010-3286-3432
+sex : female

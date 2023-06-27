@@ -1,0 +1,6 @@
+name : 이지우
+age : 82
+e-mail : 0i8mrvtp@bhban.com
+division : 8ev
+telephone : 010-9282-4692
+sex : female

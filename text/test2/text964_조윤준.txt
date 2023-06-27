@@ -1,0 +1,6 @@
+name : 조윤준
+age : 34
+e-mail : hoxfqnpm@bhban.com
+division : r2d
+telephone : 010-9834-0398
+sex : female

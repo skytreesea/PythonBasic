@@ -1,0 +1,6 @@
+name : 임민윤
+age : 03
+e-mail : 991n0mto@bhban.com
+division : lfp
+telephone : 010-2003-2920
+sex : female

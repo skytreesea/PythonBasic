@@ -1,0 +1,6 @@
+name : 김예우
+age : 41
+e-mail : pk74z0ux@bhban.com
+division : mee
+telephone : 010-9241-4392
+sex : male

@@ -1,0 +1,6 @@
+name : 이민연
+age : 48
+e-mail : 631gpuzq@bhban.com
+division : pem
+telephone : 010-1248-7712
+sex : male

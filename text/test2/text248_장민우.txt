@@ -1,0 +1,6 @@
+name : 장민우
+age : 36
+e-mail : 8mm2y3av@bhban.com
+division : osg
+telephone : 010-2836-.428
+sex : female

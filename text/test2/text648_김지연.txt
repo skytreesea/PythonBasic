@@ -1,0 +1,6 @@
+name : 김지연
+age : 14
+e-mail : phlg384d@bhban.com
+division : i0x
+telephone : 010-0514-7505
+sex : female

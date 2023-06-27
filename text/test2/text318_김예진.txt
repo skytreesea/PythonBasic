@@ -1,0 +1,6 @@
+name : 김예진
+age : 33
+e-mail : 8d9t05em@bhban.com
+division : kt2
+telephone : 010-2433-8524
+sex : female

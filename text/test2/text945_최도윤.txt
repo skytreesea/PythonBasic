@@ -1,0 +1,6 @@
+name : 최도윤
+age : 13
+e-mail : ww6l5ara@bhban.com
+division : 79d
+telephone : 010-1013-2410
+sex : male

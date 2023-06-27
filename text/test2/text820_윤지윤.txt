@@ -1,0 +1,6 @@
+name : 윤지윤
+age : 22
+e-mail : y5aiqqp6@bhban.com
+division : 6e1
+telephone : 010-9922-1999
+sex : male

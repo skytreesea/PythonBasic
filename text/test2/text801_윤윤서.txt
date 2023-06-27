@@ -1,0 +1,6 @@
+name : 윤윤서
+age : 88
+e-mail : 2bdmatfc@bhban.com
+division : v77
+telephone : 010-9388-0393
+sex : male

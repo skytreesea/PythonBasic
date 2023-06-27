@@ -1,0 +1,6 @@
+name : 김지진
+age : 63
+e-mail : 645g7m5q@bhban.com
+division : e53
+telephone : 010-0763-3207
+sex : female

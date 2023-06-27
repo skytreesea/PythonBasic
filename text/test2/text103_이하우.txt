@@ -1,0 +1,6 @@
+name : 이하우
+age : 26
+e-mail : s48rtetp@bhban.com
+division : toe
+telephone : 010-0126-0701
+sex : male

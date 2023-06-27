@@ -1,0 +1,6 @@
+name : 윤지우
+age : 64
+e-mail : 3zz9l6b7@bhban.com
+division : 65r
+telephone : 010-0764-4607
+sex : female

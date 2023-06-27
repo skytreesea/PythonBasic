@@ -1,0 +1,6 @@
+name : 김주진
+age : 83
+e-mail : mhdqg532@bhban.com
+division : ifz
+telephone : 010-6983-8169
+sex : male

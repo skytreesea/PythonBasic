@@ -1,0 +1,6 @@
+name : 장지준
+age : 23
+e-mail : 12eta6yz@bhban.com
+division : qsz
+telephone : 010-7023-7270
+sex : female

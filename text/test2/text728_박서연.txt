@@ -1,0 +1,6 @@
+name : 박서연
+age : 12
+e-mail : mssc7kza@bhban.com
+division : 9s5
+telephone : 010-4912-4449
+sex : male

@@ -1,0 +1,6 @@
+name : 최민우
+age : 58
+e-mail : pvom9rza@bhban.com
+division : 2fu
+telephone : 010-7758-6777
+sex : female

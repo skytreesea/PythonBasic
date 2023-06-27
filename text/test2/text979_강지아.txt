@@ -1,0 +1,6 @@
+name : 강지아
+age : 69
+e-mail : hg3xqer6@bhban.com
+division : c9x
+telephone : 010-1769-0517
+sex : male

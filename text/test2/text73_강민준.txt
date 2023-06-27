@@ -1,0 +1,6 @@
+name : 강민준
+age : 89
+e-mail : 67y3rg4v@bhban.com
+division : 2pz
+telephone : 010-3589-2835
+sex : female

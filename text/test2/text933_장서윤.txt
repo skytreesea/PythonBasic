@@ -1,0 +1,6 @@
+name : 장서윤
+age : 41
+e-mail : elho8ykv@bhban.com
+division : w62
+telephone : 010-0141-8.01
+sex : female

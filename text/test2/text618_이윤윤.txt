@@ -1,0 +1,6 @@
+name : 이윤윤
+age : 76
+e-mail : lt86w2o7@bhban.com
+division : yky
+telephone : 010-9276-4892
+sex : female

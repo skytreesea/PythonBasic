@@ -1,0 +1,6 @@
+name : 장서준
+age : 02
+e-mail : kz0gl1fm@bhban.com
+division : hbk
+telephone : 010-0502-2305
+sex : female

@@ -1,0 +1,6 @@
+name : 윤서준
+age : 78
+e-mail : qkfx5lk9@bhban.com
+division : cqq
+telephone : 010-5878-8858
+sex : female

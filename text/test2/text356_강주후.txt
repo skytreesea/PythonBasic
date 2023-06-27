@@ -1,0 +1,6 @@
+name : 강주후
+age : 31
+e-mail : f5n2w0wi@bhban.com
+division : 9p6
+telephone : 010-1631-.516
+sex : female

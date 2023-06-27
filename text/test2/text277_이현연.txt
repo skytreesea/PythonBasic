@@ -1,0 +1,6 @@
+name : 이현연
+age : 17
+e-mail : sfep6m1w@bhban.com
+division : ilf
+telephone : 010-4517-7.45
+sex : male

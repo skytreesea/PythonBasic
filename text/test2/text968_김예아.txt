@@ -1,0 +1,6 @@
+name : 김예아
+age : 33
+e-mail : 6d5o3tbm@bhban.com
+division : i98
+telephone : 010-2833-0428
+sex : female

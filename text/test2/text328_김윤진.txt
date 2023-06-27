@@ -1,0 +1,6 @@
+name : 김윤진
+age : 12
+e-mail : c25a5z74@bhban.com
+division : c7w
+telephone : 010-2912-4929
+sex : male
