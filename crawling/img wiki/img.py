@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-key = '아이유'
+key = '뉴욕'
 # 위키피디아 항목의 url
 url = 'https://ko.wikipedia.org/wiki/' + key
 # with open(r'C:\Users\ERC\Pictures\사진 저장 폴더\\뉴욕연습.jpg', 'wb') as f:
@@ -15,7 +15,7 @@ for i in soup.find_all('div',{'class':'thumbinner'}):
     soup2 = BeautifulSoup(requests.get(newurl, headers = headers).text,'lxml') 
     srcimg = 'https:' + soup2.find('div',{'class':'fullImageLink'}).find('a').get('href')
     
-    with open(r'C:\Users\ERC\Pictures\사진 저장 폴더\\뉴욕{}.jpg'.format(str(k)), 'wb') as f:
+    with open(r'C:\Users\skytr\OneDrive\문서\PythonBasic\crawling\뉴욕{}.jpg'.format(str(k)), 'wb') as f:
         f.write(requests.get(srcimg).content)
     k += 1
  

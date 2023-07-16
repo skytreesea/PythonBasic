@@ -1,0 +1,17 @@
+<div class="header">
+    <div class="container">
+      <img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/11880349_10156070655115195_2632440883343701932_n.jpg">
+    </div>
+  </div>
+  <div class="create">
+    <div class="container">
+      <div class="field">
+      <h1>Sign Up</h1>
+      <%= form_for(@user) do |f| %>
+        <%= f.text_area :username, :placeholder => "Username" %>
+        <%= f.text_area :password, :placeholder => "Password" %>
+        <%= f.submit "Create", class: "btn-submit" %>
+      <% end %>
+      </div>
+    </div>
+  </div>

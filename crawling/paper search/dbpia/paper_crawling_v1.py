@@ -1,9 +1,8 @@
-# 국회도서관 크롤링 1차 성공
 from bs4 import BeautifulSoup  
 import requests 
 import re
 
-Name = input("검색할 저자 이름")
+Name = "허동숙"
 
 headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
  

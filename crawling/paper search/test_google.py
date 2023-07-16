@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 구글 검색 URL 생성
-query = '김용창'
+query = '윤세찬'
 earticle_url = f'https://www.earticle.net/Search/Result?sf=1&q={query}'
 
 # 구글 검색 페이지에서 HTML 가져오기

@@ -46,7 +46,11 @@ def get_paper_minister(controlNo):
     soup = BeautifulSoup(requests.get(url, verify=False, headers=headers).text, 'lxml')
     # Loop through all <item> tags
     
+<<<<<<< HEAD
     with open(r'C:\Users\skytr\Documents\GitHub\PythonBasic\crawling\paper search\ministera_new_result2.txt','w') as f:
+=======
+    with open(r'C:\Users\skytr\Documents\GitHub\GixpertUtilWorker\data\a_new_result2.txt','w') as f:
+>>>>>>> 326b468 (recent changes)
         for i in soup.find_all('div',{'class':'scrollY'}):
              #f.write(i.find_all('p')[0].text.strip('\ufeff'))
              print(i.find_all('p')[0].text.strip('\ufeff'))
@@ -60,5 +64,9 @@ def get_paper_minister(controlNo):
 
 #print(get_paper_controlno_from_name('김창현'))
 
+<<<<<<< HEAD
 get_paper_minister('KDMT1201905905') 
 # 키워드는 멀티값으로 가져와서 리스트로 주면 좋겠다. 지도교수 키워드 
+=======
+get_paper_minister('KDMT1201905905') 
+>>>>>>> 326b468 (recent changes)
