@@ -18,7 +18,7 @@ def opencsv(filename):
 # after import usecsv, then "writecsv('a.csv', a)
 
 def writecsv(filename, the_list):
-    with open(filename,'w',newline='',encoding='utf-8-sig') as f:
+    with open(filename,'w',newline='',encoding='utf-8-sig') as f: # encoding을 할 때 'utf-8-sig'이라고 해야 함 
         a=csv.writer(f, delimiter=',')
         a.writerows(the_list)
 
