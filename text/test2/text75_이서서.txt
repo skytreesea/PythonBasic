@@ -1,0 +1,6 @@
+name : 이서서
+age : 24
+e-mail : l8wcc40q@bhban.com
+division : 9dl
+telephone : 010-9824-8498
+sex : male

@@ -1,0 +1,6 @@
+name : 정도진
+age : 11
+e-mail : ugmingfz@bhban.com
+division : yy3
+telephone : 010-8011-9380
+sex : female

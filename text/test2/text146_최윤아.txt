@@ -1,0 +1,6 @@
+name : 최윤아
+age : 99
+e-mail : a5wk6u56@bhban.com
+division : 0t5
+telephone : 010-0976-4409
+sex : female

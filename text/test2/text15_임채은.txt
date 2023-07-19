@@ -1,0 +1,6 @@
+name : 임채은
+age : 98
+e-mail : 7s93lo2b@bhban.com
+division : 0zs
+telephone : 010-3098-2330
+sex : male

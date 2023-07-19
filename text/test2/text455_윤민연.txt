@@ -1,0 +1,6 @@
+name : 윤민연
+age : 86
+e-mail : g7yczzzg@bhban.com
+division : 40r
+telephone : 010-5786-5957
+sex : female

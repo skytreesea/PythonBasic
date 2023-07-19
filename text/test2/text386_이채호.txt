@@ -1,0 +1,6 @@
+name : 이채호
+age : 34
+e-mail : 2lx7uq8s@bhban.com
+division : iri
+telephone : 010-3634-3936
+sex : male

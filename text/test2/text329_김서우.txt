@@ -1,0 +1,6 @@
+name : 김서우
+age : 22
+e-mail : 6y322nez@bhban.com
+division : 29v
+telephone : 010-9122-9391
+sex : female

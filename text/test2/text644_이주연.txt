@@ -1,0 +1,6 @@
+name : 이주연
+age : 48
+e-mail : wpyzneo6@bhban.com
+division : ilr
+telephone : 010-1248-7712
+sex : female

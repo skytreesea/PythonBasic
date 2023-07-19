@@ -1,0 +1,6 @@
+name : 임하진
+age : 09
+e-mail : vecua44x@bhban.com
+division : wft
+telephone : 010-5809-0958
+sex : male

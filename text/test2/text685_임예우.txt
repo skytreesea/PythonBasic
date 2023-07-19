@@ -1,0 +1,6 @@
+name : 임예우
+age : 32
+e-mail : x02czikf@bhban.com
+division : 1oc
+telephone : 010-6532-0765
+sex : female

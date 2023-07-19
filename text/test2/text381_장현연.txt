@@ -1,0 +1,6 @@
+name : 장현연
+age : 42
+e-mail : cyrm101c@bhban.com
+division : kgc
+telephone : 010-3642-3536
+sex : female

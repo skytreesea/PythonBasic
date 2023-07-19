@@ -1,0 +1,6 @@
+name : 임지아
+age : 06
+e-mail : ulam1nby@bhban.com
+division : 06z
+telephone : 010-4206-6642
+sex : male

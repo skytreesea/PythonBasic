@@ -1,0 +1,6 @@
+name : 박민진
+age : 01
+e-mail : 50pezwkv@bhban.com
+division : 83m
+telephone : 010-2401-7324
+sex : male

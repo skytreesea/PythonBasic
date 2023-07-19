@@ -1,0 +1,6 @@
+name : 임서준
+age : 62
+e-mail : g9h191y2@bhban.com
+division : idz
+telephone : 010-2762-7727
+sex : female

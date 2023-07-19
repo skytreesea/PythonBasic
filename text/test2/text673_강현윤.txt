@@ -1,0 +1,6 @@
+name : 강현윤
+age : 94
+e-mail : u0ymf80k@bhban.com
+division : tcd
+telephone : 010-0957-9809
+sex : male

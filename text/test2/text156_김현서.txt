@@ -1,0 +1,6 @@
+name : 김현서
+age : 03
+e-mail : 1z4mp7mr@bhban.com
+division : hw6
+telephone : 010-1003-5310
+sex : female

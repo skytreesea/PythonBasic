@@ -1,0 +1,6 @@
+name : 조지아
+age : 54
+e-mail : 50r752fb@bhban.com
+division : v82
+telephone : 010-0754-7407
+sex : male

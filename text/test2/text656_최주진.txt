@@ -1,0 +1,6 @@
+name : 최주진
+age : 97
+e-mail : acy49w0l@bhban.com
+division : qgo
+telephone : 010-1097-8210
+sex : male

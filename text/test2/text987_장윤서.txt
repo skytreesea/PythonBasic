@@ -1,0 +1,6 @@
+name : 장윤서
+age : 68
+e-mail : 1r4p6ncy@bhban.com
+division : o3y
+telephone : 010-8776-0587
+sex : female

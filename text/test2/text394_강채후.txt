@@ -1,0 +1,6 @@
+name : 강채후
+age : 26
+e-mail : 6zfgsldn@bhban.com
+division : 2ua
+telephone : 010-3626-4736
+sex : male

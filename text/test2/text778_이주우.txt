@@ -1,0 +1,6 @@
+name : 이주우
+age : 58
+e-mail : n7v1x9qe@bhban.com
+division : 3qc
+telephone : 010-1058-8510
+sex : female

@@ -1,0 +1,6 @@
+name : 임채후
+age : 14
+e-mail : b0wimd94@bhban.com
+division : r04
+telephone : 010-2214-7222
+sex : male

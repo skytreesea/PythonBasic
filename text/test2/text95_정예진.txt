@@ -1,0 +1,6 @@
+name : 정예진
+age : 24
+e-mail : qtpkq8zd@bhban.com
+division : hvs
+telephone : 010-0124-0201
+sex : male

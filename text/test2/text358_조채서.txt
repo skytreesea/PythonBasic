@@ -1,0 +1,6 @@
+name : 조채서
+age : 62
+e-mail : rh011o55@bhban.com
+division : s6i
+telephone : 010-2862-1828
+sex : male

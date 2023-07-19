@@ -1,0 +1,6 @@
+name : 박채호
+age : 25
+e-mail : nqhqtyqo@bhban.com
+division : ezm
+telephone : 010-3625-5836
+sex : female

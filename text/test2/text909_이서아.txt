@@ -1,0 +1,6 @@
+name : 이서아
+age : 02
+e-mail : 226u7wxt@bhban.com
+division : wl6
+telephone : 010-3702-9937
+sex : male

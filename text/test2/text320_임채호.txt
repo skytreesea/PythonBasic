@@ -1,0 +1,6 @@
+name : 임채호
+age : 24
+e-mail : k2tca349@bhban.com
+division : xww
+telephone : 010-8724-.487
+sex : male

@@ -1,0 +1,6 @@
+name : 이하아
+age : 27
+e-mail : kql13e40@bhban.com
+division : 125
+telephone : 010-3627-2936
+sex : female

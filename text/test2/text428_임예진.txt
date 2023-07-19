@@ -1,0 +1,6 @@
+name : 임예진
+age : 64
+e-mail : w15crpdy@bhban.com
+division : e96
+telephone : 010-2764-7527
+sex : female

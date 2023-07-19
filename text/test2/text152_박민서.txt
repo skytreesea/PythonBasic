@@ -1,0 +1,6 @@
+name : 박민서
+age : 51
+e-mail : tkouqk6f@bhban.com
+division : inf
+telephone : 010-1051-4910
+sex : female

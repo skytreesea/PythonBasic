@@ -1,0 +1,6 @@
+name : 박채아
+age : 46
+e-mail : cnw0l1on@bhban.com
+division : m1i
+telephone : 010-3746-8137
+sex : female

@@ -1,0 +1,6 @@
+name : 윤지서
+age : 37
+e-mail : u0cuq7q8@bhban.com
+division : c39
+telephone : 010-7537-1575
+sex : male

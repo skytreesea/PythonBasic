@@ -1,0 +1,6 @@
+name : 이도진
+age : 87
+e-mail : 97xrdet6@bhban.com
+division : exk
+telephone : 010-0987-4209
+sex : female

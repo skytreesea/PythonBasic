@@ -1,0 +1,6 @@
+name : 윤현은
+age : 23
+e-mail : 12fk2l0i@bhban.com
+division : s8x
+telephone : 010-0923-8309
+sex : female

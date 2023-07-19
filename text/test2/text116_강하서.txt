@@ -1,0 +1,6 @@
+name : 강하서
+age : 56
+e-mail : ckg7zou4@bhban.com
+division : yq0
+telephone : 010-5356-1853
+sex : female

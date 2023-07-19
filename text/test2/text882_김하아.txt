@@ -1,0 +1,6 @@
+name : 김하아
+age : 87
+e-mail : dx8ggekt@bhban.com
+division : 836
+telephone : 010-6787-7167
+sex : male

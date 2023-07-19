@@ -1,0 +1,6 @@
+name : 정도준
+age : 15
+e-mail : 0msqn1ni@bhban.com
+division : k1s
+telephone : 010-1015-0210
+sex : female

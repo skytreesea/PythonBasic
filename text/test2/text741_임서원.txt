@@ -1,0 +1,6 @@
+name : 임서원
+age : 68
+e-mail : gfz00kkm@bhban.com
+division : o71
+telephone : 010-6268-5562
+sex : female

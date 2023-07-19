@@ -1,0 +1,6 @@
+name : 장윤아
+age : 12
+e-mail : 5xxhzz24@bhban.com
+division : la2
+telephone : 010-5701-9857
+sex : female

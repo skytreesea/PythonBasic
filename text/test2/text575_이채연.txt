@@ -1,0 +1,6 @@
+name : 이채연
+age : 42
+e-mail : m518x54u@bhban.com
+division : x42
+telephone : 010-2142-1221
+sex : male

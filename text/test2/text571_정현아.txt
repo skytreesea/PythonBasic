@@ -1,0 +1,6 @@
+name : 정현아
+age : 33
+e-mail : ihc43dro@bhban.com
+division : v79
+telephone : 010-0933-0909
+sex : female

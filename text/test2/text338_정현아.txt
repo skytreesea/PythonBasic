@@ -1,0 +1,6 @@
+name : 정현아
+age : 46
+e-mail : fovyn0l7@bhban.com
+division : h3i
+telephone : 010-1346-5013
+sex : female

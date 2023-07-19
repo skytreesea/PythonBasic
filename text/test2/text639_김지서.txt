@@ -1,0 +1,6 @@
+name : 김지서
+age : 86
+e-mail : bt1ycrbh@bhban.com
+division : 6d6
+telephone : 010-2486-6724
+sex : female

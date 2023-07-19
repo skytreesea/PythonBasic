@@ -1,0 +1,6 @@
+name : 이현은
+age : 59
+e-mail : 8kohl0i3@bhban.com
+division : cw2
+telephone : 010-0959-9909
+sex : male

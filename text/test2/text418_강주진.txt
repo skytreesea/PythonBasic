@@ -1,0 +1,6 @@
+name : 강주진
+age : 62
+e-mail : 43ota9zx@bhban.com
+division : sds
+telephone : 010-2762-6727
+sex : female

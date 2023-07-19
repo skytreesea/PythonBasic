@@ -1,0 +1,6 @@
+name : 임윤서
+age : 98
+e-mail : ap202mev@bhban.com
+division : iep
+telephone : 010-5098-3550
+sex : female

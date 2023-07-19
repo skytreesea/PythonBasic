@@ -1,0 +1,6 @@
+name : 이민윤
+age : 33
+e-mail : 239ebenn@bhban.com
+division : svz
+telephone : 010-3633-7236
+sex : male

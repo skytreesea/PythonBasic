@@ -1,0 +1,6 @@
+name : 이현연
+age : 87
+e-mail : mr1pu6fg@bhban.com
+division : t8n
+telephone : 010-2987-3829
+sex : female

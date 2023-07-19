@@ -1,0 +1,6 @@
+name : 정채우
+age : 14
+e-mail : 2cwb9nz4@bhban.com
+division : x49
+telephone : 010-3314-3733
+sex : male

@@ -1,0 +1,6 @@
+name : 이민우
+age : 83
+e-mail : 49ztkws7@bhban.com
+division : afp
+telephone : 010-0934-9109
+sex : male

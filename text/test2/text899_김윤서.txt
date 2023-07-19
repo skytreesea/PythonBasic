@@ -1,0 +1,6 @@
+name : 김윤서
+age : 01
+e-mail : 35yolzzl@bhban.com
+division : m5g
+telephone : 010-5701-9857
+sex : male

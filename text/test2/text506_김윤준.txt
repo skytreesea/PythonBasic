@@ -1,0 +1,6 @@
+name : 김윤준
+age : 86
+e-mail : 5d59rig8@bhban.com
+division : o2q
+telephone : 010-0786-4207
+sex : female

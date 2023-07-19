@@ -1,0 +1,6 @@
+name : 조지준
+age : 47
+e-mail : x4lz6w0d@bhban.com
+division : og6
+telephone : 010-2147-1921
+sex : female

@@ -1,0 +1,6 @@
+name : 장윤윤
+age : 28
+e-mail : xdyfnwmz@bhban.com
+division : x25
+telephone : 010-6328-0263
+sex : male

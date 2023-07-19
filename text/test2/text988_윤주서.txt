@@ -1,0 +1,6 @@
+name : 윤주서
+age : 76
+e-mail : 9tlt6t6a@bhban.com
+division : rs0
+telephone : 010-8776-0587
+sex : female

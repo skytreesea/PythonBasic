@@ -1,0 +1,6 @@
+name : 최서원
+age : 83
+e-mail : bch72ie1@bhban.com
+division : fum
+telephone : 010-0783-7907
+sex : male

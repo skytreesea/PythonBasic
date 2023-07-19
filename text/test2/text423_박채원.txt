@@ -1,0 +1,6 @@
+name : 박채원
+age : 62
+e-mail : oryqu34w@bhban.com
+division : kmq
+telephone : 010-2762-7127
+sex : female

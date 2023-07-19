@@ -1,0 +1,6 @@
+name : 김지윤
+age : 66
+e-mail : 4al5s7zz@bhban.com
+division : pqy
+telephone : 010-2766-6627
+sex : male

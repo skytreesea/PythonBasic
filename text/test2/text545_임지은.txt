@@ -1,0 +1,6 @@
+name : 임지은
+age : 73
+e-mail : a4lphg78@bhban.com
+division : l9t
+telephone : 010-0773-8307
+sex : female

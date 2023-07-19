@@ -1,0 +1,6 @@
+name : 윤지아
+age : 62
+e-mail : rcnb92w1@bhban.com
+division : eav
+telephone : 010-0762-3607
+sex : female

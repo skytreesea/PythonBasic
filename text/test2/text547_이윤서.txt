@@ -1,0 +1,6 @@
+name : 이윤서
+age : 84
+e-mail : uthf0oz3@bhban.com
+division : ebz
+telephone : 010-0784-8507
+sex : female

@@ -1,0 +1,6 @@
+name : 최채연
+age : 77
+e-mail : bcckp1ik@bhban.com
+division : c58
+telephone : 010-8762-0087
+sex : male
