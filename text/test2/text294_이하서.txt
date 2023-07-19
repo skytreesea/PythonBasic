@@ -1,0 +1,6 @@
+name : 이하서
+age : 17
+e-mail : a1wuxd5i@bhban.com
+division : hmk
+telephone : 010-2428-6624
+sex : male

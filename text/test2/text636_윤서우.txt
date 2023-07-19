@@ -1,0 +1,6 @@
+name : 윤서우
+age : 15
+e-mail : 8mueywoz@bhban.com
+division : zpl
+telephone : 010-2515-6425
+sex : male

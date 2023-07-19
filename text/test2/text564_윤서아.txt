@@ -1,0 +1,6 @@
+name : 윤서아
+age : 49
+e-mail : 9emkywh3@bhban.com
+division : lm5
+telephone : 010-0949-0109
+sex : female

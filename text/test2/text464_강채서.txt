@@ -1,0 +1,6 @@
+name : 강채서
+age : 13
+e-mail : rs83cshz@bhban.com
+division : d7y
+telephone : 010-7913-0279
+sex : male

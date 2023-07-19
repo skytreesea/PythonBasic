@@ -1,0 +1,6 @@
+name : 이예은
+age : 28
+e-mail : q8zg0gn6@bhban.com
+division : pbw
+telephone : 010-2428-6624
+sex : male

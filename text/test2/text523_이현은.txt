@@ -1,0 +1,6 @@
+name : 이현은
+age : 04
+e-mail : 18xo5thx@bhban.com
+division : 31b
+telephone : 010-0804-6008
+sex : male

@@ -1,0 +1,6 @@
+name : 이지아
+age : 86
+e-mail : zk8lyiwn@bhban.com
+division : po4
+telephone : 010-3086-3030
+sex : female

@@ -1,0 +1,6 @@
+name : 임채은
+age : 03
+e-mail : lqrvlp5r@bhban.com
+division : c7g
+telephone : 010-0503-2805
+sex : female

@@ -1,0 +1,6 @@
+name : 임지후
+age : 84
+e-mail : octprvb7@bhban.com
+division : nhc
+telephone : 010-0984-5609
+sex : female

@@ -1,0 +1,6 @@
+name : 정지서
+age : 02
+e-mail : u11y2zmq@bhban.com
+division : g47
+telephone : 010-3302-3533
+sex : male

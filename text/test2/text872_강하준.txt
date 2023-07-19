@@ -1,0 +1,6 @@
+name : 강하준
+age : 55
+e-mail : vqx161xw@bhban.com
+division : z9w
+telephone : 010-6955-6369
+sex : male

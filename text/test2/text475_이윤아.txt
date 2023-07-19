@@ -1,0 +1,6 @@
+name : 이윤아
+age : 84
+e-mail : raziy436@bhban.com
+division : 1w3
+telephone : 010-0684-1206
+sex : female

@@ -1,0 +1,6 @@
+name : 박채원
+age : 05
+e-mail : obeaud5q@bhban.com
+division : 4zb
+telephone : 010-1005-7610
+sex : male

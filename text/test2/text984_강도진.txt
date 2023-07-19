@@ -1,0 +1,6 @@
+name : 강도진
+age : 68
+e-mail : 6ymx4f5d@bhban.com
+division : rwy
+telephone : 010-5768-0557
+sex : female

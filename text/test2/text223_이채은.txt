@@ -1,0 +1,6 @@
+name : 이채은
+age : 07
+e-mail : axag8lse@bhban.com
+division : a91
+telephone : 010-9907-4099
+sex : female

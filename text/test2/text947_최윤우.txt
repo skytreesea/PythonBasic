@@ -1,0 +1,6 @@
+name : 최윤우
+age : 02
+e-mail : 8dea40c6@bhban.com
+division : zmr
+telephone : 010-1002-2610
+sex : female

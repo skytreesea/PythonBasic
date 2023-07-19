@@ -1,0 +1,6 @@
+name : 윤민진
+age : 44
+e-mail : cfvfxgz5@bhban.com
+division : 3fz
+telephone : 010-4044-6440
+sex : female

@@ -1,0 +1,6 @@
+name : 김채후
+age : 14
+e-mail : cw7osb8i@bhban.com
+division : e5o
+telephone : 010-1314-9613
+sex : male

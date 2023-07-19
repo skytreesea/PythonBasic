@@ -1,0 +1,6 @@
+name : 이민준
+age : 14
+e-mail : sqzvy8bw@bhban.com
+division : b02
+telephone : 010-3514-6035
+sex : male

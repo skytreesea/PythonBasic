@@ -1,0 +1,6 @@
+name : 강현서
+age : 38
+e-mail : rzzsvm9x@bhban.com
+division : xq2
+telephone : 010-2738-7427
+sex : female

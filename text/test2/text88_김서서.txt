@@ -1,0 +1,6 @@
+name : 김서서
+age : 12
+e-mail : xyvlwgrc@bhban.com
+division : ewk
+telephone : 010-6012-2960
+sex : female

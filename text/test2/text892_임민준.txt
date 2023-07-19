@@ -1,0 +1,6 @@
+name : 임민준
+age : 06
+e-mail : wln3yzm1@bhban.com
+division : gqt
+telephone : 010-7006-7970
+sex : male

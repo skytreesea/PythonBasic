@@ -1,0 +1,6 @@
+name : 장윤은
+age : 88
+e-mail : ninykimb@bhban.com
+division : kd9
+telephone : 010-6988-4469
+sex : male

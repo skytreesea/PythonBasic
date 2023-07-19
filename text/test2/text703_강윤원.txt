@@ -1,0 +1,6 @@
+name : 강윤원
+age : 91
+e-mail : h7np12q0@bhban.com
+division : ikf
+telephone : 010-9191-2291
+sex : female

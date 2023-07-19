@@ -1,0 +1,6 @@
+name : 조하아
+age : 06
+e-mail : 2m6on0sz@bhban.com
+division : fri
+telephone : 010-3206-3532
+sex : female

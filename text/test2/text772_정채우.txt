@@ -1,0 +1,6 @@
+name : 정채우
+age : 11
+e-mail : ez7qv2vf@bhban.com
+division : 653
+telephone : 010-8011-.880
+sex : male

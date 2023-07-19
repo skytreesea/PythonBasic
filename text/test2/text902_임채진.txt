@@ -1,0 +1,6 @@
+name : 임채진
+age : 02
+e-mail : nxqofplq@bhban.com
+division : vr5
+telephone : 010-7002-8870
+sex : female

@@ -1,0 +1,6 @@
+name : 정도아
+age : 32
+e-mail : 8u6eltti@bhban.com
+division : 1dw
+telephone : 010-4532-8345
+sex : female

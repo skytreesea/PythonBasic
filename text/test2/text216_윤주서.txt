@@ -1,0 +1,6 @@
+name : 윤주서
+age : 95
+e-mail : evtpagng@bhban.com
+division : uec
+telephone : 010-0995-0410
+sex : male

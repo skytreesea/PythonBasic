@@ -1,0 +1,6 @@
+name : 정도준
+age : 83
+e-mail : rxo5ghy3@bhban.com
+division : tt8
+telephone : 010-1083-2510
+sex : female

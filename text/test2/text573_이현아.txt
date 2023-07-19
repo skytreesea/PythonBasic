@@ -1,0 +1,6 @@
+name : 이현아
+age : 15
+e-mail : z6amqher@bhban.com
+division : 50u
+telephone : 010-0215-7102
+sex : female

@@ -1,0 +1,6 @@
+name : 정지우
+age : 78
+e-mail : yo9146iz@bhban.com
+division : l8q
+telephone : 010-0978-3609
+sex : male

@@ -1,0 +1,6 @@
+name : 장예연
+age : 15
+e-mail : 1mz4nx7h@bhban.com
+division : avm
+telephone : 010-7015-8370
+sex : male

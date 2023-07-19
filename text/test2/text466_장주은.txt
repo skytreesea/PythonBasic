@@ -1,0 +1,6 @@
+name : 장주은
+age : 28
+e-mail : 8lxgc1rf@bhban.com
+division : 0qo
+telephone : 010-7828-0478
+sex : female

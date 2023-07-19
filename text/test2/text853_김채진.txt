@@ -1,0 +1,6 @@
+name : 김채진
+age : 55
+e-mail : a7afftra@bhban.com
+division : b99
+telephone : 010-3955-4839
+sex : male

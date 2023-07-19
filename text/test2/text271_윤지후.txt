@@ -1,0 +1,6 @@
+name : 윤지후
+age : 03
+e-mail : 4su9zkk7@bhban.com
+division : 3mp
+telephone : 010-7003-4770
+sex : female

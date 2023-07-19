@@ -1,0 +1,6 @@
+name : 조지은
+age : 22
+e-mail : u6yaw3c1@bhban.com
+division : 98q
+telephone : 010-3525-5735
+sex : female

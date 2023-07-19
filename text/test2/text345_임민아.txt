@@ -1,0 +1,6 @@
+name : 임민아
+age : 45
+e-mail : gtcgnl9q@bhban.com
+division : 7td
+telephone : 010-7345-5073
+sex : male

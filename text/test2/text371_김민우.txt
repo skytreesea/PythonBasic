@@ -1,0 +1,6 @@
+name : 김민우
+age : 25
+e-mail : fdx38zyi@bhban.com
+division : chl
+telephone : 010-3625-2836
+sex : male

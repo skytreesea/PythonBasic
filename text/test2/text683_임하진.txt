@@ -1,0 +1,6 @@
+name : 임하진
+age : 68
+e-mail : edmsfli0@bhban.com
+division : 3p3
+telephone : 010-6468-0664
+sex : male

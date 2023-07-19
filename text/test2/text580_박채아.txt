@@ -1,0 +1,6 @@
+name : 박채아
+age : 22
+e-mail : oyiadvcz@bhban.com
+division : q8w
+telephone : 010-2122-1721
+sex : male

@@ -1,0 +1,6 @@
+name : 박윤진
+age : 41
+e-mail : 6ht5aqin@bhban.com
+division : zl0
+telephone : 010-4341-5243
+sex : male

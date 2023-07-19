@@ -1,0 +1,6 @@
+name : 강채원
+age : 28
+e-mail : ie4msq4s@bhban.com
+division : 648
+telephone : 010-1028-4510
+sex : female

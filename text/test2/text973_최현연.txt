@@ -1,0 +1,6 @@
+name : 최현연
+age : 91
+e-mail : na533dw6@bhban.com
+division : mg7
+telephone : 010-6791-0467
+sex : male

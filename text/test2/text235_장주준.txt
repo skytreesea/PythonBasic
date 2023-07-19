@@ -1,0 +1,6 @@
+name : 장주준
+age : 05
+e-mail : motc3fk5@bhban.com
+division : lc6
+telephone : 010-8905-4189
+sex : female

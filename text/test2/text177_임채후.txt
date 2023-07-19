@@ -1,0 +1,6 @@
+name : 임채후
+age : 46
+e-mail : g1993ol7@bhban.com
+division : ign
+telephone : 010-8646-7086
+sex : male

@@ -1,0 +1,6 @@
+name : 정주우
+age : 76
+e-mail : 0n91o6iq@bhban.com
+division : 3bq
+telephone : 010-1076-6310
+sex : female

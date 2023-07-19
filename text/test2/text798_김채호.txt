@@ -1,0 +1,6 @@
+name : 김채호
+age : 56
+e-mail : rf79l0zg@bhban.com
+division : vz2
+telephone : 010-9156-0191
+sex : female

@@ -1,0 +1,6 @@
+name : 강채후
+age : 72
+e-mail : fhyf7gun@bhban.com
+division : 2a6
+telephone : 010-3372-2733
+sex : male

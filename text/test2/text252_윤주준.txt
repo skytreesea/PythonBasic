@@ -1,0 +1,6 @@
+name : 윤주준
+age : 16
+e-mail : 5b1ww3b8@bhban.com
+division : bza
+telephone : 010-3316-3133
+sex : female

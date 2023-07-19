@@ -1,0 +1,6 @@
+name : 김주아
+age : 35
+e-mail : 0b2d3bt5@bhban.com
+division : km0
+telephone : 010-3635-3436
+sex : male

@@ -1,0 +1,6 @@
+name : 임서우
+age : 68
+e-mail : vu9706qs@bhban.com
+division : fp9
+telephone : 010-0968-3609
+sex : male

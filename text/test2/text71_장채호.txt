@@ -1,0 +1,6 @@
+name : 장채호
+age : 92
+e-mail : x54sr000@bhban.com
+division : zmb
+telephone : 010-1592-2815
+sex : female

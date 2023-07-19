@@ -1,0 +1,6 @@
+name : 이도은
+age : 06
+e-mail : 9qqw7gc2@bhban.com
+division : 5v9
+telephone : 010-7006-7970
+sex : male

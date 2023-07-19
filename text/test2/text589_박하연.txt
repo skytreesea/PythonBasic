@@ -1,0 +1,6 @@
+name : 박하연
+age : 12
+e-mail : zt0bpysg@bhban.com
+division : imc
+telephone : 010-5212-7252
+sex : male

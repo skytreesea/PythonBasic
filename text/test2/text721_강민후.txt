@@ -1,0 +1,6 @@
+name : 강민후
+age : 14
+e-mail : lz61bfo1@bhban.com
+division : 9os
+telephone : 010-4914-3849
+sex : female

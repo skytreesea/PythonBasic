@@ -1,0 +1,6 @@
+name : 강민윤
+age : 03
+e-mail : fyx5kn4y@bhban.com
+division : 9bb
+telephone : 010-2403-7824
+sex : female

@@ -1,0 +1,6 @@
+name : 장예준
+age : 06
+e-mail : pb49vnw8@bhban.com
+division : g8t
+telephone : 010-3606-8536
+sex : female

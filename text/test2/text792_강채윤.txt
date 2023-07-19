@@ -1,0 +1,6 @@
+name : 강채윤
+age : 65
+e-mail : r3141x5b@bhban.com
+division : 7aa
+telephone : 010-1165-9611
+sex : male

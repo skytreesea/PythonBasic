@@ -1,0 +1,6 @@
+name : 윤현아
+age : 82
+e-mail : 5hes5zb9@bhban.com
+division : uz0
+telephone : 010-6782-4267
+sex : female

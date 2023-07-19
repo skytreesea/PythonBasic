@@ -1,0 +1,6 @@
+name : 윤민호
+age : 18
+e-mail : 8w67w5na@bhban.com
+division : qzn
+telephone : 010-6018-9360
+sex : male

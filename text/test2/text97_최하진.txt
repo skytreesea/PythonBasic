@@ -1,0 +1,6 @@
+name : 최하진
+age : 33
+e-mail : 9zyb92zr@bhban.com
+division : syc
+telephone : 010-0133-0301
+sex : male

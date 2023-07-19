@@ -1,0 +1,6 @@
+name : 정민서
+age : 39
+e-mail : tohdyt55@bhban.com
+division : nzn
+telephone : 010-2439-8424
+sex : male

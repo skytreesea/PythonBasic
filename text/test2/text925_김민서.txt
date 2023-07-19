@@ -1,0 +1,6 @@
+name : 김민서
+age : 23
+e-mail : qhmz1z6c@bhban.com
+division : dqe
+telephone : 010-5823-0658
+sex : male

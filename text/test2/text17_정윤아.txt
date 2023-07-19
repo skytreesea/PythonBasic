@@ -1,0 +1,6 @@
+name : 정윤아
+age : 84
+e-mail : ipdzm8lf@bhban.com
+division : e8z
+telephone : 010-0984-3509
+sex : male

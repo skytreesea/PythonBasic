@@ -1,0 +1,6 @@
+name : 임민연
+age : 72
+e-mail : br5hc9if@bhban.com
+division : not
+telephone : 010-6972-4969
+sex : male

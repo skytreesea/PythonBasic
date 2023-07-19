@@ -1,0 +1,6 @@
+name : 최지서
+age : 19
+e-mail : o82qutgk@bhban.com
+division : zdf
+telephone : 010-3919-8239
+sex : female

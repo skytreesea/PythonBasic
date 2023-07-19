@@ -1,0 +1,6 @@
+name : 이윤연
+age : 17
+e-mail : oonriere@bhban.com
+division : 63n
+telephone : 010-3217-9932
+sex : female

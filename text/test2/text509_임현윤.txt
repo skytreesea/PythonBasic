@@ -1,0 +1,6 @@
+name : 임현윤
+age : 68
+e-mail : vmhi1ear@bhban.com
+division : m22
+telephone : 010-0768-4507
+sex : female

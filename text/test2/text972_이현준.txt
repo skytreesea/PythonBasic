@@ -1,0 +1,6 @@
+name : 이현준
+age : 11
+e-mail : 8xrlyqk0@bhban.com
+division : 1zn
+telephone : 010-7911-4579
+sex : male

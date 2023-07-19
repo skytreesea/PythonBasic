@@ -1,0 +1,6 @@
+name : 이민서
+age : 82
+e-mail : vq87t1ql@bhban.com
+division : 8h1
+telephone : 010-0982-3009
+sex : female

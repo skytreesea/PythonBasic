@@ -1,0 +1,6 @@
+name : 윤예윤
+age : 17
+e-mail : pb0szyx6@bhban.com
+division : yg7
+telephone : 010-4517-7.45
+sex : female

@@ -1,0 +1,6 @@
+name : 박예윤
+age : 12
+e-mail : ke62gda7@bhban.com
+division : f3i
+telephone : 010-7012-8470
+sex : male

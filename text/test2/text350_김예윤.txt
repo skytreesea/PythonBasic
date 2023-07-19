@@ -1,0 +1,6 @@
+name : 김예윤
+age : 68
+e-mail : 30uc54g8@bhban.com
+division : g2q
+telephone : 010-8668-1186
+sex : female

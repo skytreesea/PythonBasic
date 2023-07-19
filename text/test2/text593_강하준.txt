@@ -1,0 +1,6 @@
+name : 강하준
+age : 16
+e-mail : eipebktd@bhban.com
+division : y5k
+telephone : 010-9216-7292
+sex : male

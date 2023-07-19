@@ -1,0 +1,6 @@
+name : 박서아
+age : 02
+e-mail : 1t1xm0ab@bhban.com
+division : frb
+telephone : 010-3702-9937
+sex : male

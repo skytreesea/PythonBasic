@@ -1,0 +1,6 @@
+name : 정채원
+age : 89
+e-mail : glew582w@bhban.com
+division : 3h0
+telephone : 010-0789-3907
+sex : female
