@@ -23,4 +23,4 @@ for word in words:
 
 df = pd.DataFrame(total).transpose()
 df.columns = ['뜻1','뜻1','뜻1','예문1','예문2','예문3']
-df.to_excel(r'D:\user\Documents\git hub\PythonBasic\naver_dictionary\dictionary.xls')
+df.to_excel(r'C:\Users\ERC\Documents\GitHub\PythonBasic\dictionary\dictionary.xls')
