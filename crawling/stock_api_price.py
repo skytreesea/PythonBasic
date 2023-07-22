@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 url = 'https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo?serviceKey=7JlKxM7fEbOErQRa32MtR3%2Fg%2FBxi3JTPbwPfCw781Ma4uvwql5x2r2wM0Zh051RRUK%2Bw7YSwijxr0Tklej3cOg%3D%3D&numOfRows=100'
  
 def add_commas(num):
+    #chatGPT로 생성한 코드
     num_str = str(num)
     result = ''
     count = 0
