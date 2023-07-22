@@ -1,0 +1,5 @@
+import pandas as pd
+
+df = pd.read_csv(r"C:\Users\ERC\Documents\GitHub\PythonBasic\crawling\stockData\SOXL.csv", encoding = 'cp949')
+
+df.head()
