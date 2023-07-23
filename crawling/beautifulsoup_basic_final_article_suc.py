@@ -7,7 +7,7 @@ headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
 res = requests.get(url, headers = headers)
 soup = BeautifulSoup(res.text, 'lxml')
 
-#텍스트만 출력 - 
+#텍스트만 출력 
 for i in soup.find_all('div',{'id':'newsct_article'}):
     print(i.text)
 
