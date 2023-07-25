@@ -1,6 +1,0 @@
-name : 윤하우
-age : 65
-e-mail : i295dn2o@bhban.com
-division : pr8
-telephone : 010-6965-5669
-sex : female

@@ -1,6 +1,0 @@
-name : 박도후
-age : 77
-e-mail : ltkh9gtu@bhban.com
-division : 5qf
-telephone : 010-4577-7.45
-sex : male

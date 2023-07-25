@@ -1,6 +1,0 @@
-name : 윤주우
-age : 47
-e-mail : u02xe1ha@bhban.com
-division : psd
-telephone : 010-6947-6569
-sex : female

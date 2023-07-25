@@ -1,6 +1,0 @@
-name : 박지윤
-age : 47
-e-mail : oqrs2few@bhban.com
-division : inq
-telephone : 010-8647-8986
-sex : male

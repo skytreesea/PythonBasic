@@ -1,6 +1,0 @@
-name : 장주윤
-age : 22
-e-mail : hug825tt@bhban.com
-division : qzq
-telephone : 010-2322-5023
-sex : female

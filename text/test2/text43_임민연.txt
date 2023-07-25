@@ -1,6 +1,0 @@
-name : 임민연
-age : 67
-e-mail : 1cm5u81z@bhban.com
-division : t3m
-telephone : 010-7767-5877
-sex : male

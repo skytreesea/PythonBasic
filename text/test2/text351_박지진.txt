@@ -1,6 +1,0 @@
-name : 박지진
-age : 94
-e-mail : i14h5kkh@bhban.com
-division : 70h
-telephone : 010-8694-1286
-sex : male

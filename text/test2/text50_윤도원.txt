@@ -1,6 +1,0 @@
-name : 윤도원
-age : 49
-e-mail : 8nt5vg0x@bhban.com
-division : lb9
-telephone : 010-7749-6377
-sex : female

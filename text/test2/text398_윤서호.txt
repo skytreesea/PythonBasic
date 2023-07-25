@@ -1,6 +1,0 @@
-name : 윤서호
-age : 47
-e-mail : 8cp9o4ym@bhban.com
-division : b16
-telephone : 010-6747-5067
-sex : male

@@ -1,6 +1,0 @@
-name : 강도우
-age : 67
-e-mail : xaprww5h@bhban.com
-division : osb
-telephone : 010-5667-8656
-sex : male

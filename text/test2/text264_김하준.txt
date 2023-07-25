@@ -1,6 +1,0 @@
-name : 김하준
-age : 97
-e-mail : qpiidkso@bhban.com
-division : v3w
-telephone : 010-6997-4169
-sex : female

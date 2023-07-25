@@ -1,6 +1,0 @@
-name : 장지원
-age : 95
-e-mail : 6gu9bzzm@bhban.com
-division : y2o
-telephone : 010-0795-8607
-sex : female

@@ -1,6 +1,0 @@
-name : 임하원
-age : 09
-e-mail : 3gzfo2xs@bhban.com
-division : f87
-telephone : 010-7209-5272
-sex : female

@@ -1,6 +1,0 @@
-name : 임주연
-age : 77
-e-mail : tr6r0e0a@bhban.com
-division : tav
-telephone : 010-5477-0254
-sex : male

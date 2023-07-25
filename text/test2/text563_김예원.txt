@@ -1,6 +1,0 @@
-name : 김예원
-age : 47
-e-mail : tc5zzfk9@bhban.com
-division : kqf
-telephone : 010-0947-0009
-sex : male

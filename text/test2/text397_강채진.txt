@@ -1,6 +1,0 @@
-name : 강채진
-age : 39
-e-mail : zmxe060r@bhban.com
-division : hit
-telephone : 010-3639-4936
-sex : female

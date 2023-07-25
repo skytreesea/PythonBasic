@@ -1,6 +1,0 @@
-name : 윤현진
-age : 69
-e-mail : kom54fyz@bhban.com
-division : ev6
-telephone : 010-0569-3005
-sex : male

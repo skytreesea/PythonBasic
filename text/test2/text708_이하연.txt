@@ -1,6 +1,0 @@
-name : 이하연
-age : 46
-e-mail : qatlp5h3@bhban.com
-division : 7xb
-telephone : 010-5146-2751
-sex : female

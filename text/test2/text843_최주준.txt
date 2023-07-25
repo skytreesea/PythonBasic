@@ -1,6 +1,0 @@
-name : 최주준
-age : 13
-e-mail : thu89zhw@bhban.com
-division : peo
-telephone : 010-3813-4038
-sex : female

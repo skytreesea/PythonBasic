@@ -1,6 +1,0 @@
-name : 조현아
-age : 75
-e-mail : m9oxm3o7@bhban.com
-division : zkc
-telephone : 010-0975-4609
-sex : female

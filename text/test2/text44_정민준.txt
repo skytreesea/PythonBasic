@@ -1,6 +1,0 @@
-name : 정민준
-age : 67
-e-mail : nrgnyqsc@bhban.com
-division : 149
-telephone : 010-7767-5877
-sex : female

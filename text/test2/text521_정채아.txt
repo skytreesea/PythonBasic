@@ -1,6 +1,0 @@
-name : 정채아
-age : 77
-e-mail : v6ivhngv@bhban.com
-division : ove
-telephone : 010-0799-5807
-sex : male

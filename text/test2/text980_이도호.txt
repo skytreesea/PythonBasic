@@ -1,6 +1,0 @@
-name : 이도호
-age : 69
-e-mail : c2zthd8p@bhban.com
-division : ifl
-telephone : 010-7685-5276
-sex : female

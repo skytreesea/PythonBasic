@@ -1,6 +1,0 @@
-name : 최주준
-age : 44
-e-mail : 03tfka1g@bhban.com
-division : hm4
-telephone : 010-8644-7386
-sex : female

@@ -1,6 +1,0 @@
-name : 장지서
-age : 53
-e-mail : ybk1z5yo@bhban.com
-division : mlv
-telephone : 010-0953-9509
-sex : female

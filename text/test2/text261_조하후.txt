@@ -1,6 +1,0 @@
-name : 조하후
-age : 31
-e-mail : nvc4ox2w@bhban.com
-division : i8f
-telephone : 010-9331-4393
-sex : male

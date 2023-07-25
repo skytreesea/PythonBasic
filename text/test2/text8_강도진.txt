@@ -1,6 +1,0 @@
-name : 강도진
-age : 37
-e-mail : u7tybcal@bhban.com
-division : yvq
-telephone : 010-7037-2270
-sex : male

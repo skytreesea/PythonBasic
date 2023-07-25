@@ -1,6 +1,0 @@
-name : 강채준
-age : 36
-e-mail : fa7elf9z@bhban.com
-division : opm
-telephone : 010-3036-3630
-sex : male

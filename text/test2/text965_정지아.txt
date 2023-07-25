@@ -1,6 +1,0 @@
-name : 정지아
-age : 34
-e-mail : y0md75g8@bhban.com
-division : frm
-telephone : 010-8363-4083
-sex : female

@@ -1,6 +1,0 @@
-name : 장현우
-age : 96
-e-mail : azcbtutp@bhban.com
-division : 0uf
-telephone : 010-8096-7080
-sex : male

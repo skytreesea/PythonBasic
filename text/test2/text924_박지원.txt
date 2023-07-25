@@ -1,6 +1,0 @@
-name : 박지원
-age : 26
-e-mail : m8zhd036@bhban.com
-division : z2z
-telephone : 010-5826-0558
-sex : female

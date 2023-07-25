@@ -1,6 +1,0 @@
-name : 조예진
-age : 85
-e-mail : zzqku41i@bhban.com
-division : 1lr
-telephone : 010-5885-7858
-sex : male

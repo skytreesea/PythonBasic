@@ -1,6 +1,0 @@
-name : 강예우
-age : 22
-e-mail : vn2cd6s2@bhban.com
-division : 7mi
-telephone : 010-0122-0501
-sex : male

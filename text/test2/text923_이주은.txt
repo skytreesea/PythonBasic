@@ -1,6 +1,0 @@
-name : 이주은
-age : 95
-e-mail : b60xdzrl@bhban.com
-division : 59b
-telephone : 010-5595-0455
-sex : male

@@ -1,6 +1,0 @@
-name : 강채후
-age : 12
-e-mail : 9zgx40p1@bhban.com
-division : lyy
-telephone : 010-4912-4449
-sex : female

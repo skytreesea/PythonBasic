@@ -1,6 +1,0 @@
-name : 김윤진
-age : 65
-e-mail : 4p08u7dp@bhban.com
-division : bhc
-telephone : 010-0765-6807
-sex : female

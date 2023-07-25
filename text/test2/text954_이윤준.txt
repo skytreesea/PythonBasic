@@ -1,6 +1,0 @@
-name : 이윤준
-age : 24
-e-mail : l44odwlo@bhban.com
-division : 117
-telephone : 010-1724-0317
-sex : male

@@ -1,6 +1,0 @@
-name : 조지원
-age : 34
-e-mail : 7pbs092r@bhban.com
-division : yry
-telephone : 010-0934-0209
-sex : female

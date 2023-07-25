@@ -1,6 +1,0 @@
-name : 정윤윤
-age : 46
-e-mail : qfr6i0fp@bhban.com
-division : mpq
-telephone : 010-3746-8137
-sex : female

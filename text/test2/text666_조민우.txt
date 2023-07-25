@@ -1,6 +1,0 @@
-name : 조민우
-age : 62
-e-mail : pulgde9a@bhban.com
-division : 9h7
-telephone : 010-0862-9108
-sex : female

@@ -1,6 +1,0 @@
-name : 이민서
-age : 07
-e-mail : q5hnhzvo@bhban.com
-division : 3qz
-telephone : 010-0807-6308
-sex : female

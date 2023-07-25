@@ -1,6 +1,0 @@
-name : 임예아
-age : 32
-e-mail : t6gz9zka@bhban.com
-division : lq8
-telephone : 010-9632-1996
-sex : female

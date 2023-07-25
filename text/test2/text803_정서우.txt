@@ -1,6 +1,0 @@
-name : 정서우
-age : 17
-e-mail : q0cqw1z8@bhban.com
-division : c2z
-telephone : 010-9217-0592
-sex : male

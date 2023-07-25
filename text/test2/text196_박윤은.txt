@@ -1,6 +1,0 @@
-name : 박윤은
-age : 18
-e-mail : nrveyk28@bhban.com
-division : nqe
-telephone : 010-8718-8687
-sex : female

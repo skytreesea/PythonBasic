@@ -1,6 +1,0 @@
-name : 강하준
-age : 01
-e-mail : g9oqat1y@bhban.com
-division : 66q
-telephone : 010-1701-5817
-sex : female

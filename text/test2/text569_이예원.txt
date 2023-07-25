@@ -1,6 +1,0 @@
-name : 이예원
-age : 97
-e-mail : itrqg2zm@bhban.com
-division : wup
-telephone : 010-7097-7070
-sex : male

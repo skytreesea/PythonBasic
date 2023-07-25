@@ -1,6 +1,0 @@
-name : 최도은
-age : 22
-e-mail : z6dmdsuc@bhban.com
-division : aof
-telephone : 010-2322-5023
-sex : female

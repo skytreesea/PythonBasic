@@ -1,6 +1,0 @@
-name : 조하호
-age : 05
-e-mail : 4ad0i1xw@bhban.com
-division : kge
-telephone : 010-2105-.621
-sex : male

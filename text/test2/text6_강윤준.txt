@@ -1,6 +1,0 @@
-name : 강윤준
-age : 37
-e-mail : qgc1lwrt@bhban.com
-division : xqz
-telephone : 010-0137-2601
-sex : male

@@ -1,6 +1,0 @@
-name : 박현우
-age : 17
-e-mail : 06y4p7q8@bhban.com
-division : 5y1
-telephone : 010-7217-1272
-sex : female

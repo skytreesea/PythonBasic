@@ -1,6 +1,0 @@
-name : 최하호
-age : 92
-e-mail : 1f1r0v89@bhban.com
-division : z8y
-telephone : 010-6792-8067
-sex : male

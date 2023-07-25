@@ -1,6 +1,0 @@
-name : 강서진
-age : 68
-e-mail : faosykx0@bhban.com
-division : kb4
-telephone : 010-0868-9208
-sex : male

@@ -1,6 +1,0 @@
-name : 강지준
-age : 53
-e-mail : yvov7x0r@bhban.com
-division : 6lz
-telephone : 010-4253-5642
-sex : female

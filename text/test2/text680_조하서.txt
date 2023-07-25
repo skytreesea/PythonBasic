@@ -1,6 +1,0 @@
-name : 조하서
-age : 58
-e-mail : wg8d6bsi@bhban.com
-division : 3g6
-telephone : 010-6458-0364
-sex : female

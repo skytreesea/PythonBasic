@@ -1,6 +1,0 @@
-name : 최주은
-age : 51
-e-mail : npubwxua@bhban.com
-division : wi1
-telephone : 010-5051-6250
-sex : male

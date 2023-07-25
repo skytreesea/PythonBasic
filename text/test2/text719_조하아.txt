@@ -1,6 +1,0 @@
-name : 조하아
-age : 32
-e-mail : fvnrpwqx@bhban.com
-division : ngl
-telephone : 010-4932-3749
-sex : male

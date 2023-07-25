@@ -1,6 +1,0 @@
-name : 장민아
-age : 17
-e-mail : xy8p591q@bhban.com
-division : ui2
-telephone : 010-2417-6524
-sex : male

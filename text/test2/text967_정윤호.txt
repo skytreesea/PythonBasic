@@ -1,6 +1,0 @@
-name : 정윤호
-age : 58
-e-mail : 6ooeg2of@bhban.com
-division : 2az
-telephone : 010-8358-4183
-sex : female

@@ -1,6 +1,0 @@
-name : 정하진
-age : 24
-e-mail : 619epa8b@bhban.com
-division : yw9
-telephone : 010-8624-7586
-sex : female

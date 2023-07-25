@@ -1,6 +1,0 @@
-name : 조현원
-age : 77
-e-mail : bw5fo1z8@bhban.com
-division : 611
-telephone : 010-6077-6560
-sex : male

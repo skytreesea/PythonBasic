@@ -1,6 +1,0 @@
-name : 강예원
-age : 38
-e-mail : k22ylrdx@bhban.com
-division : 6w0
-telephone : 010-9238-9592
-sex : female

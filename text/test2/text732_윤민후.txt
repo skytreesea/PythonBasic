@@ -1,6 +1,0 @@
-name : 윤민후
-age : 82
-e-mail : ag6wq6l3@bhban.com
-division : mzz
-telephone : 010-7582-8475
-sex : female

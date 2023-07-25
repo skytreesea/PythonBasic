@@ -1,6 +1,0 @@
-name : 조예호
-age : 76
-e-mail : 590u1mxs@bhban.com
-division : b3q
-telephone : 010-6476-6964
-sex : male

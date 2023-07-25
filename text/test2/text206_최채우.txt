@@ -1,6 +1,0 @@
-name : 최채우
-age : 85
-e-mail : 5axsk0df@bhban.com
-division : iqa
-telephone : 010-9685-9496
-sex : female

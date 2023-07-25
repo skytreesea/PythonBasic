@@ -1,6 +1,0 @@
-name : 임민호
-age : 43
-e-mail : hyi1yhfw@bhban.com
-division : o12
-telephone : 010-1643-0916
-sex : male

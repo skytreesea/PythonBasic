@@ -1,6 +1,0 @@
-name : 정현윤
-age : 22
-e-mail : h6nebal6@bhban.com
-division : u1v
-telephone : 010-5322-2853
-sex : female

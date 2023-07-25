@@ -1,6 +1,0 @@
-name : 윤윤호
-age : 24
-e-mail : 2trvmd4i@bhban.com
-division : 6vo
-telephone : 010-6924-.469
-sex : female

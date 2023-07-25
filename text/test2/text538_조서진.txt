@@ -1,6 +1,0 @@
-name : 조서진
-age : 75
-e-mail : 1ic9hdkz@bhban.com
-division : v17
-telephone : 010-6075-6760
-sex : female

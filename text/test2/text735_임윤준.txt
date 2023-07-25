@@ -1,6 +1,0 @@
-name : 임윤준
-age : 48
-e-mail : fe2r3c4i@bhban.com
-division : syb
-telephone : 010-0591-8505
-sex : female

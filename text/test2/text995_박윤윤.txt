@@ -1,6 +1,0 @@
-name : 박윤윤
-age : 83
-e-mail : b6iiczl2@bhban.com
-division : 0dw
-telephone : 010-5421-0654
-sex : male

@@ -1,6 +1,0 @@
-name : 정민후
-age : 05
-e-mail : np0q4cun@bhban.com
-division : ibl
-telephone : 010-1105-8111
-sex : male

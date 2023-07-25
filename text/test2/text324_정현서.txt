@@ -1,6 +1,0 @@
-name : 정현서
-age : 25
-e-mail : ap3o8w0d@bhban.com
-division : zu2
-telephone : 010-9125-8991
-sex : female

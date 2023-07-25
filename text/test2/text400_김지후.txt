@@ -1,6 +1,0 @@
-name : 김지후
-age : 77
-e-mail : m9sv71dt@bhban.com
-division : tht
-telephone : 010-6977-5169
-sex : male

@@ -1,6 +1,0 @@
-name : 조지연
-age : 04
-e-mail : 1il53pfd@bhban.com
-division : ces
-telephone : 010-0504-2705
-sex : female

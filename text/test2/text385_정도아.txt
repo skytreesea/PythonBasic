@@ -1,6 +1,0 @@
-name : 정도아
-age : 44
-e-mail : xzm30usz@bhban.com
-division : bm9
-telephone : 010-3644-3836
-sex : male

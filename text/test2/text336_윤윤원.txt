@@ -1,6 +1,0 @@
-name : 윤윤원
-age : 17
-e-mail : nx113o5l@bhban.com
-division : sv7
-telephone : 010-3217-9932
-sex : female

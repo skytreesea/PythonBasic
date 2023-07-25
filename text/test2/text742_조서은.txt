@@ -1,6 +1,0 @@
-name : 조서은
-age : 42
-e-mail : 5zw6vkoo@bhban.com
-division : acs
-telephone : 010-6342-8563
-sex : male

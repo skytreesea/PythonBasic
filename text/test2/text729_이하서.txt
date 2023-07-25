@@ -1,6 +1,0 @@
-name : 이하서
-age : 07
-e-mail : 4c0r341z@bhban.com
-division : fl8
-telephone : 010-4907-4549
-sex : male

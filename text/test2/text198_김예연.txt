@@ -1,6 +1,0 @@
-name : 김예연
-age : 52
-e-mail : uvhshuhf@bhban.com
-division : zlq
-telephone : 010-8652-8886
-sex : male

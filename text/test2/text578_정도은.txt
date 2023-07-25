@@ -1,6 +1,0 @@
-name : 정도은
-age : 95
-e-mail : n93d8wn4@bhban.com
-division : np6
-telephone : 010-2195-1521
-sex : female

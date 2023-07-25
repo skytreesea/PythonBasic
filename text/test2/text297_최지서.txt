@@ -1,6 +1,0 @@
-name : 최지서
-age : 41
-e-mail : 6ud4qxu5@bhban.com
-division : s2z
-telephone : 010-8241-4682
-sex : female

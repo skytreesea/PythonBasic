@@ -1,6 +1,0 @@
-name : 임지아
-age : 54
-e-mail : wzksyro0@bhban.com
-division : 1xc
-telephone : 010-8654-8386
-sex : male

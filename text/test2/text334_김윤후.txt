@@ -1,6 +1,0 @@
-name : 김윤후
-age : 84
-e-mail : 0sd8zrm6@bhban.com
-division : nc9
-telephone : 010-2984-9829
-sex : male

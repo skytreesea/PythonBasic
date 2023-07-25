@@ -1,6 +1,0 @@
-name : 윤도윤
-age : 85
-e-mail : wc8gb4dv@bhban.com
-division : 31m
-telephone : 010-7685-5276
-sex : female

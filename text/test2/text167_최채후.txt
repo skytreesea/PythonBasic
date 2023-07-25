@@ -1,6 +1,0 @@
-name : 최채후
-age : 44
-e-mail : 6s132kkh@bhban.com
-division : 5q6
-telephone : 010-2844-3628
-sex : male

@@ -1,6 +1,0 @@
-name : 강서진
-age : 74
-e-mail : oc667fls@bhban.com
-division : my6
-telephone : 010-1074-1210
-sex : female

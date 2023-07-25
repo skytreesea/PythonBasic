@@ -1,6 +1,0 @@
-name : 윤민서
-age : 64
-e-mail : enas72g6@bhban.com
-division : ce9
-telephone : 010-8364-5483
-sex : female

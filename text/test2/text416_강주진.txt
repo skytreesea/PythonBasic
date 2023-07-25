@@ -1,6 +1,0 @@
-name : 강주진
-age : 44
-e-mail : cltsi35s@bhban.com
-division : 1f7
-telephone : 010-2744-6627
-sex : female

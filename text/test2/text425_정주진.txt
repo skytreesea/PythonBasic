@@ -1,6 +1,0 @@
-name : 정주진
-age : 72
-e-mail : zf08kxr0@bhban.com
-division : z7w
-telephone : 010-2272-5722
-sex : male

@@ -1,6 +1,0 @@
-name : 임서은
-age : 57
-e-mail : 3m7y9e06@bhban.com
-division : 8dx
-telephone : 010-2957-3929
-sex : male

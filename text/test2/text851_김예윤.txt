@@ -1,6 +1,0 @@
-name : 김예윤
-age : 96
-e-mail : igz1bkab@bhban.com
-division : rs4
-telephone : 010-7396-9473
-sex : male

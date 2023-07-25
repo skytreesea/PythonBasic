@@ -1,6 +1,0 @@
-name : 박예연
-age : 96
-e-mail : xuczz9xv@bhban.com
-division : 653
-telephone : 010-0796-7507
-sex : male

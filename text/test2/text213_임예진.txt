@@ -1,6 +1,0 @@
-name : 임예진
-age : 16
-e-mail : f2xewonk@bhban.com
-division : 3tg
-telephone : 010-1016-0110
-sex : male

@@ -1,6 +1,0 @@
-name : 이현우
-age : 77
-e-mail : 8u4lwl57@bhban.com
-division : 9vf
-telephone : 010-6977-4569
-sex : male

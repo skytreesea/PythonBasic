@@ -1,6 +1,0 @@
-name : 최하준
-age : 63
-e-mail : ygntm8dy@bhban.com
-division : bmh
-telephone : 010-8358-4183
-sex : male

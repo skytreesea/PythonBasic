@@ -1,6 +1,0 @@
-name : 윤예후
-age : 51
-e-mail : 0ms2atv0@bhban.com
-division : h5i
-telephone : 010-0951-9409
-sex : male

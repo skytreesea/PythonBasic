@@ -1,6 +1,0 @@
-name : 정주원
-age : 45
-e-mail : yaqlozgd@bhban.com
-division : 53h
-telephone : 010-5945-9059
-sex : female

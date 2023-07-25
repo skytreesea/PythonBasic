@@ -1,6 +1,0 @@
-name : 최주아
-age : 12
-e-mail : pz7ivxcc@bhban.com
-division : y9m
-telephone : 010-0212-2202
-sex : female

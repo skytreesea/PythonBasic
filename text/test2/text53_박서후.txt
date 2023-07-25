@@ -1,6 +1,0 @@
-name : 박서후
-age : 52
-e-mail : ul9nip24@bhban.com
-division : 55u
-telephone : 010-7752-6577
-sex : male

@@ -1,6 +1,0 @@
-name : 임민윤
-age : 53
-e-mail : 4bo3kz28@bhban.com
-division : 0wb
-telephone : 010-3953-3239
-sex : female

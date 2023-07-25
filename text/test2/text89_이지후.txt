@@ -1,6 +1,0 @@
-name : 이지후
-age : 12
-e-mail : fd0lzbud@bhban.com
-division : q7s
-telephone : 010-6012-2960
-sex : male

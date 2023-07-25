@@ -1,6 +1,0 @@
-name : 윤현서
-age : 14
-e-mail : rtwi6tgl@bhban.com
-division : srd
-telephone : 010-3314-3833
-sex : male

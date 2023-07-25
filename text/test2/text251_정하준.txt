@@ -1,6 +1,0 @@
-name : 정하준
-age : 86
-e-mail : o7fyt3le@bhban.com
-division : 499
-telephone : 010-3086-3030
-sex : male

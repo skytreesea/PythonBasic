@@ -1,6 +1,0 @@
-name : 김채우
-age : 16
-e-mail : te262i98@bhban.com
-division : 06u
-telephone : 010-0216-7302
-sex : female

@@ -1,6 +1,0 @@
-name : 최윤후
-age : 13
-e-mail : situ4dzb@bhban.com
-division : lmi
-telephone : 010-4013-3040
-sex : male

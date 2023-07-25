@@ -1,6 +1,0 @@
-name : 최하은
-age : 16
-e-mail : 9o02z1dc@bhban.com
-division : uqz
-telephone : 010-0016-9300
-sex : female

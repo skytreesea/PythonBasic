@@ -1,6 +1,0 @@
-name : 이도연
-age : 82
-e-mail : 8he0k9oc@bhban.com
-division : pgi
-telephone : 010-0982-3009
-sex : female

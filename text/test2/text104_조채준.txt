@@ -1,6 +1,0 @@
-name : 조채준
-age : 34
-e-mail : rxmzoaiz@bhban.com
-division : vwk
-telephone : 010-5234-0852
-sex : female

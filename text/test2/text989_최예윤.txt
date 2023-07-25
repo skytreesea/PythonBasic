@@ -1,6 +1,0 @@
-name : 최예윤
-age : 76
-e-mail : 2n55v58h@bhban.com
-division : 5ts
-telephone : 010-9776-0597
-sex : female

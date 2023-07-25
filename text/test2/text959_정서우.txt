@@ -1,6 +1,0 @@
-name : 정서우
-age : 13
-e-mail : 5ux2v5my@bhban.com
-division : qx3
-telephone : 010-5836-0358
-sex : male

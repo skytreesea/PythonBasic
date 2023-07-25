@@ -1,6 +1,0 @@
-name : 이서서
-age : 93
-e-mail : hdpbdmze@bhban.com
-division : bgw
-telephone : 010-6993-5069
-sex : female

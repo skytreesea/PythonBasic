@@ -1,6 +1,0 @@
-name : 윤도은
-age : 66
-e-mail : h1ficn6o@bhban.com
-division : n1z
-telephone : 010-0766-4107
-sex : female

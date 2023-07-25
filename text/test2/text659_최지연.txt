@@ -1,6 +1,0 @@
-name : 최지연
-age : 84
-e-mail : dfaotds1@bhban.com
-division : gx3
-telephone : 010-4084-7840
-sex : male

@@ -1,6 +1,0 @@
-name : 강윤호
-age : 86
-e-mail : fgghpw66@bhban.com
-division : emw
-telephone : 010-5086-7850
-sex : female

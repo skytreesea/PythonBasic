@@ -1,6 +1,0 @@
-name : 조도윤
-age : 92
-e-mail : b1kbtle5@bhban.com
-division : wzt
-telephone : 010-2392-5623
-sex : male

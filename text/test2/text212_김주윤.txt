@@ -1,6 +1,0 @@
-name : 김주윤
-age : 19
-e-mail : iurepdn7@bhban.com
-division : 49t
-telephone : 010-0819-0008
-sex : female

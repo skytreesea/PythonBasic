@@ -1,6 +1,0 @@
-name : 윤지서
-age : 58
-e-mail : k9q9xrtd@bhban.com
-division : kgd
-telephone : 010-8658-8486
-sex : female

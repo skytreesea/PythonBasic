@@ -1,6 +1,0 @@
-name : 윤채준
-age : 05
-e-mail : ay8gc12u@bhban.com
-division : 0r9
-telephone : 010-1005-7610
-sex : male

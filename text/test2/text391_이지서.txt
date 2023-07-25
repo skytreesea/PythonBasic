@@ -1,6 +1,0 @@
-name : 이지서
-age : 64
-e-mail : 5up4pmac@bhban.com
-division : f5b
-telephone : 010-4364-5443
-sex : male

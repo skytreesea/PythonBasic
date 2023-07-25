@@ -1,6 +1,0 @@
-name : 윤지윤
-age : 52
-e-mail : b4mwc34l@bhban.com
-division : 858
-telephone : 010-2152-2821
-sex : male

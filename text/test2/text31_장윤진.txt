@@ -1,6 +1,0 @@
-name : 장윤진
-age : 34
-e-mail : i9vu96qc@bhban.com
-division : apb
-telephone : 010-7034-4670
-sex : male

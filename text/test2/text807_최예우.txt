@@ -1,6 +1,0 @@
-name : 최예우
-age : 23
-e-mail : qmz5ov6l@bhban.com
-division : 6k4
-telephone : 010-9223-0792
-sex : male

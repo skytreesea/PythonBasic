@@ -1,6 +1,0 @@
-name : 최도아
-age : 48
-e-mail : zt2plelb@bhban.com
-division : qyn
-telephone : 010-1148-9311
-sex : male

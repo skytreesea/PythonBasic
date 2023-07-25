@@ -1,6 +1,0 @@
-name : 장채원
-age : 24
-e-mail : 9im89n18@bhban.com
-division : dkk
-telephone : 010-8647-7686
-sex : female

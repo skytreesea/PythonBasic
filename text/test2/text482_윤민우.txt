@@ -1,6 +1,0 @@
-name : 윤민우
-age : 13
-e-mail : rusz9a4a@bhban.com
-division : 6cc
-telephone : 010-0513-1805
-sex : female

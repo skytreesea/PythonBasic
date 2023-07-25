@@ -1,6 +1,0 @@
-name : 박도호
-age : 24
-e-mail : 0wq6t1wb@bhban.com
-division : 9to
-telephone : 010-8724-.487
-sex : female

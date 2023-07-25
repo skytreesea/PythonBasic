@@ -1,6 +1,0 @@
-name : 박채연
-age : 55
-e-mail : ynn4pbc6@bhban.com
-division : vxp
-telephone : 010-8355-3883
-sex : male

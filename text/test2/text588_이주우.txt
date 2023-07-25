@@ -1,6 +1,0 @@
-name : 이주우
-age : 65
-e-mail : 1z30uf84@bhban.com
-division : uxp
-telephone : 010-2165-2421
-sex : female

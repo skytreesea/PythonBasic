@@ -1,6 +1,0 @@
-name : 최하진
-age : 47
-e-mail : xicaymdz@bhban.com
-division : s8o
-telephone : 010-4547-7.45
-sex : male

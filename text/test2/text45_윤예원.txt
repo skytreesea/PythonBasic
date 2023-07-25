@@ -1,6 +1,0 @@
-name : 윤예원
-age : 52
-e-mail : 2cm9t7d9@bhban.com
-division : 4yn
-telephone : 010-7752-5977
-sex : female

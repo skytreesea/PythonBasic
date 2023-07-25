@@ -1,6 +1,0 @@
-name : 강하호
-age : 59
-e-mail : y9dzremd@bhban.com
-division : puu
-telephone : 010-0972-0009
-sex : female

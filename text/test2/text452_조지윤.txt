@@ -1,6 +1,0 @@
-name : 조지윤
-age : 73
-e-mail : o5cxzz8i@bhban.com
-division : yi7
-telephone : 010-3773-5937
-sex : male

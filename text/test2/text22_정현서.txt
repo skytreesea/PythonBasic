@@ -1,6 +1,0 @@
-name : 정현서
-age : 98
-e-mail : lkrzh9ki@bhban.com
-division : 80p
-telephone : 010-9098-2390
-sex : female

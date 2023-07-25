@@ -1,6 +1,0 @@
-name : 김현연
-age : 92
-e-mail : wwuu13ig@bhban.com
-division : moq
-telephone : 010-3792-6037
-sex : male

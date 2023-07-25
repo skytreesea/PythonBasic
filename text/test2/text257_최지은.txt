@@ -1,6 +1,0 @@
-name : 최지은
-age : 82
-e-mail : mgyg05dz@bhban.com
-division : qvd
-telephone : 010-3282-3632
-sex : male

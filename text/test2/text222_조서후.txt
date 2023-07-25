@@ -1,6 +1,0 @@
-name : 조서후
-age : 66
-e-mail : du15t0rb@bhban.com
-division : n6g
-telephone : 010-8466-0884
-sex : male

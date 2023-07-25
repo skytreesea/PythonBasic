@@ -1,6 +1,0 @@
-name : 장예후
-age : 85
-e-mail : viy631of@bhban.com
-division : ev0
-telephone : 010-6985-5169
-sex : female

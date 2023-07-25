@@ -1,6 +1,0 @@
-name : 김지우
-age : 09
-e-mail : yuvz50wh@bhban.com
-division : kwm
-telephone : 010-0309-5203
-sex : female

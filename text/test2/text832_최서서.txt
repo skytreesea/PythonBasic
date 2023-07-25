@@ -1,6 +1,0 @@
-name : 최서서
-age : 16
-e-mail : opv1dmuo@bhban.com
-division : 0l5
-telephone : 010-0016-9300
-sex : male

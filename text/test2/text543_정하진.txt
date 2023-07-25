@@ -1,6 +1,0 @@
-name : 정하진
-age : 34
-e-mail : cn4sz8eb@bhban.com
-division : flm
-telephone : 010-0834-8108
-sex : female

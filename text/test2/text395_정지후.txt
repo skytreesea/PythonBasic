@@ -1,6 +1,0 @@
-name : 정지후
-age : 64
-e-mail : 7042zo3b@bhban.com
-division : 0il
-telephone : 010-8364-5483
-sex : male

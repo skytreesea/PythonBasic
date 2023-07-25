@@ -1,6 +1,0 @@
-name : 정현은
-age : 85
-e-mail : mcs5f81x@bhban.com
-division : iil
-telephone : 010-0785-8707
-sex : female

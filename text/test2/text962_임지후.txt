@@ -1,6 +1,0 @@
-name : 임지후
-age : 45
-e-mail : q7pms9t3@bhban.com
-division : h05
-telephone : 010-7845-0378
-sex : female

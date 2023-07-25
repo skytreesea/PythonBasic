@@ -1,6 +1,0 @@
-name : 조민윤
-age : 13
-e-mail : iu1ylg10@bhban.com
-division : vza
-telephone : 010-0813-7508
-sex : female

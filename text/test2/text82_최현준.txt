@@ -1,6 +1,0 @@
-name : 최현준
-age : 59
-e-mail : lcx3fv19@bhban.com
-division : 4b9
-telephone : 010-0259-9102
-sex : female

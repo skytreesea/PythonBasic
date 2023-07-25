@@ -1,6 +1,0 @@
-name : 박도서
-age : 72
-e-mail : os2g7hup@bhban.com
-division : b1h
-telephone : 010-2272-5722
-sex : female

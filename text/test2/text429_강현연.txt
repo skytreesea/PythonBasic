@@ -1,6 +1,0 @@
-name : 강현연
-age : 27
-e-mail : btns3b0c@bhban.com
-division : m26
-telephone : 010-2827-7628
-sex : female

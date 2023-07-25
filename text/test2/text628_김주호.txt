@@ -1,6 +1,0 @@
-name : 김주호
-age : 96
-e-mail : wdemuzkx@bhban.com
-division : 9qb
-telephone : 010-2496-5724
-sex : male

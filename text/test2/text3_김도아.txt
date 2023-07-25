@@ -1,6 +1,0 @@
-name : 김도아
-age : 92
-e-mail : 8q7bcbfi@bhban.com
-division : ag5
-telephone : 010-6392-2363
-sex : male

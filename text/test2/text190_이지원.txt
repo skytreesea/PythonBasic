@@ -1,6 +1,0 @@
-name : 이지원
-age : 45
-e-mail : alpggxww@bhban.com
-division : 8om
-telephone : 010-8645-8186
-sex : female

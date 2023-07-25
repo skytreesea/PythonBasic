@@ -1,6 +1,0 @@
-name : 장예호
-age : 08
-e-mail : szkvie1t@bhban.com
-division : l14
-telephone : 010-6908-.669
-sex : female

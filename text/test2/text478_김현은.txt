@@ -1,6 +1,0 @@
-name : 김현은
-age : 08
-e-mail : igkhbony@bhban.com
-division : z0w
-telephone : 010-0308-1503
-sex : female

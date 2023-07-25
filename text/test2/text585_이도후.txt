@@ -1,6 +1,0 @@
-name : 이도후
-age : 36
-e-mail : vgrnw6ta@bhban.com
-division : f62
-telephone : 010-2136-2121
-sex : male

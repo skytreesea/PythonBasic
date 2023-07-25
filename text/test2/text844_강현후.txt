@@ -1,6 +1,0 @@
-name : 강현후
-age : 43
-e-mail : xpizyeyy@bhban.com
-division : rqt
-telephone : 010-3743-4137
-sex : male

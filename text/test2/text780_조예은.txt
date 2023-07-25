@@ -1,6 +1,0 @@
-name : 조예은
-age : 88
-e-mail : oaz9yl3l@bhban.com
-division : 5p7
-telephone : 010-1088-8710
-sex : male

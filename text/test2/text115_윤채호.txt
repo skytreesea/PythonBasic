@@ -1,6 +1,0 @@
-name : 윤채호
-age : 56
-e-mail : ydru12ng@bhban.com
-division : zxm
-telephone : 010-5356-1853
-sex : female

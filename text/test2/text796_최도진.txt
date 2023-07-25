@@ -1,6 +1,0 @@
-name : 최도진
-age : 74
-e-mail : q6mwvr4d@bhban.com
-division : eno
-telephone : 010-1174-0011
-sex : male

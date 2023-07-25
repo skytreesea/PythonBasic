@@ -1,6 +1,0 @@
-name : 최현윤
-age : 77
-e-mail : g4aedpse@bhban.com
-division : coq
-telephone : 010-0977-4109
-sex : male

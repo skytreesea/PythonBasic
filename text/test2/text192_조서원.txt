@@ -1,6 +1,0 @@
-name : 조서원
-age : 54
-e-mail : 6ur4bz5a@bhban.com
-division : gzc
-telephone : 010-8654-8386
-sex : male

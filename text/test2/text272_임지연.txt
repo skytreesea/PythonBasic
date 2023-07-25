@@ -1,6 +1,0 @@
-name : 임지연
-age : 95
-e-mail : kzz8zksy@bhban.com
-division : 5d6
-telephone : 010-6995-4869
-sex : male

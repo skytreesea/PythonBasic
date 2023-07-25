@@ -1,6 +1,0 @@
-name : 이민준
-age : 82
-e-mail : f697a73l@bhban.com
-division : cll
-telephone : 010-6782-6067
-sex : female

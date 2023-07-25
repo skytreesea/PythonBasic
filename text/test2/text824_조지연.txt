@@ -1,6 +1,0 @@
-name : 조지연
-age : 08
-e-mail : taz2xh7y@bhban.com
-division : 889
-telephone : 010-0108-2401
-sex : male

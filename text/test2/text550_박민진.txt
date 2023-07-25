@@ -1,6 +1,0 @@
-name : 박민진
-age : 78
-e-mail : fpfrx4r4@bhban.com
-division : 8zg
-telephone : 010-8078-6880
-sex : female

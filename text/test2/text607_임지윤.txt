@@ -1,6 +1,0 @@
-name : 임지윤
-age : 68
-e-mail : ghwkp1n1@bhban.com
-division : bnz
-telephone : 010-9265-4092
-sex : male

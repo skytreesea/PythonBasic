@@ -1,6 +1,0 @@
-name : 장지진
-age : 05
-e-mail : 9xk9wc1p@bhban.com
-division : r7a
-telephone : 010-2705-9927
-sex : male

@@ -1,6 +1,0 @@
-name : 박하진
-age : 97
-e-mail : rkldhsm2@bhban.com
-division : n9i
-telephone : 010-5897-7958
-sex : male

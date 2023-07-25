@@ -1,6 +1,0 @@
-name : 최지진
-age : 58
-e-mail : r0b0gvei@bhban.com
-division : 676
-telephone : 010-8658-0286
-sex : female

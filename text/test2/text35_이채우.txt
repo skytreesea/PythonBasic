@@ -1,6 +1,0 @@
-name : 이채우
-age : 86
-e-mail : l8pnk6tp@bhban.com
-division : mbq
-telephone : 010-6986-5069
-sex : male

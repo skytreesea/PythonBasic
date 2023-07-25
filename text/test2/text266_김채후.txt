@@ -1,6 +1,0 @@
-name : 김채후
-age : 25
-e-mail : dkzz41un@bhban.com
-division : kw4
-telephone : 010-7225-4372
-sex : female

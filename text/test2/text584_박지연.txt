@@ -1,6 +1,0 @@
-name : 박지연
-age : 22
-e-mail : 05573nzt@bhban.com
-division : f5k
-telephone : 010-2122-2021
-sex : female

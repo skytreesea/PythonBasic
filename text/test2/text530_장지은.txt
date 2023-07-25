@@ -1,6 +1,0 @@
-name : 장지은
-age : 78
-e-mail : xrarmfp2@bhban.com
-division : w2v
-telephone : 010-0778-6707
-sex : female

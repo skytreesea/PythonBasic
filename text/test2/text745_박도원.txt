@@ -1,6 +1,0 @@
-name : 박도원
-age : 27
-e-mail : axuuutz5@bhban.com
-division : fou
-telephone : 010-3627-5836
-sex : male

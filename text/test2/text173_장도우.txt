@@ -1,6 +1,0 @@
-name : 장도우
-age : 44
-e-mail : mmo7pcdo@bhban.com
-division : so1
-telephone : 010-8644-6786
-sex : female

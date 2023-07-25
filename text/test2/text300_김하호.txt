@@ -1,6 +1,0 @@
-name : 김하호
-age : 04
-e-mail : 5de01q9r@bhban.com
-division : b0x
-telephone : 010-2404-7024
-sex : male

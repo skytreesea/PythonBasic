@@ -1,6 +1,0 @@
-name : 임지진
-age : 75
-e-mail : owybh28v@bhban.com
-division : 7p4
-telephone : 010-8475-0684
-sex : male

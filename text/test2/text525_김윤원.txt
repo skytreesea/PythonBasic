@@ -1,6 +1,0 @@
-name : 김윤원
-age : 08
-e-mail : sb7acbtl@bhban.com
-division : 1a4
-telephone : 010-6208-.662
-sex : male

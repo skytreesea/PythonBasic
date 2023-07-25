@@ -1,6 +1,0 @@
-name : 임민우
-age : 03
-e-mail : 4uosfk21@bhban.com
-division : d0c
-telephone : 010-2003-2920
-sex : male

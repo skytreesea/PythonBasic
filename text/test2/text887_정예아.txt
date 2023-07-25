@@ -1,6 +1,0 @@
-name : 정예아
-age : 13
-e-mail : zerlo40v@bhban.com
-division : 4f6
-telephone : 010-7013-7570
-sex : male

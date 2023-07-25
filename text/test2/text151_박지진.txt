@@ -1,6 +1,0 @@
-name : 박지진
-age : 11
-e-mail : lz74o9dg@bhban.com
-division : h7d
-telephone : 010-1011-4810
-sex : male

@@ -1,6 +1,0 @@
-name : 최주서
-age : 38
-e-mail : 0ngensxy@bhban.com
-division : 1zt
-telephone : 010-2138-3121
-sex : male

@@ -1,6 +1,0 @@
-name : 최예은
-age : 84
-e-mail : bmaugut6@bhban.com
-division : v7t
-telephone : 010-4684-1246
-sex : male

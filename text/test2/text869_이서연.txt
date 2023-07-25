@@ -1,6 +1,0 @@
-name : 이서연
-age : 96
-e-mail : 1m6a9bgi@bhban.com
-division : 0rq
-telephone : 010-6966-6169
-sex : male

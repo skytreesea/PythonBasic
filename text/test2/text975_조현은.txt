@@ -1,6 +1,0 @@
-name : 조현은
-age : 54
-e-mail : zptackr3@bhban.com
-division : uek
-telephone : 010-7654-4876
-sex : female

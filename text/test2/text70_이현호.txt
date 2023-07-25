@@ -1,6 +1,0 @@
-name : 이현호
-age : 77
-e-mail : hf76uv51@bhban.com
-division : l9w
-telephone : 010-5877-8058
-sex : female

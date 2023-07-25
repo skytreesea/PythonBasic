@@ -1,6 +1,0 @@
-name : 강지후
-age : 47
-e-mail : yhuzzrqv@bhban.com
-division : c00
-telephone : 010-0847-7808
-sex : male

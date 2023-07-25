@@ -1,6 +1,0 @@
-name : 정현원
-age : 79
-e-mail : 9fnftxkx@bhban.com
-division : 3w3
-telephone : 010-0479-7704
-sex : male

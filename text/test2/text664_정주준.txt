@@ -1,6 +1,0 @@
-name : 정주준
-age : 84
-e-mail : vocheat2@bhban.com
-division : 0rv
-telephone : 010-9084-7890
-sex : female

@@ -1,6 +1,0 @@
-name : 이예아
-age : 17
-e-mail : dm04ffnr@bhban.com
-division : kfo
-telephone : 010-0817-8208
-sex : male

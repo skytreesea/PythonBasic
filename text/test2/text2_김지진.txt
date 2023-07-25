@@ -1,6 +1,0 @@
-name : 김지진
-age : 43
-e-mail : vm4fp0kc@bhban.com
-division : ncx
-telephone : 010-6443-2264
-sex : female

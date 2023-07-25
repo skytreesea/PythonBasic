@@ -1,6 +1,0 @@
-name : 김하후
-age : 41
-e-mail : dzuqpkaw@bhban.com
-division : iu2
-telephone : 010-2241-4622
-sex : male

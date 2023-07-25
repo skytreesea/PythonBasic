@@ -1,6 +1,0 @@
-name : 임서우
-age : 14
-e-mail : e4clmfhk@bhban.com
-division : zhz
-telephone : 010-7914-9779
-sex : male

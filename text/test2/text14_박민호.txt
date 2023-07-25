@@ -1,6 +1,0 @@
-name : 박민호
-age : 86
-e-mail : urb3en66@bhban.com
-division : 631
-telephone : 010-0986-3209
-sex : female

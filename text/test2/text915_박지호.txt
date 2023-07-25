@@ -1,6 +1,0 @@
-name : 박지호
-age : 63
-e-mail : mzo2ctta@bhban.com
-division : lk3
-telephone : 010-8563-9885
-sex : female

@@ -1,6 +1,0 @@
-name : 정예아
-age : 68
-e-mail : 2ixd8ode@bhban.com
-division : yh5
-telephone : 010-7768-0577
-sex : female

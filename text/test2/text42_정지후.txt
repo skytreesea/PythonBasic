@@ -1,6 +1,0 @@
-name : 정지후
-age : 48
-e-mail : gd46e8qi@bhban.com
-division : yl6
-telephone : 010-7548-5775
-sex : male

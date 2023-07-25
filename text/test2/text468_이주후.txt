@@ -1,6 +1,0 @@
-name : 이주후
-age : 82
-e-mail : 0katq4df@bhban.com
-division : nmv
-telephone : 010-6782-6067
-sex : female

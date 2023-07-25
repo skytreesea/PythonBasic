@@ -1,6 +1,0 @@
-name : 이서서
-age : 76
-e-mail : tzgrsmmf@bhban.com
-division : g83
-telephone : 010-0976-4709
-sex : male

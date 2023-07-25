@@ -1,6 +1,0 @@
-name : 최지원
-age : 85
-e-mail : dzklzuoq@bhban.com
-division : k9b
-telephone : 010-9085-6890
-sex : female

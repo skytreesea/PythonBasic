@@ -1,6 +1,0 @@
-name : 장하은
-age : 37
-e-mail : n6q4z5uv@bhban.com
-division : zyn
-telephone : 010-9537-2295
-sex : female

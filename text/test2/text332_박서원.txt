@@ -1,6 +1,0 @@
-name : 박서원
-age : 34
-e-mail : nw8ilxxf@bhban.com
-division : 2cg
-telephone : 010-9234-9692
-sex : female

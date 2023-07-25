@@ -1,6 +1,0 @@
-name : 정채우
-age : 67
-e-mail : l0p0p4fy@bhban.com
-division : 98c
-telephone : 010-7467-3374
-sex : female

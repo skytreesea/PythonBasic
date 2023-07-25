@@ -1,6 +1,0 @@
-name : 조채진
-age : 85
-e-mail : 3q0czgsf@bhban.com
-division : yf6
-telephone : 010-0985-4009
-sex : female

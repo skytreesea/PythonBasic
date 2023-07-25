@@ -1,6 +1,0 @@
-name : 조윤원
-age : 91
-e-mail : ud4dzrzw@bhban.com
-division : wh4
-telephone : 010-5691-7656
-sex : female

@@ -1,6 +1,0 @@
-name : 장하원
-age : 47
-e-mail : g5sa89g5@bhban.com
-division : ook
-telephone : 010-7747-6977
-sex : male

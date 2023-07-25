@@ -1,6 +1,0 @@
-name : 김지아
-age : 54
-e-mail : 90lrnlm8@bhban.com
-division : 0rm
-telephone : 010-0754-4007
-sex : female

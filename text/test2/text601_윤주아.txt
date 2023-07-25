@@ -1,6 +1,0 @@
-name : 윤주아
-age : 06
-e-mail : a1tm2dl5@bhban.com
-division : yll
-telephone : 010-3206-3532
-sex : female

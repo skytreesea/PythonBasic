@@ -1,6 +1,0 @@
-name : 이예준
-age : 61
-e-mail : z6l75l2b@bhban.com
-division : 4od
-telephone : 010-8661-8286
-sex : female

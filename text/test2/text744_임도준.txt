@@ -1,6 +1,0 @@
-name : 임도준
-age : 66
-e-mail : 64i0cndf@bhban.com
-division : dyp
-telephone : 010-7366-8573
-sex : female

@@ -1,6 +1,0 @@
-name : 정윤우
-age : 37
-e-mail : d9d8ghel@bhban.com
-division : m1l
-telephone : 010-2137-2621
-sex : female

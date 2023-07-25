@@ -1,6 +1,0 @@
-name : 강주원
-age : 46
-e-mail : h5dbrvzx@bhban.com
-division : o5u
-telephone : 010-5146-4151
-sex : male

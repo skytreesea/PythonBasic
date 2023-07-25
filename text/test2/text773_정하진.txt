@@ -1,6 +1,0 @@
-name : 정하진
-age : 16
-e-mail : 5w9yestw@bhban.com
-division : 5ve
-telephone : 010-1116-8811
-sex : female

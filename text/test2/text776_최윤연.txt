@@ -1,6 +1,0 @@
-name : 최윤연
-age : 76
-e-mail : v910qrsf@bhban.com
-division : 8zb
-telephone : 010-1076-8410
-sex : female

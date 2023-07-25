@@ -1,6 +1,0 @@
-name : 최하서
-age : 28
-e-mail : co35ol1f@bhban.com
-division : bs8
-telephone : 010-2728-7827
-sex : male

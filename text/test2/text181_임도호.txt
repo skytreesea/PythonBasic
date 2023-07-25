@@ -1,6 +1,0 @@
-name : 임도호
-age : 34
-e-mail : zl0a99v1@bhban.com
-division : oiz
-telephone : 010-8634-7486
-sex : male

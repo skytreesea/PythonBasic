@@ -1,6 +1,0 @@
-name : 김윤윤
-age : 23
-e-mail : 8upbmnxp@bhban.com
-division : 5bd
-telephone : 010-8123-6281
-sex : male

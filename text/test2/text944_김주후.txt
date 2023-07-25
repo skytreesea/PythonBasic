@@ -1,6 +1,0 @@
-name : 김주후
-age : 78
-e-mail : 8v45b7mw@bhban.com
-division : mi8
-telephone : 010-1178-2311
-sex : male

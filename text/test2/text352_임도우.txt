@@ -1,6 +1,0 @@
-name : 임도우
-age : 94
-e-mail : xyyco5hz@bhban.com
-division : zxi
-telephone : 010-8694-1286
-sex : female

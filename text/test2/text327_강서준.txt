@@ -1,6 +1,0 @@
-name : 강서준
-age : 12
-e-mail : vca8z7tk@bhban.com
-division : gg7
-telephone : 010-2912-4929
-sex : male

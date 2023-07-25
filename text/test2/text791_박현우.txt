@@ -1,6 +1,0 @@
-name : 박현우
-age : 65
-e-mail : asna4ufd@bhban.com
-division : 691
-telephone : 010-1165-9611
-sex : male

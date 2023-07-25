@@ -1,6 +1,0 @@
-name : 최채우
-age : 12
-e-mail : 0wbwhp3l@bhban.com
-division : hrt
-telephone : 010-6012-3060
-sex : female

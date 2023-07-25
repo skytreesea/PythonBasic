@@ -1,6 +1,0 @@
-name : 장윤은
-age : 34
-e-mail : m6kvzwf3@bhban.com
-division : rwi
-telephone : 010-2434-6124
-sex : male

@@ -1,6 +1,0 @@
-name : 강윤원
-age : 85
-e-mail : klhex7ge@bhban.com
-division : l1n
-telephone : 010-2285-4322
-sex : female

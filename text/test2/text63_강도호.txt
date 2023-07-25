@@ -1,6 +1,0 @@
-name : 강도호
-age : 53
-e-mail : hm2g5cz8@bhban.com
-division : 247
-telephone : 010-7753-7477
-sex : male

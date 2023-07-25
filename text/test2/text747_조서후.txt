@@ -1,6 +1,0 @@
-name : 조서후
-age : 09
-e-mail : fmnzcfzb@bhban.com
-division : 9q6
-telephone : 010-3609-6036
-sex : female

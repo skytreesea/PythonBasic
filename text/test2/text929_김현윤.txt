@@ -1,6 +1,0 @@
-name : 김현윤
-age : 99
-e-mail : raq7xyh3@bhban.com
-division : 3zi
-telephone : 010-0899-1008
-sex : female

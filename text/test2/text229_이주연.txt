@@ -1,6 +1,0 @@
-name : 이주연
-age : 05
-e-mail : k5kn1rov@bhban.com
-division : zs0
-telephone : 010-3905-4139
-sex : female

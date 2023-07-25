@@ -1,6 +1,0 @@
-name : 강현후
-age : 78
-e-mail : kts89agb@bhban.com
-division : 6y1
-telephone : 010-0978-6109
-sex : male

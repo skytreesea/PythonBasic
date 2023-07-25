@@ -1,6 +1,0 @@
-name : 윤윤은
-age : 14
-e-mail : c8rekad4@bhban.com
-division : 8gl
-telephone : 010-0514-1705
-sex : female

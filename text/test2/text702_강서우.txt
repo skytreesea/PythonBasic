@@ -1,6 +1,0 @@
-name : 강서우
-age : 66
-e-mail : 4tikmvpb@bhban.com
-division : 4nf
-telephone : 010-8966-2189
-sex : female

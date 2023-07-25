@@ -1,6 +1,0 @@
-name : 박지준
-age : 64
-e-mail : yukbprop@bhban.com
-division : vzb
-telephone : 010-8364-8683
-sex : male

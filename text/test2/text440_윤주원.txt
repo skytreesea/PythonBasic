@@ -1,6 +1,0 @@
-name : 윤주원
-age : 46
-e-mail : rttvvo16@bhban.com
-division : i0f
-telephone : 010-4646-5846
-sex : male

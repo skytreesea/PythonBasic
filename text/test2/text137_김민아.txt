@@ -1,6 +1,0 @@
-name : 김민아
-age : 97
-e-mail : 30u3iq6p@bhban.com
-division : ckx
-telephone : 010-0997-3509
-sex : female

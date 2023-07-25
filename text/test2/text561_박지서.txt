@@ -1,6 +1,0 @@
-name : 박지서
-age : 48
-e-mail : v16gbfgg@bhban.com
-division : fx1
-telephone : 010-0948-9809
-sex : female

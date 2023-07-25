@@ -1,6 +1,0 @@
-name : 임하서
-age : 23
-e-mail : zr515czw@bhban.com
-division : hd8
-telephone : 010-2523-6225
-sex : male

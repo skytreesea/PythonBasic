@@ -1,6 +1,0 @@
-name : 정하원
-age : 33
-e-mail : cfwz15bo@bhban.com
-division : gho
-telephone : 010-0133-0001
-sex : male

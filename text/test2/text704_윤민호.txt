@@ -1,6 +1,0 @@
-name : 윤민호
-age : 19
-e-mail : s4mxmety@bhban.com
-division : 992
-telephone : 010-3919-8239
-sex : male

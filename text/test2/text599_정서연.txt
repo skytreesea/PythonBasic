@@ -1,6 +1,0 @@
-name : 정서연
-age : 87
-e-mail : wzouo8ga@bhban.com
-division : c2z
-telephone : 010-2987-3429
-sex : female

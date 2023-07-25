@@ -1,6 +1,0 @@
-name : 장예진
-age : 66
-e-mail : fby7nn82@bhban.com
-division : d1b
-telephone : 010-4662-1646
-sex : male

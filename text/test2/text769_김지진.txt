@@ -1,6 +1,0 @@
-name : 김지진
-age : 98
-e-mail : zboo41yk@bhban.com
-division : z0e
-telephone : 010-0998-7709
-sex : female

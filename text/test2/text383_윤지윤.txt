@@ -1,6 +1,0 @@
-name : 윤지윤
-age : 23
-e-mail : 287h6rae@bhban.com
-division : 1nb
-telephone : 010-3623-3736
-sex : male
