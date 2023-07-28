@@ -31,3 +31,5 @@ print(new_a.shape)
 print(new_a[0].mean())
 print(new_a[1].mean())
 print(new_a[1].sum())
+
+ 

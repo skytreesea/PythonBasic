@@ -26,11 +26,10 @@ def soupMaker(url):
     
 for i in soupMaker(url).find_all('items'):
     total = []
-    total.append(i.select('basdt'))
-    total.append(i.select('itmsnm'))
+    total.append(i.select('basdt')) #날짜
+    total.append(i.select('itmsnm')) #종목명
     total.append(i.select('mrktctg'))
-    total.append(i.select('mkp'))
-
+    total.append(i.select('mkp')) #시장가
 
 for i in range(50):
     print(total[0][i].text, '\t', total[1][i].text, '\t', total[2][i].text, '\t',add_commas(total[3][i].text))
