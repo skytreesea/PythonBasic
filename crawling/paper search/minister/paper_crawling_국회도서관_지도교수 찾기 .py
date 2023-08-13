@@ -21,10 +21,8 @@ try:
         if 'KDMT' in recode_text:
         # Attempt to decode and print the content without problematic characters
             result = recode_text.encode('utf-8', errors='ignore').decode('utf-8')
-            result
-            print(re.findall('KDMT.+?\/',result)[0])
-            print(re.findall('논문명.+?\/',result)[0])
-            print(re.findall('지도교수.+?저자명',result)[0][:-3])
+            print(result)
+
             
 except UnicodeEncodeError:
     print("UnicodeEncodeError occurred, but it's handled.")
