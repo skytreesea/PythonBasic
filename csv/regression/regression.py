@@ -21,6 +21,11 @@ def regression(indep, dep):
     # 0행과 1행 삭제
     r_squared = model.score(x, y)
     # 결과값 출력
-    print(f"독립변수: {indep} 종속변수: {dep}\n변동계수: {model.coef_[0][0]} 절편:{model.intercept_[0]}, r제곱: {r_squared}")
+    print(f"독립변수: {indep} ***종속변수: {dep}***\n변동계수: {round(model.coef_[0][0],2)} 절편:{round(model.intercept_[0],2)}, r제곱: {round(r_squared,2)}")
     
-regression('연도', '농산물 물량(kg/인)_1')
+variables = [ '농산물 물량(톤)', '농산물 금액(억원)', '수산물 물량(톤)',
+       '수산물 금액(억원)', '대구', '영남권', '농산물 물량(kg/인)', '농산물 금액(원/인)',
+       '수산물 물량(kg/인)', '수산물 금액(원/인)', '농산물 물량(kg/인)_1', '농산물 금액(원/인)_2',
+       '수산물 물량(kg/인)_3', '수산물 금액(원/인)_4']
+for i in variables:
+    regression('연도', i)
