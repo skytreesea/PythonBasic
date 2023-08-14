@@ -1,11 +1,4 @@
 import pandas as pd
-<<<<<<< HEAD
-df = pd.read_csv(r'C:\Users\user\Documents\PythonBasic\apt_23007.csv', encoding='cp949')
-
-df[(df['단지명'].str.contains('봉천우성') == True)].mean()
-
-df[(df['시군구'].str.contains('강남구') == True) and (df[r'전용면적(㎡)'] >  50)].groupby(r'전용면적(㎡)').mean()
-=======
 import matplotlib.pyplot as plt
 path = r"C:\Users\skytr\Documents\GitHub\PythonBasic\csv\apt_2308.csv"
 df = pd.read_csv(path, thousands=',')
@@ -28,4 +21,3 @@ print(df[(df['시군구'].str.contains(sigungu))&(df['전용면적(㎡)'] > down
 # 람다를 활용하여 정수로 바로 바꾸기   
 
  
->>>>>>> 8662ae06929cceebcb01c5143d9467ad1ff6a1c1
