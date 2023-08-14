@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests 
 import re
 # 국회 도서관 자료를 이용
-Name = "김창현"
+Name = "윤세찬"
 
 headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
 #국회도서관 api 키를 공공데이터서비스에서 받아서 사용 중(아직까지 트래픽 이슈는 없음)
@@ -11,12 +11,6 @@ url = 'https://apis.data.go.kr/9720000/searchservice/basic?serviceKey=7JlKxM7fEb
 urls = []
 soup = BeautifulSoup(requests.get(url, verify=False, headers = headers).text, 'lxml')
  
-dataset = [i.find('value').text for i in soup.find_all("item") ] 
-
-for i in dataset[:10]:
-    if re.search('[각-힣]+ [각-힣]+', i):
-        print (i)
-    else:
-        pass
+print(soup.select('item')[:10])
  
  

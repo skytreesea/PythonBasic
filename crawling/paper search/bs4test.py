@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests, re, json
 
 # Riss를 get 방식으로 데이터를 넣은 다음 출력값에서 원하는 데이터를 추출
-name = '김용창'
+name = '김창현'
 school = '서울대'
 yearGraduate = '2009' 
  
@@ -28,6 +28,6 @@ new  = papers(url)
 data = json.dumps(new).encode().decode('unicode_escape')
 
 # json 파일로 저장, 웹으로 저장 서툴러서
-with open(r"C:\Users\ERC\Documents\GitHub\PythonBasic\crawling\paper search\web_paper.json", 'w', encoding="UTF-8") as file:
+with open(r"C:\Users\skytr\OneDrive\문서\김창현\책\파이썬 생활프로그래밍\testcode\web_paper.json", 'w', encoding="UTF-8") as file:
     json.dump(data, file, indent="\t", ensure_ascii=False) 
     
