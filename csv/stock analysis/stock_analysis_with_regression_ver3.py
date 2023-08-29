@@ -64,7 +64,7 @@ def show_a_stock(stock_name):
 prev_columns = [col for col in df.columns[1:] if 'Prev' in col]
 non_prev_columns = [col for col in df.columns[1:] if 'Prev' not in col]
 
-
+show_a_stock('SOXS')
 # 회귀분석식 
 # for i in prev_columns:
 #     for j in non_prev_columns:

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 r = lambda  x : x.astype(float)
 major_index = ('Date', 'Prev_ror_x','ror_day_x','Prev_Close_x','Open_x','Close_x','rate_of_return_x')
 def create_df(name_of_stock):
-    df = pd.read_csv(r"C:\Users\skytr\OneDrive\문서\PythonBasic\csv\stock analysis\\" + name_of_stock+".csv")
+    df = pd.read_csv(r"C:\Users\skytr\OneDrive\문서\PythonBasic\csv\stock analysis\stocks\\" + name_of_stock+".csv")
     x = r(df['Open'])
     y = r(df['Close'])
     df['rate_of_return'] = (y - x)*100/x
