@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import csv, os 
-os.chdir(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw')
+os.chdir(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw\가공전')
 csvs = os.listdir()
 
 def opencsv(filename):
@@ -19,7 +19,8 @@ def writecsv(filename, the_list):
 
 for i in csvs:
     try:
-        total = opencsv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw\가공전\\' + i )
+        print(i)
+        total = opencsv( i )
         total = total[15:]
         print(total[:5])
         writecsv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw\가공후\\'+i, total )

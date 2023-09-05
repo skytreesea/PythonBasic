@@ -20,4 +20,4 @@ for file_name in file_names:
         merged_df = pd.concat([merged_df, temp_df])
 
 # 결과 DataFrame 확인
-print(merged_df)  
+merged_df.to_csv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw\merged_v1.csv', encoding = 'utf-8-sig')
