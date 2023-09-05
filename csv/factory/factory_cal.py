@@ -1,33 +1,39 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import usecsv
 from scipy import stats
-df = pd.read_csv(r'C:\Users\skytr\OneDrive\문서\PythonBasic\csv\factory\factory_test.csv', thousands=',')
-df['전용면적당거래금액'] = df['거래금액(만원)']/df[ '전용/연면적(㎡)']
+df = pd.read_csv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\raw\공장2308.csv', thousands=',')
+base_url = r"C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\factory_test"
+df['대지면적당거래금액'] = df['거래금액(만원)']/df[ '대지면적(㎡)']
 df['용적률'] = df['전용/연면적(㎡)']/df[ '대지면적(㎡)']
 print(df.columns)
 print(df.value_counts('유형'))
 print(df.value_counts('용도지역'))
 print(df.value_counts('건축물주용도'))
-print(df.groupby(by = '건축물주용도')['거래금액(만원)'].mean())
-print(df.groupby(by = '건축물주용도')['전용면적당거래금액'].mean())
-df.groupby(by = '용도지역')['전용면적당거래금액'].describe().to_clipboard()
-# 전체 상위 5개 출력
-df2 = df.sort_values(by = '전용면적당거래금액', ascending = False).loc[:5,('시군구','도로조건','건축물주용도','용도지역','전용/연면적(㎡)', '대지면적(㎡)', '거래금액(만원)', '전용면적당거래금액','용적률')]
+df.groupby(by = '건축물주용도')['거래금액(만원)'].describe().to_csv(base_url + r'\건축물주용도_거래금액.csv', encoding = 'utf=8-sig')
+df.groupby(by = '건축물주용도')['대지면적당거래금액'].describe().to_csv(base_url + r'\건축물주용도_대지면적당거래금액.csv', encoding = 'utf=8-sig')
+df.groupby(by = '도로조건')['대지면적당거래금액'].describe().to_csv(base_url + r'\도로조건_대지면적당거래금액.csv', encoding = 'utf=8-sig')
+df.groupby(by = '용도지역')['대지면적당거래금액'].describe().to_csv(base_url + r'\test_v1.csv', encoding = 'utf=8-sig')
+df.describe().to_csv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\factory_test\전체_describe.csv', encoding = 'utf=8-sig')
+ # 전체 상위 5개 출력
+df2 = df.sort_values(by = '대지면적당거래금액', ascending = False).loc[:5,('시군구','도로조건','건축물주용도','용도지역','전용/연면적(㎡)', '대지면적(㎡)', '거래금액(만원)', '대지면적당거래금액','용적률')]
 # 상위 5개 제외
-df3 = df.sort_values(by = '전용면적당거래금액', ascending = False).loc[5:,('시군구','도로조건','건축물주용도','용도지역','전용/연면적(㎡)', '대지면적(㎡)', '거래금액(만원)', '전용면적당거래금액','용적률')]
+df3 = df.sort_values(by = '대지면적당거래금액', ascending = False).loc[5:,('시군구','도로조건','건축물주용도','용도지역','전용/연면적(㎡)', '대지면적(㎡)', '거래금액(만원)', '대지면적당거래금액','용적률')]
 
-# print(df2.corr())
+df2['용적률'].describe().to_csv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\factory_test\용적률test_v1.csv', encoding = 'utf=8-sig')
 
-print(df2['용적률'].describe())
-x = df3['용적률'] 
-y = df3['전용면적당거래금액']  
-print(df2.describe())
-result = df.pivot_table(values= '전용면적당거래금액', index='용도지역', columns='건축물주용도', aggfunc='mean')
+result = df.pivot_table(values= '대지면적당거래금액', index='도로조건', columns='건축물주용도', aggfunc='mean')
 print(result)
-result.to_clipboard()
+result.to_csv(r'C:\Users\skytr\OneDrive\문서\김창현\긱스퍼트\공장\factory_test\도로조건_건축물주용도_대지면적당거래금액_v1.csv', encoding = 'utf=8-sig')
+
+
+# x = df3['용적률'] 
+# y = df3['대지면적당거래금액']  
 # plt.plot(x,y,'o')
 # plt.show()
 
+# 특정지역
+# df[df['시군구'].str.contains('동산동')].to_clipboard() 
 '''
 correlation_values = {}
 for col1 in df.columns:
